@@ -13,18 +13,16 @@ import kotlin.reflect.KClass
 
 const val NUM_EXAM = "exam_num"
 
-fun loadExams(context: Context?): List<Exam> {
+fun loadExams(context: Context): List<Exam> {
   val examsList = arrayListOf<Exam>()
-  if (context != null) {
-    examsList.add(XMLParser.parseExamen(context, "Exam1.json"))
-    examsList.add(XMLParser.parseExamen(context, "Exam2.json"))
-    examsList.add(XMLParser.parseExamen(context, "Exam3.json"))
-    examsList.add(XMLParser.parseExamen(context, "Exam4.json"))
-  }
+  examsList.add(XMLParser.parseExamen(context, "Exam1.json"))
+  examsList.add(XMLParser.parseExamen(context, "Exam2.json"))
+  examsList.add(XMLParser.parseExamen(context, "Exam3.json"))
+  examsList.add(XMLParser.parseExamen(context, "Exam4.json"))
   return examsList
 }
 
-fun loadExam(context: Context?, pos: Int): Exam? {
+fun loadExam(context: Context, pos: Int): Exam? {
   return loadExams(context)[pos]
 }
 
@@ -49,7 +47,6 @@ fun Intent.addExtra(key: String, value: Any?) {
     is Double -> putExtra(key, value)
     is Int -> putExtra(key, value)
     is Parcelable -> putExtra(key, value)
-    //Add other types when needed
   }
 }
 

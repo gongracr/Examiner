@@ -1,22 +1,28 @@
-package com.rudedroiddevs.examiner
+package com.rudedroiddevs.examiner.examScreen.view
 
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.rudedroiddevs.examiner.R
 import com.rudedroiddevs.examiner.base.view.BaseActivity
+import com.rudedroiddevs.examiner.examScreen.dagger.DaggerExamScreenComponent
 import com.rudedroiddevs.examiner.examScreen.dagger.ExamScreenModule
-import com.rudedroiddevs.examiner.examScreen.view.ExamScreenView
+import com.rudedroiddevs.examiner.examScreen.presenter.ExamPresenter
 import com.rudedroiddevs.examiner.pojomodel.Exam
 import com.rudedroiddevs.examiner.utils.NUM_EXAM
 import com.rudedroiddevs.examiner.utils.getExtra
 import com.rudedroiddevs.examiner.utils.loadExam
 import kotlinx.android.synthetic.main.activity_exam_questions.*
+import javax.inject.Inject
 
 class ExamActivity : BaseActivity(), ExamScreenView {
 
+  @Inject
+  lateinit var presenter: ExamPresenter
+
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
-    val examPos: Int = getExtra(NUM_EXAM) ?: 0
-    val exam: Exam? = loadExam(applicationContext, examPos)
+    val examPos = getExtra(NUM_EXAM) ?: 0
+    val exam = loadExam(applicationContext, examPos)
     setContentView(R.layout.activity_exam_questions)
     injectDependencies()
     questionsRecyclerView.layoutManager = LinearLayoutManager(this)
@@ -25,9 +31,9 @@ class ExamActivity : BaseActivity(), ExamScreenView {
   }
 
   private fun injectDependencies() {
-    DaggerMainScreenComponent.builder()
+    DaggerExamScreenComponent.builder()
         .applicationComponent(applicationComponent)
-        .mainScreenModule(ExamScreenModule(this))
+        .examScreenModule(ExamScreenModule(this))
         .build()
         .inject(this)
   }
