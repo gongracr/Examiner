@@ -15,8 +15,7 @@ class ExamsListScreenModule(private val examsListScreenView: ExamsListScreenView
 
   @ActivityScope
   @Provides
-  fun providesExamsListScreenView()
-      : ExamsListScreenView = examsListScreenView
+  fun providesExamsListScreenView(): ExamsListScreenView = examsListScreenView
 
   @ActivityScope
   @Provides

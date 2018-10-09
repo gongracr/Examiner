@@ -8,13 +8,13 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentPagerAdapter
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.rudedroiddevs.examiner.ExamActivity
 import com.rudedroiddevs.examiner.R
 import com.rudedroiddevs.examiner.base.view.BaseActivity
-import com.rudedroiddevs.examiner.examScreen.presenter.ExamPresenter
-import com.rudedroiddevs.examiner.examScreen.presenter.ExamPresenterImpl
+import com.rudedroiddevs.examiner.examScreen.view.ExamActivity
+import com.rudedroiddevs.examiner.examsListScreen.dagger.DaggerExamsListScreenComponent
 import com.rudedroiddevs.examiner.examsListScreen.dagger.ExamsListScreenModule
 import com.rudedroiddevs.examiner.examsListScreen.model.ExamsListModel
+import com.rudedroiddevs.examiner.examsListScreen.presenter.ExamsListPresenter
 import com.rudedroiddevs.examiner.utils.NUM_EXAM
 import com.rudedroiddevs.examiner.utils.gotoActivity
 import kotlinx.android.synthetic.main.activity_exams_list.*
@@ -23,18 +23,10 @@ import javax.inject.Inject
 
 class ExamsListActivity : BaseActivity(), ExamsListScreenView {
 
-  /**
-   * The [android.support.v4.view.PagerAdapter] that will provide
-   * fragments for each of the sections. We use a
-   * {@link FragmentPagerAdapter} derivative, which will keep every
-   * loaded fragment in memory. If this becomes too memory intensive, it
-   * may be best to switch to a
-   * [android.support.v4.app.FragmentStatePagerAdapter].
-   */
-  private var mSectionsPagerAdapter: SectionsPagerAdapter? = null
-
   @Inject
-  lateinit var presenter: ExamPresenterImpl
+  lateinit var presenter: ExamsListPresenter
+
+  private var mSectionsPagerAdapter: SectionsPagerAdapter? = null
 
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
@@ -56,31 +48,34 @@ class ExamsListActivity : BaseActivity(), ExamsListScreenView {
     presenter.viewDestroyed()
   }
 
-  /**
-   * A [FragmentPagerAdapter] that returns a fragment corresponding to
-   * one of the sections/tabs/pages.
-   */
-  inner class SectionsPagerAdapter(fm: FragmentManager) : FragmentPagerAdapter(
-      fm) {
+  inner class SectionsPagerAdapter(fm: FragmentManager) : FragmentPagerAdapter(fm) {
 
     override fun getItem(position: Int): PlaceholderFragment {
-      // getItem is called to instantiate the fragment for the given page.
-      // Return a PlaceholderFragment (defined as a static inner class below).
-      return PlaceholderFragment.newInstance(
-          position + 1)
+      return PlaceholderFragment.newInstance(position + 1)
     }
 
     override fun getCount(): Int {
-      // Show 3 total pages.
       return 1
     }
   }
 
-  /**
-   * A placeholder fragment containing a simple view.
-   */
   class PlaceholderFragment : Fragment() {
+
+    companion object {
+      private const val ARG_SECTION_NUMBER = "section_number"
+
+      fun newInstance(sectionNumber: Int): PlaceholderFragment {
+        val fragment = PlaceholderFragment()
+        val args = Bundle()
+        args.putInt(
+            ARG_SECTION_NUMBER, sectionNumber)
+        fragment.arguments = args
+        return fragment
+      }
+    }
+
     var fragmentPos = -1
+
     lateinit var examsAdapter: ExamsRecyclerAdapter
 
     private lateinit var linearLayoutManager: LinearLayoutManager
@@ -100,41 +95,18 @@ class ExamsListActivity : BaseActivity(), ExamsListScreenView {
       view?.recyclerView?.layoutManager = linearLayoutManager
       return rootView
     }
-
-    companion object {
-      /**
-       * The fragment argument representing the section number for this
-       * fragment.
-       */
-      private val ARG_SECTION_NUMBER = "section_number"
-
-      /**
-       * Returns a new instance of this fragment for the given section
-       * number.
-       */
-      fun newInstance(sectionNumber: Int): PlaceholderFragment {
-        val fragment = PlaceholderFragment()
-        val args = Bundle()
-        args.putInt(
-            ARG_SECTION_NUMBER, sectionNumber)
-        fragment.arguments = args
-        return fragment
-      }
-    }
   }
 
   private fun injectDependencies() {
-    DaggerMainScreenComponent.builder()
+    DaggerExamsListScreenComponent.builder()
         .applicationComponent(applicationComponent)
-        .mainScreenModule(ExamsListScreenModule(this))
+        .examsListScreenModule(ExamsListScreenModule(this))
         .build()
         .inject(this)
   }
 
   override fun displayExamListModel(examsListModel: ExamsListModel) {
     mSectionsPagerAdapter = SectionsPagerAdapter(supportFragmentManager)
-
-    // Set up the ViewPager with the sections adapter.
     container.adapter = mSectionsPagerAdapter
     val placeholderFragment = mSectionsPagerAdapter?.getItem(0)
     placeholderFragment?.examsAdapter?.examTitles = examsListModel.examsTitles

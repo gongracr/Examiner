@@ -1,11 +1,12 @@
-package com.rudedroiddevs.examiner
+package com.rudedroiddevs.examiner.examScreen.view
 
 import android.util.Log
 import android.view.View
 import android.view.ViewGroup
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.rudedroiddevs.examiner.QuestionsRecyclerAdapter.QuestionHolder
+import com.rudedroiddevs.examiner.R
+import com.rudedroiddevs.examiner.examScreen.view.QuestionsRecyclerAdapter.QuestionHolder
 import com.rudedroiddevs.examiner.pojomodel.Exam
 import com.rudedroiddevs.examiner.utils.inflate
 import kotlinx.android.synthetic.main.question_recyclerview_item_row.view.*
@@ -18,7 +19,8 @@ class QuestionsRecyclerAdapter(private val exam: Exam?) :
   }
 
   override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): QuestionHolder {
-    val inflatedView = parent.inflate(R.layout.question_recyclerview_item_row, false)
+    val inflatedView = parent.inflate(
+        R.layout.question_recyclerview_item_row, false)
     return QuestionHolder(inflatedView)
   }
 
