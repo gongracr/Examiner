@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Examiner</string>
+  <string name="tab_text_1">Derecho</string>
+  <string name="tab_text_2">Especificas</string>
+  <string name="tab_text_3">Valencia</string>
+  <string name="action_settings">Settings</string>
+  <string name="section_format">Tipo de exámenes: %1$d</string>
+</resources>

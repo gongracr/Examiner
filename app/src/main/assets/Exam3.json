@@ -1,0 +1,485 @@
+{
+  "examName": "Beca Junio",
+  "questionsList": [
+    {
+      "questionTxt": "La distancia al suelo bajo los ejes (h), es la distancia determinada por la máxima altura del cuadrilátero cuya base esté en el plano horizontal de contacto con el suelo, y sea la distancia entre las ruedas más interiores de un eje, y su lado superior sea la parte rígida más baja del vehículo que queda entre las ruedas y a una distancia de (…) a ambos lados del eje vertical del vehículo, cuando éste está con su MTC:",
+      "a": "30 cm",
+      "b": "0,2 m",
+      "c": "200 mm",
+      "d": "0,3 cm",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "A tenor de lo dispuesto en la norma UNE-EN 1846-2, el ángulo de vuelco mínimo exigido a un vehículo de clase Superior y de categoría Urbano es de:",
+      "a": "≥25",
+      "b": "≥32",
+      "c": "≥27",
+      "d": "≥17",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "En cuanto a la estabilidad estática (ángulos de vuelco estático), los vehículos de categorías 2 y 3 equipadas con depósitos para transportar líquidos para la extinción de incendios, se realizarán ensayos adicionales con el depósito cargado a:",
+      "a": "Un tercio de su capacidad",
+      "b": "Un 80% de su capacidad",
+      "c": "La mitad de su capacidad",
+      "d": "Ninguna es correcta",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "La capacidad ascensional de un vehículo contra incendios rural (categoría 2), de masa M, será:",
+      "a": "≥27",
+      "b": "≥25",
+      "c": "≥32",
+      "d": "Ninguna de las respuestas anteriores es correcta",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "El compartimento de la dotación debe cumplir las dimensiones mínimas exigidas por la norma UNE-EN 1846-2. No obstante esos valores se pueden reducir, para vehículos de clase L, en un:",
+      "a": "0.05",
+      "b": 0.1,
+      "c": 0.15,
+      "d": "No se pueden reducir esos valores ya que consideran como mínimos",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "Respecto del diseño del techo y las plataformas de trabajo con fines de acceso (UNE-EN 1846-2), toda plataforma de trabajo que se encuentre a más de 1m por encima del nivel del suelo debe disponer de una barra con una altura mínima de:",
+      "a": "90 cm",
+      "b": "1 metro",
+      "c": "1,1 metros",
+      "d": "60 cm",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "Según lo dispuesto en la norma UNE-EN 1846-2 para la iluminación, se debe prever, excepto para los vehículos equipados con sistemas de iluminación desmontables, de una iluminación de al menos 5 lx…",
+      "a": "Medida a nivel del suelo, alrededor de todo el vehículo, sobre una distancia de 0,75 m a partir de 0,25 m de los lados y la parte posterior del vehículo",
+      "b": "Medida a nivel del suelo, alrededor de todo el vehículo, sobre una distancia de 0,75 m de los lados y la parte posterior del vehículo",
+      "c": "Medida a nivel del suelo, alrededor de todo el vehículo con excepción de la cabina, sobre una distancia de 0,75 m de los lados y la parte posterior del vehículo",
+      "d": "Ninguna es correcta",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "A tenor de lo dispuesto en la norma UNE-EN 1846-2, los vehículos deben estar equipados con un dispositivo de remolque en su parte delantera y otro en su parte trasera. Éstos dispositivos deben tener la resistencia suficiente para permitir que el vehículo sea remolcado por carretera con su:",
+      "a": "MTC (Masa Total en Carga)",
+      "b": "MTCA (Masa Total en Carga Autorizada)",
+      "c": "Masa en Vacío",
+      "d": "Ninguna de las respuestas anteriores es cierta",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "El ángulo de rampa que debe cumplir un vehículo de clase M y categoría 1, es (UNE-EN 1846-2):",
+      "a": "≥18",
+      "b": "≥23",
+      "c": "≥25 ",
+      "d": "Ninguna de las respuestas anteriores son correctas",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "Respecto de las prestaciones dinámicas de un vehículo contra incendios según lo dispuesto en la norma UNE-EN 1846, el diámetro de giro entre muros (D) de un vehículo de clase Superior y Categoría 1, con 3 ejes, será de:",
+      "a": "≤19",
+      "b": "≤21",
+      "c": "Se deberá acordar entre el fabricante y el usuario",
+      "d": "≤17",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "El sistema de frenado de los vehículos equipados con frenos neumáticos debe estar diseñado de manera que sin alimentación externa de aire y con los depósitos de aire principales vacíos, el aviso de presión insuficiente deje de funcionar en los (UNE-EN 1846-2):",
+      "a": "25 segundos",
+      "b": "45 segundos",
+      "c": "60 segundos",
+      "d": "30 segundos",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "Para bombas de agua con una presión nominal Pn que excedan de 20 bar, la temperatura del agua en la bomba no excederá de (UNE-EN 1846-3):",
+      "a": "  +  80ºc",
+      "b": " + 60ºC ",
+      "c": " +50ºC",
+      "d": " +70º C",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "Las conexiones finales de toma y suministro debe tener un ángulo descendente de 10º a 30º cuando sean más altas de:",
+      "a": "0,5 m desde la superficie de apoyo del operador",
+      "b": "0,6 m desde la superficie de apoyo del operador",
+      "c": "0,7 m desde la superficie de apoyo del operador",
+      "d": "Ninguna es cierta",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "Respecto de la bomba de agua instalada en los vehículos contra incendios, marque la opción correcta en cuanto al dispositivo de cebado (UNE-EN 1846-3):",
+      "a": "Para una bomba FPN 10 – 1500, el tiempo de cebado será inferior o igual a 30 segundos",
+      "b": "El dispositivo de cebado debe obtener el rendimiento requerido a 7 m de altura",
+      "c": "La longitud de manguera de aspiración será lo más larga posible",
+      "d": "Todas son correctas",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "La red COMDES se basa en el modelo de gestión:",
+      "a": "TETRA",
+      "b": "Trunking",
+      "c": "GO-OP",
+      "d": "ninguna es cierta",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "Las comunicaciones vocales que no utilizan la infraestructura de la red son:",
+      "a": "Llamadas individuales de despacho a terminal",
+      "b": "Comunicaciones en DMO",
+      "c": "Comunicaciones en TMO",
+      "d": "Ninguna es correcta",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "Se dice que una combustión es completa cuando no hay sustancias combustibles en los humos, este es el caso de:",
+      "a": "La combustión estequiométrica",
+      "b": "La combustión con exceso de aire",
+      "c": "a y b son ciertas",
+      "d": "Ningún tipo de combustión de los expuestos en las respuestas anteriores se corresponde con la definición",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "A tenor de lo dispuesto en la norma UNE-EN ISO 13943:2012, la definición de “combustión con llama rápida causada por la introducción repentina de aire en un espacio confinado deficiente en oxígeno que contiene productos calientes de la combustión incompleta” se corresponde con el concepto de:",
+      "a": "Contratiro",
+      "b": "Flashover rico demorado",
+      "c": "Flashover rico caliente",
+      "d": "Contracorriente",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "La cantidad de calor necesaria para elevar 1º C la temperatura de un gramo de agua, se denomina Caloría. Se toma como intervalo patrón:",
+      "a": "3,8º C a 1 atmósfera",
+      "b": "Condiciones estándar",
+      "c": "14,5 – 15,5º C a 1 atmósfera",
+      "d": "Condiciones normales",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "De los siguientes gases tóxicos producidos en un incendio, indique cuál se origina por la combustión de PVC:",
+      "a": "Ácido sulfhídrico",
+      "b": "Cianuro de hidrógeno",
+      "c": "Acroleína",
+      "d": "Dióxido de nitrógeno",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "Se considera “zona segura” si la concentración de gas inflamable es inferior a:",
+      "a": "10% del rango de inflamabilidad",
+      "b": "10% del LII",
+      "c": "5% del rango de inflamabilidad",
+      "d": "5% del LII",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "El aumento de la cantidad de comburente, respecto del rango de inflamabilidad de un a sustancia:",
+      "a": "Afecta principalmente al LII",
+      "b": "Afecta a ambos límites por igual",
+      "c": "Afecta principalmente al LSI",
+      "d": "Ninguna de las respuestas anteriores es correcta",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "Para que una combustión sea automantenida, la energía de los productos debe ser, en comparación con los reactivos que los originan:",
+      "a": "Muy superior",
+      "b": "superior",
+      "c": "Muy inferior",
+      "d": "Ninguna de las anteriores respuestas es correcta.",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "A tenor de lo dispuesto en la norma UNE-EN ISO 13943:2012, la definición de “delito de provocar un incendio, normalmente con intención de causar daño”, corresponde al concepto de:",
+      "a": "Esta definición no se encuentra en dicha norma",
+      "b": "Fuego provocado",
+      "c": "Fuego intencionado",
+      "d": "Incendio intencionado",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "A Benialfaquí se accede a través de una de las siguientes carreteras:",
+      "a": "CV – 707",
+      "b": "CV – 708",
+      "c": "CV – 710",
+      "d": "CV – 7090",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "La Sierra de Fontanella está ubicada entre los términos municipales de:",
+      "a": "Biar y Villena",
+      "b": "Onil y Banyeres de Mariola",
+      "c": "Biar y Banyeres de Mariola",
+      "d": "Villena, Banyeres y Biar",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "Una de las siguientes sierras es la de menor altura:",
+      "a": "Sierra de Alfaro",
+      "b": "Sierra de la Penyarroya",
+      "c": "Sierra de Benicadell",
+      "d": "Sierra de la Grana",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "La unión entre dos entrantes formará:",
+      "a": "Una montaña",
+      "b": "Una depresión",
+      "c": "Un puerto",
+      "d": "Un mogote",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "¿Qué es una gran depresión de gran amplitud?",
+      "a": "Vertiente",
+      "b": "Vaguada",
+      "c": "Valle ",
+      "d": "Entrante",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "La representación a escala de un trozo del globo terrestre en una superficie plana es:",
+      "a": "La proyección",
+      "b": "La cartografía",
+      "c": "El mapa",
+      "d": "La topografía",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "La fuerza es atractiva si las cargas…",
+      "a": "Son de igual signo",
+      "b": "Son neutras y de igual signo",
+      "c": "Son de distinto signo",
+      "d": "a y b son ciertas",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "¿En qué unidad del sistema internacional se mide la carga?",
+      "a": "En amperios",
+      "b": "En voltios",
+      "c": "En culombios",
+      "d": "En watios",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "El estado normal de la materia es: ",
+      "a": "Eléctricamente neutra",
+      "b": "Cargada positivamente como norma general",
+      "c": "Cargada negativamente como norma general",
+      "d": "Cualquiera de ellas es el estado normal",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "Cuando una presión se expresa como una diferencia entre su valor real y el vacío hablamos de…",
+      "a": "Presión relativa",
+      "b": "Presión absoluta",
+      "c": "Presión manométrica",
+      "d": "Presión atmosférica",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "Cuando una presión se expresa como una diferencia entre su valor real y la presión atmosférica local, entonces se conoce como…",
+      "a": "Presión manométrica",
+      "b": "Presión absoluta",
+      "c": "Presión barométrica",
+      "d": "Ninguna de las anteriores respuestas es correcta.",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "Los barómetros son instrumentos que se utilizan para medir…",
+      "a": "La presión manométrica",
+      "b": "La presión atmosférica",
+      "c": "La presión absoluta",
+      "d": "Ninguna de las anteriores respuestas es correcta.",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "Indique cuál de las siguientes aseveraciones es correcta:",
+      "a": "Los aparatos que miden la presión absoluta se denominan manómetros",
+      "b": "Los aparatos que miden presiones positivas y negativas se llaman manovacuómetros",
+      "c": "Los aparatos que miden presiones positivas se denominan vacuómetros",
+      "d": "Todas son ciertas",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "¿En qué lugar se formarán las llamas de techo?",
+      "a": "Lejos del foco del incendio, a nivel inferior de la capa de techo",
+      "b": "Cerca del foco del incendio, a nivel inferior de la capa de techo",
+      "c": "Lejos del foco del incendio, a nivel superior de la capa de techo",
+      "d": "Cerca del foco del incendio, a nivel superior de la capa de techo",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "El flashover se producirá con mayor rapidez si el fuego se encuentra situado:",
+      "a": "Cerca de una abertura, de este modo se aportará el suficiente oxígeno necesario para la combustión",
+      "b": "Cerca de una pared, puesto que los revestimientos aumentarán la carga térmica del recinto",
+      "c": "Cerca de combustible suficiente para continuar la combustión",
+      "d": "Cerca de un rincón, puesto que la temperatura se elevará con mayor rapidez",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "Marque cuál de las siguientes opciones podría ser una evolución posible de un incendio en fase latente:",
+      "a": "Que el incendio se mantenga confinado",
+      "b": "Que se produzca una ventilación por apertura no controlada y aumente la virulencia del incendio",
+      "c": "Que se produzca un Backdraft",
+      "d": "Todas las opciones anteriores son posibles",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "Cuanto realizamos el enfriamiento de los gases mediante pulsaciones cortas:",
+      "a": "Éstas deberán dirigirse a diferentes posiciones dentro de la zona de sobrepresión",
+      "b": "Éstas deberán dirigirse a la misma zona dentro de la zona de sobrepresión, hasta lograr bajar la temperatura",
+      "c": "Éstas podrán dirigirse a la misma o a diferentes zonas, ya que de igual manera se realiza el enfriamiento de los gases",
+      "d": "Ninguna de las opciones anteriores es cierta",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "Durante el ataque ofensivo ¿cuándo debe realizarse el control de temperatura?",
+      "a": "Justo antes de entrar al recinto",
+      "b": "Después de realizar el enfriamiento de los gases de incendio",
+      "c": "A continuación de la entrada al recinto",
+      "d": "Ninguna de las opciones anteriores es cierta",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "Los GLP, con relación al aire:",
+      "a": "Son menos densos",
+      "b": "Son más densos",
+      "c": "Tienen una densidad relativa similar al aire",
+      "d": "Ninguna de las opciones anteriores es cierta",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "El dispositivo de corte más próximo o en el límite de la propiedad, accesible desde el exterior e identificable, que puede interrumpir el paso de gas a la instalación receptora es:",
+      "a": "Llave de acometida",
+      "b": "Llave de edificio",
+      "c": "Llave de regulador",
+      "d": "Llave de montante",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "Dispositivo de corte más próximo o en el muro del cerramiento de un edificio, accionable desde el exterior del mismo, que puede interrumpir el paso de gas a la instalación común que suministra a varios usuarios ubicados en el mismo edificio:",
+      "a": "Llave de acometida",
+      "b": "Llave de edificio",
+      "c": "Llave de regulador",
+      "d": "Llave general",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "Estudiar e investigar las técnicas, instalaciones, sistemas de protección contra incendios y salvamento es función de:",
+      "a": "Empresas instaladoras y mantenedoras, conforme lo dispuesto en el RIPCI",
+      "b": "Los SPEIS",
+      "c": "Los SPEIS dependientes de las administraciones públicas",
+      "d": "De la Conselleria competente en materia de prevención y extinción de incendios",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "¿Es función de los SPEIS recuperar las víctimas y coordinar su traslado urgente, incluso realizarlo cuando sea necesario?",
+      "a": "Si",
+      "b": "Sí, pero sólo de los SPEIS de las administraciones públicas",
+      "c": "Sí, pero no la realización del traslado",
+      "d": "No",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "Cualquier comunicación con zonas de otro uso debe hacerse a través de:",
+      "a": "Pasillos protegidos",
+      "b": "Pasillos o escaleras especialmente protegidas",
+      "c": "Escaleras protegidas",
+      "d": "Vestíbulos de independencia",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "Los ascensores que comuniquen sectores de incendio diferentes o bien zonas de riesgo especial con el resto del edificio, dispondrán en cada caso:",
+      "a": "Puertas E 30",
+      "b": "Vestíbulo de independencia con una puerta EI 30-C5",
+      "c": "a y b son correctas",
+      "d": "Ninguna de las opciones anteriores es correcta",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "Podemos definir el concepto de ceniza como:",
+      "a": "Residuo mineral orgánico resultante de la combustión completa",
+      "b": "Residuo mineral inorgánico resultante de la combustión incompleta",
+      "c": "Residuo mineral orgánico resultante de la combustión incompleta",
+      "d": "Residuo mineral inorgánico resultante de la combustión completa",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "Los combustibles líquidos…",
+      "a": "Arderán siempre con llama",
+      "b": "Arderán siempre con llama y en determinadas situaciones en fase condensada",
+      "c": "Arderán siempre en fase condensada",
+      "d": "Arderán en fase mixta",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "En general, los vapores de los líquidos inflamables:",
+      "a": "Son más pesados que el aire",
+      "b": "Son más ligeros que el aire",
+      "c": "Tienen aproximadamente la misma densidad",
+      "d": "Nada de lo anterior tiene lógica",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "En base a lo estudiado, ¿cuál es la forma política del Estado español recogida en la CE 1978?",
+      "a": "Estado Social Autonómico y Democrático",
+      "b": "Estado Popular de Derecho Democrático",
+      "c": "Monarquía Parlamentaria",
+      "d": "Estado Social y Democrático de Derecho",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "El artículo 9 de la Constitución recoge ciertos principios del ordenamiento jurídico y político español, ¿cuál de ellos no forma parte de dicha enumeración?",
+      "a": "Principio de interdicción de la arbitrariedad de los poderes públicos",
+      "b": "Principio de publicidad de las normas",
+      "c": "Principio de legalidad",
+      "d": "Principio de capacidad económica",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "El principio de legalidad implica que:",
+      "a": "Los ciudadanos españoles, excepto los políticos, están sometidos al imperio de la ley.",
+      "b": "Poderes públicos, ciudadanos y entidades que se encuentren dentro del Estado español, están todos sometidos a su ordenamiento jurídico.",
+      "c": "Los poderes públicos pueden actuar con total arbitrariedad, saltándose el ordenamiento jurídico de ser necesario en favor del interés general.",
+      "d": "Una ley, siempre y cuando haya seguido todos los procedimientos parlamentarios para su aprobación y sanción, puede ser contraria a la Constitución, dado que es legal.",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "Completa la oración, correspondiente a un artículo de la Constitución: “El Estado se organiza territorialmente en (...), en (...) y en las (...) que se constituyan.” El orden debe ser el correcto.",
+      "a": "Municipios, Comarcas, Provincias.",
+      "b": "Provincias, Comunidades Autónomas, Municipios.",
+      "c": "Municipios, Provincias, Comunidades Autónomas.",
+      "d": "Municipios, Ayuntamientos y Ciudades.",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "España es un Estado descentralizado política y administrativamente, ¿cuál de los siguientes niveles, dentro de la Administración española, tiene mayor grado de autonomía?.",
+      "a": "La Administración General del Estado",
+      "b": "La Administración Local",
+      "c": "La Administración de las Comunidades Autónomas",
+      "d": "La Administración Provincial",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "La Administración Local se compone de:",
+      "a": "Ayuntamientos, Diputaciones, Cabildos y Consejos",
+      "b": "Ayuntamientos, Islas, Comunidades Autónomas y Provincias.",
+      "c": "Municipios, Provincias y Comunidades Autónomas.",
+      "d": "Alcalde, Concejales, Tenientes de Alcalde y Pleno.",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "En qué artículo del EBEP, se establecen las normas aplicables al personal laboral al servicio de las Administraciones Públicas?",
+      "a": "No hay personal laboral en las Administraciones Públicas",
+      "b": "El EBEP establece las normas de los funcionarios: interinos, en práctica y de carrera",
+      "c": 11,
+      "d": 6,
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "El EBEP es de aplicación en: Cita la incorrecta",
+      "a": "Administración general del Estado",
+      "b": "Universidades Públicas",
+      "c": "Ciudades de Ceuta y Melilla",
+      "d": "Entidades de derecho privado con personalidad jurídica propio",
+      "correctAnswer": "D"
+    }
+  ]
+}

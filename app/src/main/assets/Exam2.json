@@ -1,0 +1,405 @@
+{
+  "examName": "Ley de P.Civil de la Generalitat",
+  "questionsList": [
+    {
+      "questionTxt": "¿Qué se entiende por actuación en materia de protección civil y gestión de emergencias según la Ley 13/2010, de 23 de Noviembre, de la Generalitat, deProtección Civil y Gestión de Emergencias?",
+      "a": "Aquellas acciones destinadas a la protección de las personas, los bienes y el medioambiente, tanto en situaciones de catástrofe, calamidad pública o accidentes graves.",
+      "b": "Aquellas acciones destinadas a la protección de las personas, los bienes y el medio ambiente, tanto en situaciones de grave riesgo, catástrofe, calamidad pública, como en accidentes graves y otras análogas.",
+      "c": "Aquellas acciones destinadas a la protección de las personas, los bienes y el medio ambiente, tanto en situaciones de grave riesgo, catástrofe, calamidad pública, como en accidentes leves, graves y otras análogas",
+      "d": "Aquellas acciones destinadas a la protección de las personas, los bienes y el medio ambiente, tanto en situaciones de catástrofe, calamidad pública, como en accidentes leves, graves y otras análogas",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "¿Cuál de las siguientes afirmaciones no está incluida dentro de los objetivos fundamentales que poseen las administraciones públicas en materia de protección civil y gestión de emergencias?",
+      "a": "Prevenir las situaciones de riesgo y disminuir sus consecuencias.",
+      "b": "Recibir y gestionar las llamadas de emergencia de los ciudadanos a través del 112 Comunitat Valenciana.",
+      "c": "Planificar las respuestas frente a siniestros producidos o previsibles, mediante planes de autoprotección.",
+      "d": "Todas las respuestas son correctas.",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "Artículo 3.2 de la Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias, Principios de actuación entre las administraciones públicas. Indique la afirmación correcta:",
+      "a": "A tal fin, sus relaciones se regirán por los principios de cooperación, coordinación, colaboración, solidaridad territorial, lealtad institucional, asistencia recíproca y mutuo auxilio, adecuando sus actuaciones conforme a la complementariedad y subsidiariedad de medios y recursos, y capacidad y suficiencias en la aplicación de planes de protección civil.",
+      "b": "A tal fin, sus relaciones se regirán por los principios de cooperación, coordinación, colaboración, movilización, solidaridad territorial, lealtad institucional, asistencia recíproca y mutuo auxilio, adecuando sus actuaciones conforme a la complementariedad y subsidiariedad de medios y recursos, y capacidad y suficiencias en la aplicación de planes de protección civil.",
+      "c": "A tal fin, sus relaciones se regirán por los principios de cooperación, coordinación, colaboración, movilización, solidaridad territorial, lealtad institucional, asistencia recíproca y mutuo auxilio, adecuando sus actuaciones conforme a la complementariedad y subsidiariedad de medios y recursos, y capacidad y suficiencias en la aplicación de planes de protección civil y planes especiales.",
+      "d": "A tal fin, sus relaciones se regirán por los principios de cooperación, coordinación, colaboración, solidaridad territorial, lealtad institucional, asistencia recíproca y mutuo auxilio, adecuando sus actuaciones conforme a la complementariedad y subsidiariedad de medios y recursos, y capacidad y suficiencias en la aplicación de planes de protección civil y planes especiales.",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "“La colaboración regular con las autoridades de protección civil se realizará a través de…”",
+      "a": "Organizaciones de participación ciudadana.",
+      "b": "Organizaciones de voluntariado.",
+      "c": "Organizaciones de participación ciudadana y voluntariado",
+      "d": "Organizaciones de participación ciudadana o voluntariado",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "Una de las siguientes afirmaciones es un “derecho de los ciudadanos, entidades e instituciones”, según el artículo 4 de la Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias:",
+      "a": "Recibir formación e instrucciones sobre las medidas de seguridad a adoptar y la conducta a seguir.",
+      "b": "Los ciudadanos deben colaborar personal y materialmente en las tareas de protección civil, así como a seguir las instrucciones de la autoridad competente en función de la preemergencia o emergencia declarada.",
+      "c": "Realizar simulacros oportunos.",
+      "d": "Colaborar en las tareas de protección civil.",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "Según el artículo 5 de la Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias las entidades públicas o privadas cuya actividad esté relacionada con la prevención, atención, socorro y seguridad de personas y de sus bienes, están especialmente obligadas a:",
+      "a": "Colaborar en situaciones de emergencia con los servicios de intervención.",
+      "b": "Colaborar en situaciones de preemergencia y emergencia con los servicios de intervención.",
+      "c": "Colaborar en situaciones de emergencia con las unidades de intervención.",
+      "d": "Colaborar en situaciones de preemergencia y emergencia con las unidades de intervención.",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "¿Quién podrá requisar, intervenir y ocupar temporal y transitoriamente los bienes que sean necesarios para hacer frente a una emergencia, según la Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias?",
+      "a": "Las administraciones competentes en materia de protección civil",
+      "b": "Las autoridades competentes en materia de protección civil.",
+      "c": "La Conselleria competente en materia de protección civil y emergencias.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "“Artículo 6 Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias.",
+      "a": "Medios de comunicación social.",
+      "b": "Autoprotección.",
+      "c": "Prevención.",
+      "d": "Previsión.",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "¿Quién será el encargado de impulsar el desarrollo, difusión y revisión del Mapa de Riesgos de la Comunitat Valenciana?",
+      "a": "La Conselleria competente en materia de protección civil y gestión de emergencias.",
+      "b": "La autoridad competente en materia de protección civil y gestión de emergencias.",
+      "c": "La administración competente en materia de protección civil y gestión de emergencias.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "Artículo 7 Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias:",
+      "a": "Previsión.",
+      "b": "Prevención",
+      "c": " Autoprotección",
+      "d": "Medios de Comunicación",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "¿Qué riesgos deben cubrir los contratos de seguro, como mínimo, los titulares de los establecimientos comprendidos en el catálogo de actividades con riesgo de la Comunitat Valenciana?:",
+      "a": "De incendio y responsabilidad penal.",
+      "b": "Responsabilidad civil y penal.",
+      "c": "Incendio y responsabilidad civil.",
+      "d": "Responsabilidad penal, civil y de incendio.",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "¿Cuál es el órgano superior de dirección y coordinación de la protección civil en la Comunitar Valenciana?:",
+      "a": "La Conselleria competente en materia de protección civil y emergencias de la Comunitat Valenciana.",
+      "b": "La administración competente en materia de protección civil y emergencias de la Comunitat Valenciana.",
+      "c": "El Consell.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "Una de las siguientes afirmaciones sobre las competencias del órgano superior de dirección y coordinación de la protección civil en la Comunitat Valenciana, es incorrecta. Indica cuál es:",
+      "a": "Aprobar el catálogo de actividades con Riesgo de la Comunitat Valenciana.",
+      "b": "Aprobar el Plan Territorial de Emergencias de la Comunitat Valenciana y los Planes Especiales según lo establecido en la presente ley.",
+      "c": "Solicitar al Ministro del Interior la declaración de una situación de emergencia como de interés nacional, de conformidad con lo expuesto en el artículo 9.2 del Decreto 407/1992, de 24 de abril, por el que se aprueba la Norma básica de protección civil.",
+      "d": "Todas son correctas.",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "¿A quien corresponde la extinción de incendios forestales según Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias?",
+      "a": "Conselleria competente en materia de protección civil y gestión de emergencias.",
+      "b": "Agencia Valenciana de Seguridad y Respuesta a las Emergencias.",
+      "c": "SPEIS de la Comunitat Valenciana.",
+      "d": "El Consell.",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "¿A quien corresponde, según la Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias, tener representación en los órganos rectores de los servicios de prevención, extinción de incendios y salvamento que se creen en la Comunitat y tengan ámbito territorial municipal?",
+      "a": "Diputaciones provinciales.",
+      "b": "Ayuntamiento del municipio.",
+      "c": "Generalitat Valenciana.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "Indica la respuesta correcta de las siguientes afirmaciones: “Corresponde a los municipios…”:",
+      "a": "Elaborar y aprobar el Plan Territorial Supramunicipal frente a Emergencias, y los planes de actuación municipal frente a riesgos concretos, así como, en su caso, cualquier otro instrumento de planificación de protección civil de ámbito municipal.",
+      "b": "Elaborar y aprobar el Plan Territorial Municipal frente a Emergencias, y los planes de actuación municipal frente a riesgos concretos, así como, en su caso, cualquier otro instrumento de planificación de protección civil de ámbito municipal.",
+      "c": "Elaborar y aprobar el Plan Territorial Supramunicipal frente a Emergencias, y los planes de actuación municipal frente a riesgos concretos, así como, en su caso, cualquier otro instrumento de planificación de protección civil de ámbito supramunicipal.",
+      "d": "Elaborar y aprobar el Plan Territorial Municipal frente a Emergencias, y los planes de actuación supramunicipal frente a riesgos concretos, así como, en su caso, cualquier otro instrumento de planificación de protección civil de ámbito municipal.",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "¿Qué órgano es el que tiene la capacidad de homologar en materia de protección civil según la Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias?",
+      "a": "La Comisión de Protección Civil provincial.",
+      "b": "La Comisión de Protección Civil de la Comunitat Valenciana.",
+      "c": "La Comisión Nacional de Protección Civil.",
+      "d": "La Consellería competente en Materia de Protección Civil y Gestión de Emergencias.",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "Indica la respuesta correcta de las siguientes afirmaciones: ",
+      "a": "Por decreto del Consell se determinará la composición, organización y funcionamiento de la Comisión de Protección Civil de la Comunitat Valenciana, en la que estarán representadas la administración autonómica, la administración general del Estado, las diputaciones provinciales, los ayuntamientos y la Mesa Social de la Protección Civil y las Emergencias de la Comunitat Valenciana.",
+      "b": "Por decreto-ley del Consell se determinará la composición, organización y funcionamiento de la Comisión de Protección Civil de la Comunitat Valenciana, en la que estarán representadas la administración autonómica, la administración general del Estado, las diputaciones provinciales, los ayuntamientos y la Mesa Social de la Protección Civil y las Emergencias de la Comunitat Valenciana.",
+      "c": "Por Real Decreto del Consell se determinará la composición, organización y funcionamiento de la Comisión de Protección Civil de la Comunitat Valenciana, en la que estarán representadas la administración autonómica, la administración general del Estado, las diputaciones provinciales, los ayuntamientos y la Mesa Social de la Protección Civil y las Emergencias de la Comunitat Valenciana.",
+      "d": "Por Real decreto del Consell se determinará la composición, organización y funcionamiento de la Comisión de Protección Civil de la Comunitat Valenciana, en la que estarán representadas la administración provincial, la administración autonómica, la administración general del Estado, las diputaciones provinciales, los ayuntamientos y la Mesa Social de la Protección Civil y las Emergencias de la Comunitat Valenciana",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "¿Qué nombre recibe el Título III de la Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias?",
+      "a": "De la Protección Civil y Gestión de Emergencias.",
+      "b": "De la Planificación en materia de Protección Civil y gestión de Emergencias.",
+      "c": "De la Comisión de Protección Civil de la Comunitat Valenciana.",
+      "d": "De los planes de Protección Civil.",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "De los siguientes planes de protección civil ¿cuál no está incluido dentro del ámbito de la Protección Civil según la Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias?",
+      "a": "Planes territoriales.",
+      "b": "Procedimientos de actuación.",
+      "c": "Protocolos de intervención.",
+      "d": "Protocolos operativos",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "“Es el instrumento organizativo general de respuesta ante situaciones de grave riesgo de incendio forestal, grave riesgo colectivo, catástrofe o calamidad pública en el ámbito territorial de la Comunitat Valenciana…”. Hablamos del:",
+      "a": "Plan Especial frente al riesgo de Incendios Forestales (PEIF).",
+      "b": "Plan Territorial de Emergencia de la Comunitat.",
+      "c": "Plan de Autoprotección.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "¿Quién es el encargado de aprobar el Plan Territorial de Emergencia de la Comunitat Valenciana?",
+      "a": "El Consell.",
+      "b": "La Conselleria competente en materia de Protección Civil y Emergencia.",
+      "c": "La Comisión de Protección Civil de la Comunitat Valenciana.",
+      "d": "La Comisión Nacional de Protección Civil.",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "Los Planes Territoriales de ámbito inferior al comunitario serán, según la Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias:",
+      "a": "De ámbito comarcal, municipal y supramunicipal.",
+      "b": "De ámbito local, comarcal, municipal y supramunicipal.",
+      "c": "De ámbito local, municipal y supramunicipal.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "¿Quién homologa un plan de ámbito inferior al comunitario?",
+      "a": "La Comisión de Protección Civil de la Comunitat Valenciana.",
+      "b": "La Comisión Nacional de Protección Civil.",
+      "c": "La Comisión de Protección Civil de ámbito inferior al comunitario.",
+      "d": "El Pleno de la Corporación respectiva.",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "¿Qué plazo se dispone para homologar un plan de ámbito inferior al comunitario?",
+      "a": "6 meses.",
+      "b": "No superior a 6 meses.",
+      "c": "3 meses.",
+      "d": "No superior a 3 meses.",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "Indica la respuesta correcta de las siguientes afirmaciones:",
+      "a": "Los planes especiales son el instrumento organizativo general de respuesta para hacer frente a riesgos concretos cuya naturaleza requiera una metodología específica, bien por sectores de actividad, bien por tipos de emergencia, o bien por actividades concretas",
+      "b": "Los planes especiales son el instrumento organizativo general de respuesta para hacer frente a riesgos concretos cuya naturaleza requiera una metodología técnicocientífica específica, bien por sectores de actividad, bien por tipos de emergencia, o bien por actividades determinadas.",
+      "c": "Los planes especiales son el instrumento organizativo general de respuesta para hacer frente a riesgos concretos cuya naturaleza requiera una metodología técnicocientífica específica, bien por sectores de actividad, bien por tipos de emergencia, o bien por actividades concretas",
+      "d": "Los planes especiales son el instrumento organizativo general de respuesta para hacer frente a riesgos concretos cuya naturaleza requiera una metodología específica, bien por sectores de actividad, bien por tipos de emergencia, o bien por actividades determinadas.",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "“Son el instrumento básico de actuación del Centro de Emergencias, así como de 112 Comunitat Valenciana”. Hablamos de:",
+      "a": "Procedimientos de actuación.",
+      "b": "Protocolos operativos.",
+      "c": "Planes de autoprotección.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "Los Protocolos operativos serán aprobados por el conseller competente en materia de protección civil y gestión de emergencias, previo informe de:",
+      "a": "La Comisión de Protección Civil de la Comunitat Valenciana.",
+      "b": "La Comisión Nacional de Protección Civil.",
+      "c": "La Comisión de Protección Civil de ámbito inferior al comunitario.",
+      "d": "El Pleno de la Corporación respectiva.",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "“Deberán ser presentados ante el ayuntamiento donde esté ubicada la actividad, así como ante el órgano que concede la licencia, permiso o autorización necesaria para el comiendo de la misma”. Hablamos de:",
+      "a": "Planes especiales.",
+      "b": "Planes de autoprotección.",
+      "c": "Planes de emergencia de eventos especiales.",
+      "d": "Planes de emergencia interior/exterior.",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "Indica la respuesta correcta de las siguientes afirmaciones:",
+      "a": "Estos planes deberán elaborar por los ayuntamientos de los municipios donde se efectúe el evento cuando la afluencia de público prevista por el organizador supere el número de habitantes de la localidad o el de 20.000 personas.",
+      "b": "Estos planes deberán elaborar por los ayuntamientos de los municipios donde se efectúe el evento cuando la afluencia de público prevista por el organizador supere el número de habitantes de la localidad o el de 30.000 personas.",
+      "c": "Estos planes deberán elaborar por los ayuntamientos de los municipios donde se efectúe el evento cuando la afluencia de público prevista por el organizador supere el número de habitantes de la localidad o el de 40.000 personas.",
+      "d": "Estos planes deberán elaborar por los ayuntamientos de los municipios donde se efectúe el evento cuando la afluencia de público prevista por el organizador supere el número de habitantes de la localidad o el de 50.000 personas.",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "Según el artículo 29 de la Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias ¿cada cuánto tiempo se deben revisar los planes mencionados en dicho artículo?",
+      "a": "Deben revisarse de manera obligatoria cada 6 años.",
+      "b": "Deben revisarse de manera obligatoria cada 5 años.",
+      "c": "Deben revisarse de manera obligatoria cada 3 años.",
+      "d": "No es obligatorio que se revisen dichos planes.",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "¿Cómo se clasifican los servicios de intervención frente a emergencias?",
+      "a": "Servicios multidisciplinarios, servicios esenciales y servicios complementarios.",
+      "b": "Servicios complementarios y servicios esenciales.",
+      "c": "Servicios especializados, servicios complementarios, servicios multidisciplinarios y servicios esenciales.",
+      "d": "Servicios de intervención profesionales, de empresa y voluntarios.",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "¿Cuál de los siguientes servicios de intervención se considera esencial?",
+      "a": "Unidades de prevención de incendios forestales.",
+      "b": "Las fuerzas armadas.",
+      "c": "Bomberos voluntarios.",
+      "d": "Bomberos de empresa.",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "¿A qué Conselleria pertenece el personal técnico de prevención de incendios y de gestión de emergencias de la Generalitat?",
+      "a": "A la Conselleria competente en materia de protección civil y gestión de emergencias.",
+      "b": "A la Conselleria competente en materia de protección civil, prevención de incendios y gestión de emergencias.",
+      "c": "A la Conselleria competente en materia de protección civil, prevención y extinción de incendios y gestión de emergencias.",
+      "d": "A la Conselleria competente en materia de protección civil de la Generalitat.",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "“Los bomberos voluntarios estarán integrados por el personal voluntario adscrito a…”",
+      "a": "Servicios de Prevención, Extinción de Incendios y Salvamento de la Comunitat Valenciana dependiente de las administraciones públicas.",
+      "b": "Servicios de Prevención, Extinción de Incendios y Salvamento de la Comunitat Valenciana dependiente de Generalitat Valenciana.",
+      "c": "Servicios de Prevención, Extinción de Incendios y Salvamento de la Comunitat Valenciana dependiente del cuerpo de Bomberos Voluntarios de Generalitat.",
+      "d": "Servicios de Prevención, Extinción de Incendios y Salvamento de la Comunitat Valenciana dependiente de la Conselleria competente en materia de protección civil, prevención de incendios y gestión de emergencias.",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "“Personal de las unidades terrestres y helitransportadas contratado por la Generalitat para la extinción de incendios forestales y la intervención ante emergencias en los términos que se prevé en esta ley y en los diferentes planes de protección civil”. Hablamos de:",
+      "a": "Brigadas Rurales de Emergencia.",
+      "b": "Brigadas de Emergencia de Generalitat.",
+      "c": "Brigadas de Diputación de Valencia.",
+      "d": "Servicio de Bomberos Forestales.",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "¿Quién constituye el personal técnico de protección y gestión del medio natural de Generalitat?",
+      "a": "Los técnicos y agentes medioambientales pertenecientes a la conselleria competente en materia de medio ambiente.",
+      "b": "Los técnicos y agentes medioambientales pertenecientes a la conselleria competente en materia de protección civil y gestión de emergencias.",
+      "c": "Los técnicos forestales y agentes medioambientales pertenecientes a la conselleria competente en materia de medio ambiente.",
+      "d": "Los técnicos forestales y agentes medioambientales pertenecientes a la conselleria competente en materia de protección y gestión de emergencias.",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "¿A quien corresponde la regulación reglamentaria de la estructura, funcionamiento y organización del servicio de Atención Sanitaria de Emergencia?",
+      "a": "A la conselleria competente en materia de protección civil.",
+      "b": "A la conselleria competente en materia de protección civil y emergencias sanitarias.",
+      "c": "A la conselleria competente en materia de emergencias sanitarias.",
+      "d": "A la conselleria competente en materia de gestión de emergencias sanitarias.",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "¿Quién promoverá la participación eficaz y coordinada de los Cuerpos y Fuerzas de Seguridad del Estado, de la Unidad del Cuerpo Nacional de Policía adscrita a la Comunitat Valenciana, y de las policías locales, sin perjuicio de lo establecido en la legislación estatal en la materia?",
+      "a": "Generalitat",
+      "b": "Conselleria competente en materia de protección civil y gestión de emergencias.",
+      "c": "Delegación/subdelegación del gobierno.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "Capítulo III del Título IV de la Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias:",
+      "a": "De los servicios de intervención.",
+      "b": "Del voluntariado de protección civil.",
+      "c": "112 Comunitat Valenciana.",
+      "d": "De los servicios complementarios de intervención.",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "¿Cómo se regula la estructura, funcionamiento y organización de los bomberos de empresa?",
+      "a": "Mediante decreto.",
+      "b": "Mediante decreto ley.",
+      "c": "Mediante ley.",
+      "d": "Mediante ley orgánica.",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "Artículo 43 de la Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias:",
+      "a": "Los bomberos de empresa.",
+      "b": "Los bomberos forestales.",
+      "c": "Las unidades de prevención y extinción de incendios forestales.",
+      "d": "Las unidades de prevención de incendios forestales",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "¿Por medio de qué artículo de la ley 2/1985, de 21 de enero, sobre protección civil, podrá solicitar la Generalitat la intervención de las Fuerzas Armadas?",
+      "a": "15c",
+      "b": "16f.",
+      "c": "17b.",
+      "d": "18g.",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "Indica la respuesta correcta de las siguientes afirmaciones acerca del artículo 46 (Definición del voluntariado de protección civil) de la Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias:",
+      "a": "Se entiende por voluntariado de protección civil, el conjunto de personas que, libre y desinteresadamente, se incorporen a entidades y organizaciones públicas o privadas cuyo fin sea la protección de las personas, los bienes y el medio ambiente, tanto ante situaciones de grave riesgo, catástrofe y calamidad pública, como en accidentes graves y otras análogas…",
+      "b": "Se entiende por voluntariado de protección civil, el conjunto de personas que, libre y desinteresadamente, se incorporen a entidades y organizaciones públicas o privadas sin ánimo de lucro cuyo fin sea la protección de las personas, los bienes y el medio ambiente, tanto ante situaciones de grave riesgo, catástrofe y calamidad pública, como en accidentes graves y otras análogas…",
+      "c": "Se entiende por voluntariado de protección civil, el conjunto de personas que, libre y desinteresadamente, se incorporen a entidades y organizaciones públicas sin ánimo de lucro cuyo fin sea la protección de las personas, los bienes y el medio ambiente, tanto ante situaciones de grave riesgo, catástrofe y calamidad pública, como en accidentes graves y otras análogas…",
+      "d": "Se entiende por voluntariado de protección civil, el conjunto de personas que, libre y desinteresadamente, se incorporen a entidades y organizaciones públicas o privadas sin ánimo de lucro cuyo fin sea la protección de las personas, los bienes y el medio ambiente, tanto ante situaciones de grave riesgo, catástrofe y calamidad pública y otras análogas.",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "¿A quien corresponde la promoción del voluntariado de protección civil según la Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias?",
+      "a": "Al Consell.",
+      "b": "A la Generalitat.",
+      "c": "A las administraciones locales.",
+      "d": "A la Conselleria competente en materia de protección civil y gestión de emergencias.",
+      "correctAnswer": "C"
+    },
+    {
+      "questionTxt": "¿Conforme a lo establecido en qué artículo las organizaciones de voluntarios de protección civil deben concertar seguros de accidentes para cubrir los riesgos que puedan sobrevenir a sus integrantes en el desempeño de sus funciones, así como suscribir seguros de responsabilidad civil u otras garantías financieras equivalentes para cubrir la responsabilidad civil pro daños a terceros?",
+      "a": "Artículo 6.1c de la Ley 4/2001, de 19 de junio, de la Generalitat, del Voluntariado.",
+      "b": "Artículo 6.2c de la Ley 5/2001, de 19 de junio, de la Generalitat, del Voluntariado.",
+      "c": "Artículo 6.1c de la Ley 5/2001, de 19 de julio, de la Generalitat, del Voluntariado.",
+      "d": "Artículo 6.2c de la Ley 4/2001, de 19 de junio, de la Generalitat, del Voluntariado.",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "¿Qué es 1·1·2 Comunitat Valenciana?",
+      "a": "Es la implantación del teléfono único de emergencias europeo 112 en el ámbito territorial de la Comunitat Valenciana y el instrumento básico que la Generalitat pone a disposición de los ciudadanos para acceder a los servicios de urgencia y emergencia.",
+      "b": "Es la implantación del teléfono único de emergencias nacional 112 en el ámbito territorial de la Comunitat Valenciana y el instrumento básico que la Generalitat pone a disposición de los ciudadanos para acceder a los servicios de urgencia y emergencia.",
+      "c": "Es la implantación del teléfono único de emergencias 112 en el ámbito territorial de la Comunitat Valenciana y el instrumento básico que la Generalitat pone a disposición de los ciudadanos para acceder a los servicios de urgencia y emergencia.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "A"
+    },
+    {
+      "questionTxt": "Una de las siguientes afirmaciones sobre las funciones del 1·1·2 Comunitat Valenciana es incorrecta, indica cual:",
+      "a": "Garantizar un tiempo de atención de la llamada compatible con la naturaleza del servicio que se gestiona.",
+      "b": "Alertar con rapidez a los servicios esenciales y complementarios competentes en la resolución de la emergencia.",
+      "c": "Implantar y mantener un sistema de control de la calidad del servicio que presta.",
+      "d": "Incorporar las novedades tecnológicas que mejoren la prestación del servicio.",
+      "correctAnswer": "B"
+    },
+    {
+      "questionTxt": "¿Cuánto tiempo serán custodiados las grabaciones o registros de los incidentes gestionados por 1·1·2 Comunitat Valenciana?",
+      "a": "6 meses.",
+      "b": "1 año.",
+      "c": "Máximo 3 años, salvo instrucción diferente de la autoridad judicial.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "D"
+    },
+    {
+      "questionTxt": "Artículo 55 de la Ley 13/2010, de 23 de Noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias:",
+      "a": "Gestión integrada",
+      "b": "Mal uso de 1·1·2 Comunitat Valenciana.",
+      "c": "Registro y acceso a la información de 1·1·2 Comunitat Valenciana.",
+      "d": "1·1·2 Comunitat Valenciana.",
+      "correctAnswer": ""
+    }
+  ]
+}

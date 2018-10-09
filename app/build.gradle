@@ -1,0 +1,64 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
+apply from: '../buildsystem/dependencies.gradle'
+
+android {
+  compileSdkVersion 28
+  defaultConfig {
+    applicationId "com.rudedroiddevs.examiner"
+    minSdkVersion 21
+    targetSdkVersion 28
+    versionCode 1
+    versionName "1.0.0"
+    testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+  }
+  buildTypes {
+    release {
+      minifyEnabled false
+      proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+    }
+  }
+
+  compileOptions {
+    sourceCompatibility JavaVersion.VERSION_1_8
+    targetCompatibility JavaVersion.VERSION_1_8
+  }
+
+  testOptions {
+    unitTests {
+      includeAndroidResources = true
+      returnDefaultValues = true
+    }
+  }
+
+  kapt {
+    mapDiagnosticLocations = true
+  }
+}
+
+dependencies {
+  implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+  implementation appDependencies.kotlinStdLib
+  implementation appDependencies.androidAppCompat
+  implementation appDependencies.androidDesign
+  implementation appDependencies.androidLegacyCoreUi
+  implementation appDependencies.constraintLayout
+  implementation appDependencies.ankoAppcompatV7Commons
+  implementation appDependencies.rxKotlin
+  implementation appDependencies.rxAndroid
+  implementation appDependencies.dagger
+  implementation appDependencies.gson
+
+  kapt appDependencies.daggerCompiler
+
+  testImplementation appTestDependencies.junit
+  testImplementation appTestDependencies.hamcrest
+  testImplementation appTestDependencies.assertJ
+  testImplementation appTestDependencies.robolectric
+  testImplementation appTestDependencies.mockito
+  testImplementation appTestDependencies.mockitoKotlin
+}
