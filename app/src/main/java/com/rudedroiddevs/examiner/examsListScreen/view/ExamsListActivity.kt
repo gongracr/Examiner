@@ -24,15 +24,17 @@ import javax.inject.Inject
 class ExamsListActivity : BaseActivity(), ExamsListScreenView {
 
   @Inject
-  lateinit var presenter: ExamsListPresenter
-
+  lateinit var examsPresenter: ExamsListPresenter
+  lateinit var mainFragment: PlaceholderFragment
   private var mSectionsPagerAdapter: SectionsPagerAdapter? = null
 
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
     setContentView(R.layout.activity_exams_list)
     injectDependencies()
-    presenter.viewCreated()
+
+    mSectionsPagerAdapter = SectionsPagerAdapter(supportFragmentManager)
+    container.adapter = mSectionsPagerAdapter
 //
 //    container.addOnPageChangeListener(TabLayout.TabLayoutOnPageChangeListener(tabs))
 //    tabs.addOnTabSelectedListener(TabLayout.ViewPagerOnTabSelectedListener(container))
@@ -45,13 +47,15 @@ class ExamsListActivity : BaseActivity(), ExamsListScreenView {
 
   override fun onDestroy() {
     super.onDestroy()
-    presenter.viewDestroyed()
+    examsPresenter.viewDestroyed()
   }
 
   inner class SectionsPagerAdapter(fm: FragmentManager) : FragmentPagerAdapter(fm) {
 
     override fun getItem(position: Int): PlaceholderFragment {
-      return PlaceholderFragment.newInstance(position + 1)
+      mainFragment = PlaceholderFragment.newInstance(position + 1)
+      mainFragment.presenter = examsPresenter
+      return mainFragment
     }
 
     override fun getCount(): Int {
@@ -60,6 +64,7 @@ class ExamsListActivity : BaseActivity(), ExamsListScreenView {
   }
 
   class PlaceholderFragment : Fragment() {
+    lateinit var presenter: ExamsListPresenter
 
     companion object {
       private const val ARG_SECTION_NUMBER = "section_number"
@@ -67,8 +72,7 @@ class ExamsListActivity : BaseActivity(), ExamsListScreenView {
       fun newInstance(sectionNumber: Int): PlaceholderFragment {
         val fragment = PlaceholderFragment()
         val args = Bundle()
-        args.putInt(
-            ARG_SECTION_NUMBER, sectionNumber)
+        args.putInt(ARG_SECTION_NUMBER, sectionNumber)
         fragment.arguments = args
         return fragment
       }
@@ -91,8 +95,9 @@ class ExamsListActivity : BaseActivity(), ExamsListScreenView {
         activity?.gotoActivity(ExamActivity::class,
             extras = mapOf(NUM_EXAM to pos))
       }
-      view?.recyclerView?.adapter = examsAdapter
-      view?.recyclerView?.layoutManager = linearLayoutManager
+      rootView?.recyclerView?.adapter = examsAdapter
+      rootView?.recyclerView?.layoutManager = linearLayoutManager
+      presenter.viewCreated()
       return rootView
     }
   }
@@ -106,10 +111,7 @@ class ExamsListActivity : BaseActivity(), ExamsListScreenView {
   }
 
   override fun displayExamListModel(examsListModel: ExamsListModel) {
-    mSectionsPagerAdapter = SectionsPagerAdapter(supportFragmentManager)
-    container.adapter = mSectionsPagerAdapter
-    val placeholderFragment = mSectionsPagerAdapter?.getItem(0)
-    placeholderFragment?.examsAdapter?.examTitles = examsListModel.examsTitles
-    placeholderFragment?.examsAdapter?.notifyDataSetChanged()
+    mainFragment.examsAdapter.examTitles = examsListModel.examsTitles
+    mainFragment.examsAdapter.notifyDataSetChanged()
   }
 }

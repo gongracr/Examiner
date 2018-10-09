@@ -28,7 +28,9 @@ class ExamsRecyclerAdapter(var examTitles: List<String>) :
     holder.itemView.examTitle.text = examTitles[pos]
   }
 
-  override fun getItemCount() = examTitles.size
+  override fun getItemCount(): Int {
+    return examTitles.size
+  }
 
   inner class ExamHolder(v: View) : RecyclerView.ViewHolder(v), View.OnClickListener {
 
