@@ -28,6 +28,10 @@ class ExamsListPresenterImpl @Inject constructor(
     disposables.dispose()
   }
 
+  override fun onExamClicked(pos: Int) {
+    examsListScreenView.goToExamActivity(pos)
+  }
+
   private fun subscribeExamsEvents() {
     disposables.add(examsListScreenInteractor.getExamsObservable()
         .map {

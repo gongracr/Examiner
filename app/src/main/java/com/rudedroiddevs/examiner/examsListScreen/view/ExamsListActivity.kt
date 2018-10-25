@@ -22,7 +22,6 @@ import kotlinx.android.synthetic.main.fragment_exams_list.view.*
 import javax.inject.Inject
 
 class ExamsListActivity : BaseActivity(), ExamsListScreenView {
-
   @Inject
   lateinit var examsPresenter: ExamsListPresenter
   lateinit var mainFragment: PlaceholderFragment
@@ -92,8 +91,7 @@ class ExamsListActivity : BaseActivity(), ExamsListScreenView {
       fragmentPos = arguments?.getInt(ARG_SECTION_NUMBER)!!
       examsAdapter = ExamsRecyclerAdapter(emptyList())
       examsAdapter.clickOnExamlistener = { pos ->
-        activity?.gotoActivity(ExamActivity::class,
-            extras = mapOf(NUM_EXAM to pos))
+        presenter.onExamClicked(pos)
       }
       rootView?.recyclerView?.adapter = examsAdapter
       rootView?.recyclerView?.layoutManager = linearLayoutManager
@@ -113,5 +111,10 @@ class ExamsListActivity : BaseActivity(), ExamsListScreenView {
   override fun displayExamListModel(examsListModel: ExamsListModel) {
     mainFragment.examsAdapter.examTitles = examsListModel.examsTitles
     mainFragment.examsAdapter.notifyDataSetChanged()
+  }
+
+  override fun goToExamActivity(pos: Int) {
+    gotoActivity(ExamActivity::class,
+        extras = mapOf(NUM_EXAM to pos))
   }
 }

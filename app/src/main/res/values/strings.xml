@@ -5,4 +5,8 @@
   <string name="tab_text_3">Valencia</string>
   <string name="action_settings">Settings</string>
   <string name="section_format">Tipo de exámenes: %1$d</string>
+  <string name="solve_exam">Corregir examen</string>
+  <string name="num_correct_answers">Num respuestas correctas:</string>
+  <string name="num_wrong_answers">Num respuestas falladas:</string>
+  <string name="num_empty_answers">Num respuestas en blanco:</string>
 </resources>

@@ -1,8 +1,10 @@
 package com.rudedroiddevs.examiner.examScreen.view
 
-import com.rudedroiddevs.examiner.pojomodel.Exam
+import com.rudedroiddevs.examiner.examScreen.model.ExamModel
 
 interface ExamScreenView {
 
-  fun displayExamModel(exam: Exam)
+  fun displayExamModel(examModel: ExamModel)
+
+  fun showCorrectedExam(totalCorrect: Int, totalWrong: Int, totalEmpty: Int)
 }

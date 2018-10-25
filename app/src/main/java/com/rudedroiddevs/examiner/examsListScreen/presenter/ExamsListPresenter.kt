@@ -5,4 +5,6 @@ interface ExamsListPresenter {
   fun viewCreated()
 
   fun viewDestroyed()
+  
+  fun onExamClicked(pos: Int)
 }
