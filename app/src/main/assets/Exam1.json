@@ -2,7 +2,7 @@
   "examName": "Examen Tema 11. Ley 17/2015 Proteccion Civil",
   "questionsList": [
     {
-      "questionTxt": "1. ¿Qué se entiende por protección civil, según el artículo 1 de la Ley 17/2015?",
+      "questionTxt": "¿Qué se entiende por protección civil, según el artículo 1 de la Ley 17/2015?",
       "a": "a) Es el servicio que protege a las personas y bienes garantizando una respuesta adecuada ante los distintos tipos de emergencia y catástrofes originadas por causas naturales y derivadas de la acción humana, sea ésta accidental o intencionada.",
       "b": "b) Es el servicio público que protege a las personas y bienes garantizando una respuesta adecuada ante los distintos tipos de emergencia y catástrofes originadas por causas naturales o derivadas de la acción humana, sea ésta accidental o intencionada.",
       "c": "c) Es el servicio público que protege a las personas y bienes garantizando una respuesta adecuada ante los distintos tipos de emergencia y catástrofes originadas por causas naturales y derivadas de la acción humana, sea ésta accidental e intencionada.",
@@ -10,7 +10,7 @@
       "correctAnswer": "B"
     },
     {
-      "questionTxt": "2. Indica la opción correcta: “El objeto de esta ley es establecer el Sistema Nacional de Protección Civil como instrumento esencial para”...",
+      "questionTxt": "Indica la opción correcta: “El objeto de esta ley es establecer el Sistema Nacional de Protección Civil como instrumento esencial para”...",
       "a": "a) Establecer la coordinación, la cohesión y la eficacia de las políticas públicas de protección civil.",
       "b": "b) Asegurar la coordinación, la cohesión y la eficacia de las políticas públicas de protección civil.",
       "c": "c) Regular las competencias de la Administración General del Estado en la materia",
@@ -18,7 +18,7 @@
       "correctAnswer": "B"
     },
     {
-      "questionTxt": "3. Situación en la que personas y bienes preservados por la protección civil están expuestos en mayor o menor medida a un peligro inminente o latente:",
+      "questionTxt": "Situación en la que personas y bienes preservados por la protección civil están expuestos en mayor o menor medida a un peligro inminente o latente:",
       "a": "a) Riesgo.",
       "b": "b) Amenaza.",
       "c": "c) Catástrofe.",
@@ -26,7 +26,7 @@
       "correctAnswer": "B"
     },
     {
-      "questionTxt": "4. La diferencia que establece la Ley 17/2015 entre emergencia ordinaria y emergencia extraordinaria se rige por:",
+      "questionTxt": "La diferencia que establece la Ley 17/2015 entre emergencia ordinaria y emergencia extraordinaria se rige por:",
       "a": "a) El ámbito territorial que abarca la emergencia.",
       "b": "b) La afectación colectiva a la que implica.",
       "c": "c) Los medios y recursos que precisa.",
@@ -34,7 +34,7 @@
       "correctAnswer": "B"
     },
     {
-      "questionTxt": "5. Indica la respuesta incorrecta:",
+      "questionTxt": "Indica la respuesta incorrecta:",
       "a": "a) Las actuaciones del Sistema se regirán por los principios de colaboración, cooperación, coordinación, solidaridad interterritorial, subsidiariedad, eficiencia, participación, inclusión y accesibilidad universal de las personas con discapacidad.",
       "b": "b) Efectuar una coordinación, seguimiento y evaluación del Sistema para garantizar un funcionamiento eficaz y armónico del mismo.",
       "c": "c) Planificar los medios y medidas necesarias para afrontar las situaciones de peligro.",
@@ -42,7 +42,7 @@
       "correctAnswer": "C"
     },
     {
-      "questionTxt": "6. Consiste en analizar prospectivamente los riesgos que pueden afectar a las personas y bienes protegidos por la protección civil y las capacidades de respuesta necesarias. Hablamos de:",
+      "questionTxt": "Consiste en analizar prospectivamente los riesgos que pueden afectar a las personas y bienes protegidos por la protección civil y las capacidades de respuesta necesarias. Hablamos de:",
       "a": "a) Estrategia del Sistema de Protección Civil.",
       "b": "b) Consejo Nacional de Protección Civil. c) Consejo de Seguridad Nacional.",
       "c": "c) Consejo de Seguridad Nacional.",
@@ -50,7 +50,7 @@
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "7. ¿Conforme qué artículo de la C.E. velarán los poderes públicos por que la atención de los ciudadanos en caso de catástrofe sea equivalente cualquiera que sea su lugar de residencia?",
+      "questionTxt": "¿Conforme qué artículo de la C.E. velarán los poderes públicos por que la atención de los ciudadanos en caso de catástrofe sea equivalente cualquiera que sea su lugar de residencia?",
       "a": "a) 129.1.",
       "b": "b) 139.1.",
       "c": " c) 149.1",
@@ -58,7 +58,7 @@
       "correctAnswer": "B"
     },
     {
-      "questionTxt": "8. Según el artículo 5 de la Ley 17/2015, ¿quién tiene derecho a la protección en caso de emergencia?",
+      "questionTxt": "Según el artículo 5 de la Ley 17/2015, ¿quién tiene derecho a la protección en caso de emergencia?",
       "a": "a) Todos los residentes del territorio español.",
       "b": "b) Todos los residentes de una Comunidad Autónoma.",
       "c": "c) Todos los residentes de una provincia.",
@@ -66,7 +66,7 @@
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "9. Indica la respuesta correcta en referencia al artículo 5.4 de la ley 17/2015:",
+      "questionTxt": "Indica la respuesta correcta en referencia al artículo 5.4 de la ley 17/2015:",
       "a": "a) Los poderes públicos velarán para que se adopten medidas específicas que garanticen que las personas con discapacidad conozcan los riesgos, peligros y las medidas de autoprotección y prevención, sean atendidas e informadas en casos de emergencia y participen en los planes de protección civil.",
       "b": "b) Los poderes públicos velarán para que se adopten medidas específicas que garanticen que las personas con discapacidad conozcan los riesgos y las medidas de protección y prevención, sean atendidas y formadas en casos de emergencia y participen en los planes de protección civil.",
       "c": "c) Los poderes públicos velarán para que se adopten medidas específicas que garanticen que las personas con discapacidad conozcan los riesgos y las medidas de autoprotección y prevención, sean atendidas e informadas en casos de emergencia y participen en los planes de protección civil.",
@@ -74,7 +74,7 @@
       "correctAnswer": "C"
     },
     {
-      "questionTxt": "10. ¿Quién aprobará la Estrategia del Sistema Nacional de Protección Civil?",
+      "questionTxt": "¿Quién aprobará la Estrategia del Sistema Nacional de Protección Civil?",
       "a": "a) Será aprobada por el Consejo de Seguridad y Emergencias, a propuesta del Ministro del Interior.",
       "b": "b) Será aprobada por el Consejo Nacional de Protección Civil, a propuesto del Consejero Nacional de Protección Civil.",
       "c": "c) Será aprobada por el Consejo de Seguridad Nacional de Protección Civil, a propuesta del Consejero Nacional de Protección Civil.",
@@ -82,7 +82,7 @@
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "11. ¿Quién aprobará las líneas básicas de la Estrategia del Sistema Nacional de Protección Civil?",
+      "questionTxt": "¿Quién aprobará las líneas básicas de la Estrategia del Sistema Nacional de Protección Civil?",
       "a": "a) El Consejo de Seguridad Nacional de Protección Civil.",
       "b": "b) El Consejo Nacional de Protección Civil.",
       "c": "c) La Comisión Nacional de Protección Civil.",
@@ -90,7 +90,7 @@
       "correctAnswer": "B"
     },
     {
-      "questionTxt": "12. ¿Cuántos artículos tiene el R.D. 407/1992?",
+      "questionTxt": "¿Cuántos artículos tiene el R.D. 407/1992?",
       "a": "a) 1.",
       "b": "b) 3.",
       "c": "c) 9.",
@@ -98,7 +98,7 @@
       "correctAnswer": "A"
     },
     {
-      "questionTxt": "13. ¿Quién podrá determinar que otros riesgos potenciales pueden ser objetos de regulación a través de Planes Especiales, en función del conocimiento disponible sobre el alcance y magnitud de sus consecuencias?",
+      "questionTxt": "¿Quién podrá determinar que otros riesgos potenciales pueden ser objetos de regulación a través de Planes Especiales, en función del conocimiento disponible sobre el alcance y magnitud de sus consecuencias?",
       "a": "a) El Ministerio del Interior.",
       "b": "b) El Consejo Nacional de Protección Civil. c) El Gobierno.",
       "c": "c) El Gobierno.",
@@ -106,7 +106,7 @@
       "correctAnswer": "C"
     },
     {
-      "questionTxt": "14. Indica cual de las respuestas siguientes es una emergencia en la que está presente el interés nacional:",
+      "questionTxt": "Indica cual de las respuestas siguientes es una emergencia en la que está presente el interés nacional:",
       "a": "a) Las que requieran para la protección de personas y bienes la aplicación de la Ley Orgánica 5/1981, de 1 de Junio, reguladora de los estados de alarma, excepción y sitio.",
       "b": "b) Aquellas en las que sea necesario prever la coordinación de Administraciones diversas porque afecten a varias Comunidades Autónomas y exijan una aportación de recursos a nivel autonómico.",
       "c": "c) Las que por sus dimensiones efectivas o previsibles requieran una dirección nacional de las Administraciones Públicas implicadas.",
@@ -114,15 +114,15 @@
       "correctAnswer": "C"
     },
     {
-      "questionTxt": "15. ¿Qué se entiende por plan de protección civil a efectos de esta Norma Básica de Protección Civil?",
-      "a": "a) La previsión del marco orgánico funcional y de los mecanismos que permiten",
-      "b": "la movilización de los recursos humanos y materiales necesarios para la protección de personas y bienes en caso de grave riesgo colectivo, catástrofe o calamidad pública.",
-      "c": "b) La previsión del marco normativo funcional y de los mecanismos que permiten la movilización de los recursos necesarios para la protección de personas y bienes en caso de grave riesgo colectivo, catástrofe o calamidad pública.",
-      "d": "c) La previsión del marco orgánico funcional y de los mecanismos que permiten la movilización de los recursos humanos y materiales necesarios para la protección de personas y bienes en caso de grave riesgo colectivo, amenaza, peligro inminente, catástrofe o calamidad pública.",
+      "questionTxt": "¿Qué se entiende por plan de protección civil a efectos de esta Norma Básica de Protección Civil?",
+      "a": "a) La previsión del marco orgánico funcional y de los mecanismos que permiten la movilización de los recursos humanos y materiales necesarios para la protección de personas y bienes en caso de grave riesgo colectivo, catástrofe o calamidad pública.",
+      "b": "b) La previsión del marco normativo funcional y de los mecanismos que permiten la movilización de los recursos necesarios para la protección de personas y bienes en caso de grave riesgo colectivo, catástrofe o calamidad pública.",
+      "c": "c) La previsión del marco orgánico funcional y de los mecanismos que permiten la movilización de los recursos humanos y materiales necesarios para la protección de personas y bienes en caso de grave riesgo colectivo, amenaza, peligro inminente, catástrofe o calamidad pública.",
+      "d": "d) La previsión del marco orgánico funcional y de los mecanismos que permiten la movilización de los recursos necesarios para la protección de personas y bienes en caso de grave riesgo colectivo, amenaza, peligro inminente, catástrofe o calamidad pública.",
       "correctAnswer": "A"
     },
     {
-      "questionTxt": "16. Indica la respuesta correcta según el punto 3 de la NBPC, Disposiciones Generales:",
+      "questionTxt": "Indica la respuesta correcta según el punto 3 de la NBPC, Disposiciones Generales:",
       "a": "a) Los Planes territoriales se elaborarán para hacer frente a las emergencias generales que se puedan presentar en cada ámbito territorial de Comunidad Autónoma y ámbito superior.",
       "b": "b) El Plan Territorial de Comunidad Autónoma, podrá tener el carácter de Plan Director.",
       "c": "c) El Plan Territorial permite la integración de Planes Especiales de ámbito inferior.",
@@ -130,7 +130,7 @@
       "correctAnswer": "B"
     },
     {
-      "questionTxt": "17. Indica la respuesta incorrecta de las siguientes directrices para la elaboración del Plan Territorial:",
+      "questionTxt": "Indica la respuesta incorrecta de las siguientes directrices para la elaboración del Plan Territorial:",
       "a": "a) Definición de su objetivo y alcance, valorando y concretando lo que puede conseguirse con la correcta aplicación del Plan.",
       "b": "b) Determinación de la figura del Director del Plan, al que corresponde la dirección de todas las operaciones que deben realizarse al amparo del Plan, en cualquiera de las fases que caracterizan la evolución de la emergencia.",
       "c": "c) Cada plan Territorial contemplará el establecimiento de un Centro de Coordinación Operativa Integrado (CECOPI), donde se realice la dirección y coordinación de todas las operaciones, disponiendo de un sistema de enlace con el CECOPI de la Administración en que se integre el Plan.",
@@ -138,7 +138,7 @@
       "correctAnswer": "C"
     },
     {
-      "questionTxt": "18. Punto 4.f de NBPC, cual de las siguientes no se considera medida de protección mínima:",
+      "questionTxt": "Punto 4.f de NBPC, cual de las siguientes no se considera medida de protección mínima:",
       "a": "a) Control de accesos.",
       "b": "b) Asistencia Sanitaria primaria.",
       "c": "c) Evacuación en sus distintas variantes.",
@@ -146,7 +146,7 @@
       "correctAnswer": "B"
     },
     {
-      "questionTxt": "19. ¿Cuáles serán las medidas de protección que tendrán doble vertiente según el punto 4.g de la NBPC?",
+      "questionTxt": "¿Cuáles serán las medidas de protección que tendrán doble vertiente según el punto 4.g de la NBPC?",
       "a": "a) La de su protección propiamente dicha y aquella y otra encaminada a evitar que se generen riesgos asociados que puedan incrementar los daños.",
       "b": "b) Las que establecen los procedimientos operativos de un lado y la protección con especial atención a los bienes declarados de interés cultural.",
       "c": "c) Las medidas encaminadas a las actuaciones de socorro y las relacionadas a la clasificación y control de afectados a fines de asistencia sanitaria social.",
@@ -154,7 +154,7 @@
       "correctAnswer": "A"
     },
     {
-      "questionTxt": "20. Indica la respuesta correcta de las siguientes medidas y actuaciones de socorro del punto 4.h de la NBPC:",
+      "questionTxt": "Indica la respuesta correcta de las siguientes medidas y actuaciones de socorro del punto 4.h de la NBPC:",
       "a": "a) Personas desaparecidas o incomunicadas.",
       "b": "b) Personas heridas y contaminadas.",
       "c": "c) Albergue de emergencia.",
@@ -162,7 +162,7 @@
       "correctAnswer": "C"
     },
     {
-      "questionTxt": "21. ¿Qué objeto tienen las intervenciones para combatir el suceso catastrófico?",
+      "questionTxt": "¿Qué objeto tienen las intervenciones para combatir el suceso catastrófico?",
       "a": "a) Actuar sobre la causa o directamente sobre los puntos críticos donde concurren circunstancias que facilitan la evolución o propagación de la catástrofe.",
       "b": "b) La previsión para garantizar la actuación primaria y secundaria en los momentos decisivos y permitir la incorporación ordenada de nuevos medios.",
       "c": "c) Determinar las medidas de rehabilitación de los servicios públicos cuando la ausencia de éstos constituya una situación de emergencia.",
@@ -170,7 +170,7 @@
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "22.¿Cada cuanto tiempo se revisará la Estrategia del Sistema Nacional de Protección Civil?",
+      "questionTxt": "¿Cada cuanto tiempo se revisará la Estrategia del Sistema Nacional de Protección Civil?",
       "a": "a) Alos2o3años.",
       "b": "b) A los 4 años.",
       "c": "c) A los 5 años.",
@@ -178,7 +178,7 @@
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "23. ¿Cómo se canalizará la participación de los ciudadanos en las tareas de protección civil?",
+      "questionTxt": "¿Cómo se canalizará la participación de los ciudadanos en las tareas de protección civil?",
       "a": "a) A través de las entidades de voluntariado.",
       "b": "b) A través de las administraciones públicas.",
       "c": "c) A través de lo que dispongan las leyes y normas.",
@@ -186,15 +186,15 @@
       "correctAnswer": "A"
     },
     {
-      "questionTxt": "24. Indica la respuesta correcta. Artículo 7 bis Deber de colaboración:",
+      "questionTxt": "Indica la respuesta correcta. Artículo 7 bis Deber de colaboración:",
       "a": "a) Los ciudadanos y las personas físicas/jurídicas están sujetos al deber de colaborar, personal o materialmente, en la protección civil, en caso de requerimiento de la autoridad competente de acuerdo con lo establecido en el artículo 30.3 de la Constitución y en los términos de esta ley.",
       "b": "b) Los ciudadanos y las personas jurídicas están sujetos al deber de colaborar, personal o materialmente, en la protección civil, en caso de requerimiento de la autoridad competente de acuerdo con lo establecido en el artículo 30.3 de la Constitución y en los términos de esta ley.",
       "c": "c) Los ciudadanos y las personas físicas/jurídicas están sujetos al deber de colaborar, personal o materialmente, en la protección civil, en caso de requerimiento de la autoridad competente de acuerdo con lo establecido en el artículo 30.4 de la Constitución y en los términos de esta ley.",
-      "d": "d) Los ciudadanos y las personas jurídicas están sujetos al deber de colaborar, personal o materialmente, en la protección civil, en caso de requerimiento de la autoridad competente de acuerdo con lo establecido en el artículo 30.4",
+      "d": "d) Los ciudadanos y las personas jurídicas están sujetos al deber de colaborar, personal o materialmente, en la protección civil, en caso de requerimiento de la autoridad competente de acuerdo con lo establecido en el artículo 30.4 de la Constitución y en los términos de esta ley.",
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "25. Señala la respuesta incorrecta de las siguientes afirmaciones:",
+      "questionTxt": "Señala la respuesta incorrecta de las siguientes afirmaciones:",
       "a": "a) En los casos de emergencia, cualquier persona estará obligada a la realización de las prestaciones personales que exijan las autoridades competentes en materia de protección civil, sin derecho a indemnización por esta causa, y al cumplimiento de las órdenes e instrucciones, generales o particulares, que aquellas establezcan.",
       "b": "b) Los ciudadanos deben tomar medidas necesarias para evitar la generación de riesgos, así como exponerse a ellos.",
       "c": "c) Las autoridades competentes en materia de protección civil podrán proceder a la requisa temporal de todo tipo de bienes, así como a la intervención u ocupación transitoria de los que sean necesarios y, en su caso, a la suspensión de actividades.",
@@ -202,7 +202,7 @@
       "correctAnswer": "A"
     },
     {
-      "questionTxt": "26. Indica cual de las siguientes respuestas acerca de los Planes Especiales es correcta:",
+      "questionTxt": "Indica cual de las siguientes respuestas acerca de los Planes Especiales es correcta:",
       "a": "a) Análisis del riesgo y la evaluación de sus consecuencias.",
       "b": "b) Establecimiento de sistemas de alarma, para que las actuaciones en emergencias sean eminentemente preventivas.",
       "c": "c) Planificación de medidas concretas, tanto de protección, como de carácter asistencial a la población.",
@@ -210,7 +210,7 @@
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "27.Se crea como sistema de comunicación de avisos de emergencia a las autoridades competentes en materia de protección civil, sin perjuicio de las competencias de las comunidades autónomas...",
+      "questionTxt": "Se crea como sistema de comunicación de avisos de emergencia a las autoridades competentes en materia de protección civil, sin perjuicio de las competencias de las comunidades autónomas...",
       "a": "a) Red de Alerta de Protección Civil.",
       "b": "b) Centro Nacional de Seguimientos y Comunicaciones de Emergencias de Protección Civil.",
       "c": "c) Centro de Coordinación de Emergencias de Protección Civil.",
@@ -218,7 +218,7 @@
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "28. Uno de los siguientes riesgos no es objeto de Plan Especial:",
+      "questionTxt": "Uno de los siguientes riesgos no es objeto de Plan Especial:",
       "a": "a) Volcánicos.",
       "b": "b) Riadas e inundaciones.",
       "c": "c) Sismos.",
@@ -226,7 +226,7 @@
       "correctAnswer": "B"
     },
     {
-      "questionTxt": "29. ¿Que R.D. aprueba el Plan Básico de Emergencia Nuclear?",
+      "questionTxt": "¿Que R.D. aprueba el Plan Básico de Emergencia Nuclear?",
       "a": "a) R.D. 1070/2012.",
       "b": "b) R.D. 893/2013. ",
       "c": "c) R.D. 387/1996. ",
@@ -234,7 +234,7 @@
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "30. ¿Qué tipo de plan se considera el relacionado a Situaciones Bélicas según el punto 7 de la NBPC?",
+      "questionTxt": "¿Qué tipo de plan se considera el relacionado a Situaciones Bélicas según el punto 7 de la NBPC?",
       "a": "a) Plan Básico.",
       "b": "b) Plan Especial.",
       "c": "c) Plan Estatal.",
@@ -242,7 +242,7 @@
       "correctAnswer": "A"
     },
     {
-      "questionTxt": "31. Indica la respuesta correcta de las siguientes afirmaciones:",
+      "questionTxt": "Indica la respuesta correcta de las siguientes afirmaciones:",
       "a": "a) La Norma Básica de Protección Civil, aprobada mediante Decreto a propuesta del titular del Ministerio del Interior, y previo informe del Consejo Nacional de Protección Civil, establece las directrices básicas para la identificación de riesgos de emergencias y actuaciones para su gestión integral.",
       "b": "b) La Norma Básica de Protección Civil, aprobada mediante Decreto a propuesta del titular del Ministerio del Interior, y previo informe del Consejo de Seguridad Nacional de Protección Civil, establece las directrices básicas para la identificación de riesgos de emergencias y actuaciones para su gestión integral.",
       "c": "c) La Norma Básica de Protección Civil, aprobada mediante Decreto a propuesta del titular del Ministerio del Interior, y previo informe del Sistema Nacional de Protección Civil, establece las directrices básicas para la identificación de riesgos de emergencias y actuaciones para su gestión integral.",
@@ -250,7 +250,7 @@
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "32. Los planes especiales pueden articularse, dependiendo de los previsto en la correspondiente Directriz Básica, conforme a las modalidades:",
+      "questionTxt": "Los planes especiales pueden articularse, dependiendo de los previsto en la correspondiente Directriz Básica, conforme a las modalidades:",
       "a": "a) Estatales y supraautonómicos.",
       "b": "b) De Comunidad Autónoma.",
       "c": "c) Supraprovincial.",
@@ -258,7 +258,7 @@
       "correctAnswer": "B"
     },
     {
-      "questionTxt": "33. Son planes Especiales todos aquellos que se elaboran para hacer frente a los riesgos de emergencia que se puedan presentar en el territorio de una Comunidad Autónoma o de una Entidad Local. Dichos planes serán aprobados por:",
+      "questionTxt": "Son planes Especiales todos aquellos que se elaboran para hacer frente a los riesgos de emergencia que se puedan presentar en el territorio de una Comunidad Autónoma o de una Entidad Local. Dichos planes serán aprobados por:",
       "a": "a) Por la administración competente, autonómica o local, de conformidad con lo previsto en su legislación específica.",
       "b": "b) Por la Comisión de Protección Civil de la Comunidad respectiva.",
       "c": "c) Por la Administración competente en materia de Protección Civil y Emergencias.",
@@ -266,7 +266,7 @@
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "34.¿Quién es órgano superior de dirección y coordinación en materia de protección civil según la NBPC?",
+      "questionTxt": "¿Quién es órgano superior de dirección y coordinación en materia de protección civil según la NBPC?",
       "a": "a) La Comisión Nacional de Protección Civil.",
       "b": "b) El Sistema Nacional de Protección Civil.",
       "c": "c) El Gobierno.",
@@ -274,7 +274,7 @@
       "correctAnswer": "C"
     },
     {
-      "questionTxt": "35. Definición de respuesta inmediata a las Emergencias según Ley 17/2015:",
+      "questionTxt": "Definición de respuesta inmediata a las Emergencias según Ley 17/2015:",
       "a": "a) Actuación de los servicios públicos de intervención tras el acaecimiento de una emergencia o en una situación que pudiera derivar en emergencia, con la finalidad de evitar daños, rescatar y proteger a las personas, velar por la seguridad ciudadana y satisfacer las necesidades básicas de la población afectada.",
       "b": "b) Actuación de los servicios públicos y privados de intervención tras el acaecimiento de una emergencia o en una situación que pudiera derivar en emergencia, con la finalidad de evitar daños, rescatar y proteger a las personas, velar por la seguridad ciudadana y satisfacer las necesidades básicas de la población afectada.",
       "c": "c) Actuación de los servicios públicos o privados de intervención tras el acaecimiento de una emergencia o en una situación que pudiera derivar en emergencia, con la finalidad de evitar daños, rescatar y proteger a las personas y bienes, velar por la seguridad ciudadana y satisfacer las necesidades básicas de subsistencia de la población afectada.",
@@ -282,7 +282,7 @@
       "correctAnswer": "C"
     },
     {
-      "questionTxt": "36. De los siguientes servicios de intervención, indica cual no tendrá consideración de servicio público de intervención y asistencia en emergencias de protección civil según el artículo 17 de la Ley 17/2015:",
+      "questionTxt": "De los siguientes servicios de intervención, indica cual no tendrá consideración de servicio público de intervención y asistencia en emergencias de protección civil según el artículo 17 de la Ley 17/2015:",
       "a": "a) La Unidad Militar de Emergencias.",
       "b": "b) Los Servicios de Rescate.",
       "c": "c) Las personas de contacto con las víctimas y sus familiares. ",
@@ -290,7 +290,7 @@
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "37. ¿Quién aprobará los planes Territoriales según el punto 8.2 de la NBPC?",
+      "questionTxt": "¿Quién aprobará los planes Territoriales según el punto 8.2 de la NBPC?",
       "a": "a) La Comisión Nacional de Protección Civil.",
       "b": "b) La Comisión de Protección Civil de la Comunidad.",
       "c": "c) La administración pública pertinente.",
@@ -298,7 +298,7 @@
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "38.Una de las siguientes funciones del Centro Nacional de Seguimiento y Coordinación de Emergencias de Protección Civil es falsa, indica cual:",
+      "questionTxt": "Una de las siguientes funciones del Centro Nacional de Seguimiento y Coordinación de Emergencias de Protección Civil es falsa, indica cual:",
       "a": "a) Gestionar la Red Nacional de Información sobre Protección Civil.",
       "b": "b) Actuar como Centro de Coordinación De Emergencias en las emergencias de interés nacional.",
       "c": "c) Actuar como punto de contacto para la comunicación e intercambio de información con los órganos de la Unión Europea, en el marco del Mecanismo de Protección Civil de la Unión y otros organismos internacionales.",
@@ -306,7 +306,7 @@
       "correctAnswer": "B"
     },
     {
-      "questionTxt": "39. ¿Cuándo declarará el Ministro del Interior una emergencia de interés nacional?",
+      "questionTxt": "¿Cuándo declarará el Ministro del Interior una emergencia de interés nacional?",
       "a": "a) Cuando se produzca una situación de emergencia de las establecidas en el artículo 1.1 de la NBPC.",
       "b": "b) Cuando se produzca una situación de emergencia de las establecidas en el artículo 1.2 de la NBPC.",
       "c": "c) Cuando se produzca una situación de emergencia de las establecidas en el artículo 1.3 de la NBPC.",
@@ -314,7 +314,7 @@
       "correctAnswer": "B"
     },
     {
-      "questionTxt": "40. ¿Dónde se encuadran las funciones encomendadas al Centro Nacional de Seguimiento y Coordinación de Emergencias de Protección Civil?",
+      "questionTxt": "¿Dónde se encuadran las funciones encomendadas al Centro Nacional de Seguimiento y Coordinación de Emergencias de Protección Civil?",
       "a": "a) En la Dirección General de Protección Civil y Emergencias.",
       "b": "b) En la Dirección General de Protección Civil y Gestión de las Emergencias.",
       "c": "c) En el Sistema Nacional de Protección Civil.",
@@ -322,7 +322,7 @@
       "correctAnswer": "A"
     },
     {
-      "questionTxt": "41. ¿Cómo debe ser el sistema de clasificación del catálogo de los recursos movilizables en caso de emergencia establecidos por los Planes Territoriales? ",
+      "questionTxt": "¿Cómo debe ser el sistema de clasificación del catálogo de los recursos movilizables en caso de emergencia establecidos por los Planes Territoriales? ",
       "a": "a) Homogéneo.",
       "b": "b) Homologado.",
       "c": "c) Multidisciplinar.",
@@ -330,7 +330,7 @@
       "correctAnswer": "B"
     },
     {
-      "questionTxt": "42. Conjunto de acciones y medidas de ayuda de las entidades públicas y privadas dirigidas al restablecimiento de la normalidad en la zona siniestrada, una vez finalizada la respuesta inmediata a la emergencia:",
+      "questionTxt": "Conjunto de acciones y medidas de ayuda de las entidades públicas y privadas dirigidas al restablecimiento de la normalidad en la zona siniestrada, una vez finalizada la respuesta inmediata a la emergencia:",
       "a": "a) Fase de recuperación.",
       "b": "b) Fase de vuelta a la normalidad. ",
       "c": "c) Fase de restablecimiento.",
@@ -338,7 +338,7 @@
       "correctAnswer": "A"
     },
     {
-      "questionTxt": "43. Indica la respuesta correcta acerca de los Daños personales, artículo 22 de la Ley 17/2015:",
+      "questionTxt": "Indica la respuesta correcta acerca de los Daños personales, artículo 22 de la Ley 17/2015:",
       "a": "a) Cuando se hayan producido daños personales se concederán ayudas económicas por fallecimiento y por incapacidad absoluta, permanente y temporal, en los términos previstos en la disposición adicional cuarta.",
       "b": "b) Cuando se hayan producido daños personales se concederán ayudas económicas por fallecimiento y por incapacidad absoluta, permanente y temporal, en los términos previstos en la disposición adicional tercera.",
       "c": "c) Cuando se hayan producido daños personales se concederán ayudas económicas por fallecimiento y por incapacidad absoluta, permanente y temporal, en los términos previstos en la disposición adicional segunda.",
@@ -346,7 +346,7 @@
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "44.¿A quien corresponde declarar una zona afectada gravemente por una emergencia de Protección civil?",
+      "questionTxt": "¿A quien corresponde declarar una zona afectada gravemente por una emergencia de Protección civil?",
       "a": "a) Al Gobierno, a propuesta de los Ministros del Interior y de Economía e Industria.",
       "b": "b) Al Consejo de Ministros, a propuesta de los Ministros de Hacienda y Administraciones Públicas y del Interior.",
       "c": "c) A la Comisión Nacional de Protección Civil, a propuesta de los Ministros de Hacienda y Administraciones Públicas y del Interior.",
@@ -354,7 +354,7 @@
       "correctAnswer": "B"
     },
     {
-      "questionTxt": "45. ¿Cuál de las siguientes medidas aplicables cuando se declara una zona afectada gravemente por una emergencia de protección civil no está incluida en el artículo 24, Medidas aplicables?",
+      "questionTxt": "¿Cuál de las siguientes medidas aplicables cuando se declara una zona afectada gravemente por una emergencia de protección civil no está incluida en el artículo 24, Medidas aplicables?",
       "a": "a) Ayudas económicas a particulares por daños en la vivienda habitual y enseres de primera necesidad.",
       "b": "b) Ayudas destinadas a establecimientos industriales, mercantiles y de servicios.",
       "c": "c) Apertura de líneas de préstamo preferenciales subvencionadas por el Instituto de Crédito Oficial.",
@@ -362,7 +362,7 @@
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "46. Además de las medidas señaladas en la pregunta anterior, cual de las siguientes medidas no se podrá adoptar en el mismo supuesto:",
+      "questionTxt": "Además de las medidas señaladas en la pregunta anterior, cual de las siguientes medidas no se podrá adoptar en el mismo supuesto:",
       "a": "a) Exención de la cuota del Impuesto sobre la Renta a las Personas Físicas, correspondientes al ejercicio presupuestario en el que haya acaecido la emergencia que afecte a viviendas, establecimientos industriales, turísticos y mercantiles...",
       "b": "b) Reducción en el Impuesto sobre Actividades Económicas, correspondiente al ejercicio presupuestario en el que hay acaecido la emergencia a las industrias de cualquier naturaleza, establecimientos mercantiles, turísticos y profesionales...",
       "c": "c) Las exenciones y reducciones de cuotas en los tributos señalados en los ordinales anteriores comprenderán la de los recargos legalmente autorizados sobre los mismos.",
@@ -370,7 +370,7 @@
       "correctAnswer": "A"
     },
     {
-      "questionTxt": "47. ¿Quién valora la eficacia del Sistema Nacional de Protección Civil a través de la Memoria Anual?",
+      "questionTxt": "¿Quién valora la eficacia del Sistema Nacional de Protección Civil a través de la Memoria Anual?",
       "a": "a) El Gobierno.",
       "b": "b) El Congreso.",
       "c": "c) El Senado.",
@@ -378,7 +378,7 @@
       "correctAnswer": "C"
     },
     {
-      "questionTxt": "48. Consiste en el conjunto de medidas y acciones encaminadas a evitar o mitigar los posibles efectos adversos de los riesgos y amenazas de emergencia. Hablamos de:",
+      "questionTxt": "Consiste en el conjunto de medidas y acciones encaminadas a evitar o mitigar los posibles efectos adversos de los riesgos y amenazas de emergencia. Hablamos de:",
       "a": "a) Prevención.",
       "b": "b) Autoprotección.",
       "c": "c) Evaluación de riesgos. ",
@@ -386,7 +386,7 @@
       "correctAnswer": "D"
     },
     {
-      "questionTxt": "49. ¿Dónde se regularán las bases para la mejora de la coordinación y eficiencia de las actuaciones de los servicios regulados en el artículo 17 de la Ley 17/2015? ",
+      "questionTxt": "¿Dónde se regularán las bases para la mejora de la coordinación y eficiencia de las actuaciones de los servicios regulados en el artículo 17 de la Ley 17/2015? ",
       "a": "a) En La Ley 17/2015.",
       "b": "b) En la Norma Básica de Protección Civil.",
       "c": "c) En la Norma Básica de Autoprotección.",
@@ -394,7 +394,7 @@
       "correctAnswer": "B"
     },
     {
-      "questionTxt": "50. ¿Según qué artículo, el Gobierno, a propuesta del Ministerio del Interior y a iniciativa, en su caso, del Presidente de la Comunidad Autónoma o del órgano correspondiente de la entidad local afectada, podrá delegar todas o parte de sus funciones en aquellos casos en que la naturaleza de la emergencia lo hiciera aconsejable?",
+      "questionTxt": "¿Según qué artículo, el Gobierno, a propuesta del Ministerio del Interior y a iniciativa, en su caso, del Presidente de la Comunidad Autónoma o del órgano correspondiente de la entidad local afectada, podrá delegar todas o parte de sus funciones en aquellos casos en que la naturaleza de la emergencia lo hiciera aconsejable?",
       "a": "a) Artículo 15.2 de la Ley 17/2015.",
       "b": "b) Artículo 15.2 de la Ley 2/1985.",
       "c": "c) Artículo 15.2 del R.D. 153/1997.",

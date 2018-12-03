@@ -19,6 +19,13 @@ fun loadExams(context: Context): List<Exam> {
   examsList.add(XMLParser.parseExamen(context, "Exam2.json"))
   examsList.add(XMLParser.parseExamen(context, "Exam3.json"))
   examsList.add(XMLParser.parseExamen(context, "Exam4.json"))
+  examsList.add(XMLParser.parseExamen(context, "Exam5.json"))
+  examsList.add(XMLParser.parseExamen(context, "Exam6.json"))
+  examsList.add(XMLParser.parseExamen(context, "Exam7.json"))
+  examsList.add(XMLParser.parseExamen(context, "Exam8.json"))
+  examsList.add(XMLParser.parseExamen(context, "Exam9.json"))
+  examsList.add(XMLParser.parseExamen(context, "Exam10.json"))
+  examsList.add(XMLParser.parseExamen(context, "Exam11.json"))
   return examsList
 }
 

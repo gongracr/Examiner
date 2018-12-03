@@ -1,0 +1,485 @@
+{
+  "examName": "Beca Septiembre",
+  "questionsList": [
+    {
+      "questionTxt": "Art.2 de C.E.: La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho...",
+      "a": "A la soberanía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+      "b": "A la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+      "c": "A las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "Sección segunda del capítulo segundo del Título I de la C.E.:",
+      "a": "De los derechos y deberes de los ciudadanos.",
+      "b": "De los derechos fundamentales y de las libertades públicas.",
+      "c": "De los principios rectores de la política social y económica.",
+      "d": "De la suspensión de derechos y libertades.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Art. 141 de C.E.: La provincia es...",
+      "a": "Una entidad local con personalidad jurídica.",
+      "b": "Una entidad local con personalidad jurídica independiente.",
+      "c": "Una entidad local con personalidad jurídica propia.",
+      "d": "Una entidad territorial con personalidad jurídica.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Cuál de las siguientes figuras NO existe en todos los ayuntamientos?",
+      "a": "El teniente de alcalde.",
+      "b": "El pleno.",
+      "c": "La junta de gobierno local.",
+      "d": "El alcalde.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Cuál de las siguientes figuras NO existe en todas las diputaciones?",
+      "a": "El presidente.",
+      "b": "La Junta de gobierno local.",
+      "c": "Los vicepresidentes.",
+      "d": "El pleno.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "Realizarán actividades de fomento, prestacionales o de gestión común de servicios públicos y cuántas otras estén previstas en las leyes. Hablamos de:",
+      "a": "Ministerios.",
+      "b": "Ayuntamientos.",
+      "c": "Comisiones.",
+      "d": "Consorcios.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿A quien se podrá aplicar el Derecho Civil Foral Valenciano?",
+      "a": "A quien ostente la vecindad civil valenciana.",
+      "b": "A quien ostente la vecindad administrativa en la Comunitat Valenciana.",
+      "c": "A todos los residentes de la Comunidad Valenciana.",
+      "d": "A todos los ciudadanos españoles que se encuentren en la Comunitat Valenciana.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Las administraciones públicas locales de la Comunitat Valenciana se rigen en sus relaciones por los principios de:",
+      "a": "Coordinación, solidaridad territorial y asistencia recíproca.",
+      "b": "Colaboración, cooperación, subsidiariedad y capacidad.",
+      "c": "Coordinación, colaboración y cooperación.",
+      "d": "Coordinación, lealtad institucional, asistencia recíproca y subsidiariedad.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Cada cuanto tiempo la Comisión Especial de Sugerencias y Reclamaciones darán cuenta al pleno municipal sobre el resultado de su actividad?",
+      "a": "Al bimestre.",
+      "b": "Al trimestre.",
+      "c": "Al semestre.",
+      "d": "Anualmente.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Indica de las siguientes competencias, cual NO asumen los municipios valencianos:",
+      "a": "Protección del medio ambiente.",
+      "b": "Patrimonio histórico-artístico.",
+      "c": "Mercados y venta no sedentaria.",
+      "d": "Todas son competencias asumibles por los municipios valencianos.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Círculo máximo resultante de la intersección de un plano que contenga al eje de revolución se denomina:",
+      "a": "Meridiano.",
+      "b": "Polos.",
+      "c": "Ecuador.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Para qué tipo de fuego podremos utilizar un extintor de agua pulverizada con aditivos?",
+      "a": "Para la clase A y B.",
+      "b": "Para la clase C.",
+      "c": "Para la clase F.",
+      "d": "A y c son correctas.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "De los siguientes sistemas de rociadores automáticos, indica cual no contempla la norma UNE-EN 12845:",
+      "a": "Instalación seca.",
+      "b": "Instalación alterna.",
+      "c": "De acción previa.",
+      "d": "De detección automática.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Según la norma UNE-EN 14387:2004+A1:2008 Equipos de protección respiratoria. Filtros contra gases y filtros combinados. Requisitos, ensayo, marcado, ¿que tipo de filtro es aquel con el código de color blanco y una letra P?",
+      "a": "Azul. Gases nitrosos, incluyendo monóxido de nitrógeno.",
+      "b": "Blanco. Partículas.",
+      "c": "Gris claro. Partes por millón de contaminantes orgánicos.",
+      "d": "Gris oscuro. Partículas de compuestos inorgánicos.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Qué capacidad de elevación posee el tráctel T-7?",
+      "a": "750 kg.",
+      "b": "1000 kg.",
+      "c": "1250 kg.",
+      "d": "1500 kg.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Vehículo no autopropulsado diseñado y concebido para ser remolcado por un vehículo de motor.",
+      "a": "Remolque.",
+      "b": "Semirremolque.",
+      "c": "Tracto-remolque.",
+      "d": "A y b son correctas.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Qué frecuencias de radio emplea la red COMDES?",
+      "a": "SHF.",
+      "b": "UHF.",
+      "c": "VHF.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "Indica cual de los siguientes parques de bomberos del Consorcio se considera voluntario:",
+      "a": "Silla.",
+      "b": "Requena.",
+      "c": "Ontinyent.",
+      "d": "Cofrentes.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿A qué termino municipal pertenece la cima del Mondúber?",
+      "a": "Alfafar.",
+      "b": "Xeresa.",
+      "c": "Terrateig.",
+      "d": "Vallés.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "El cuerpo humano puede soportar ésta temperatura de tres a cinco horas:",
+      "a": "38C.",
+      "b": "43C.",
+      "c": "50C.",
+      "d": "55C.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Ley 31/1995. Conjunto de actividades o medidas adoptadas o previstas en todas las fases de la actividad de la empresa con el fin de evitar o disminuir los riesgos derivados del trabajo. Corresponde con la definición de:",
+      "a": "Prevención.",
+      "b": "Protección colectiva.",
+      "c": "Condición de trabajo.",
+      "d": "Riesgo laboral.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Qué artículo de la LPRL habla sobre la vigilancia de la salud?",
+      "a": 19,
+      "b": 22,
+      "c": 25,
+      "d": 26,
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Cuál de los siguientes tipos de escaleras tiene uso prohibido?",
+      "a": "Escalera de mano simple.",
+      "b": "Escalera de mano de tijera.",
+      "c": "Escalera de mano de madera pintada.",
+      "d": "Todas pueden usarse legalmente.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Quién es el encargado de de analizar y evaluar los riesgos existentes que no puedan evitarse o limitarse suficientemente para la elección de los equipos de protección individual?",
+      "a": "El empresario.",
+      "b": "El delegado de prevención.",
+      "c": "El Servicio de prevención propio.",
+      "d": "Los propios trabajadores, previa consulta al empresario.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Indica de los siguientes derechos de los empleados públicos, cuál se considera derecho individual ejercido colectivamente.",
+      "a": "La libre asociación profesional.",
+      "b": "A la inamovilidad en la condición de funcionario de carrera.",
+      "c": "A la libertad sindical.",
+      "d": "A y c son correctas.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Por medio de qué legislación se hará efectiva la carrera profesional y promoción profesional del personal eventual?",
+      "a": "Por medio del RDL 5/2015.",
+      "b": "Por medio de una ley orgánica.",
+      "c": "Por medio del Estatuto de los trabajadores o en los convenios colectivos.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿Un funcionario interino tiene derecho a percibir trienios?",
+      "a": "Sí.",
+      "b": "No.",
+      "c": "Solamente a partir del momento en que sea funcionario de carrera.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Cuando se vaya a realizar un concurso de provisión de puestos de trabajo del personal funcionario de carrera y se deba acreditar que algún funcionario es considerado víctima del terrorismo o amenazados y solicita ese puesto para garantizar la consecución de los fines de protección y asistencia social ¿Qué organismo es el encargado de elaborar el informe que acredite dicha condición?",
+      "a": "La administración pública a la que pertenezca.",
+      "b": "El Ministerio de trabajo.",
+      "c": "El Ministerio del Interior.",
+      "d": "A y b son correctas.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Artículo 85 Situaciones administrativas de los funcionarios interinos del RDL 5/2015, indica cual de las siguientes no se considera situación administrativa:",
+      "a": "Servicio activo.",
+      "b": "Servicios especiales.",
+      "c": "Servicio inactivo.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿Cuánto dura el período de nombramiento del personal directivo público profesional según el artículo 20 de la Ley 10/2010, de 9 de julio?",
+      "a": "2 años.",
+      "b": "3 años.",
+      "c": "4 años.",
+      "d": "Indefinido.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Indica cual de los siguientes cuerpos funcionariales no agrupa la administración de la Generalitat Valenciana:",
+      "a": "Administración General.",
+      "b": "Administración Especial.",
+      "c": "Administración Local.",
+      "d": "Todos son cuerpos funcionariales de la Generalitat.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Qué distancia de seguridad hay que tomar cuando trabajemos ante el conductor de una línea eléctrica en carga con una tensión de 15 kV – 121 kV?",
+      "a": "0,7 metros.",
+      "b": "1 metro.",
+      "c": "1,7 metros.",
+      "d": "2,8 metros.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Qué numero de Reynolds son los que están comprendidos en el conocido como régimen de transición?",
+      "a": "Menos de 2000.",
+      "b": "Entre 2000 y 2500.",
+      "c": "Entre 2000 y 4500.",
+      "d": "Entre 1500 y 3000.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "Son piezas escuadradas o rollizos. Trabajan a compresión para mantener fija la separación entre dos elementos verticales ya sean de la construcción o del apeo:",
+      "a": "Bridas.",
+      "b": "Agujas.",
+      "c": "Jabalcón.",
+      "d": "Codales.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "De los siguientes tipos de cimentaciones profundas, indica cual no pertenece a dicho grupo:",
+      "a": "Pilote aislado.",
+      "b": "Zonas pilotadas.",
+      "c": "Micropilotes.",
+      "d": "Todos se consideran cimentaciones profundas.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Muro compuesto por dos hojas paralelas, eficazmente enlazadas por llaves o armaduras de tendel sin capacidad para transmitir el esfuerzo cortante, con una o ambas hojas soportando cargas verticales:",
+      "a": "Muro careado.",
+      "b": "Muro capuchino.",
+      "c": "Muro doblado.",
+      "d": "Muro relleno.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "La marca de “materias transportadas en caliente” se deberá llevar cuando la materia que se transporta:",
+      "a": "Tenga una temperatura superior a 100oC si es una sustancia líquida o por encima de 240oC si se trata de un sólido.",
+      "b": "Tenga una temperatura superior a 200oC si es una sustancia líquida o por encima de 300oC si se trata de un sólido.",
+      "c": "Tenga una temperatura superior a 150oC si es una sustancia líquida o por encima de 250oC si se trata de un sólido.",
+      "d": "Cuando la temperatura tanto para sustancia líquida o sólida sea superior o igual a 100oC.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Qué significado tiene W según el diamante de peligro de la NFPA?",
+      "a": "Inestable si se calienta. Tome precauciones normales.",
+      "b": "Extremadamente peligroso, use vestimenta totalmente protectora.",
+      "c": "Evite la utilización de agua.",
+      "d": "Posibilidad de cambio químico violento.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "La mayoría de picaduras de himenópteros produce una reacción local transitoria, cuando produce picor junto a escozor y dolor, se denomina:",
+      "a": "Edema.",
+      "b": "Eritema.",
+      "c": "Prurito.",
+      "d": "Angiodema.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Cuántos grados de anafilaxia podemos encontrar según el procedimiento de intervención en enjambres?",
+      "a": 3,
+      "b": 4,
+      "c": 5,
+      "d": 6,
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Qué duración puede tener el contenido del curso selectivo de IVASPE para el acceso a la escala básica?",
+      "a": "250 horas.",
+      "b": "300 horas.",
+      "c": "500 horas.",
+      "d": "Todas son correctas.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Indica la respuesta incorrecta sobre la ley 17/2015 del SNPC:",
+      "a": "Los planes de protección civil son el Plan Estatal General, los Planes Territoriales (ámbito autonómico o local), los Planes Especiales y los Planes de Autoprotección.",
+      "b": "La Norma Básica de Protección Civil, aprobada mediante Decreto a propuesta del titular del Ministerio del Interior y previo informe del Consejo Nacional de Protección civil.",
+      "c": "La Gestión de la Red de Alerta Nacional de Protección Civil corresponderá al Ministerio del Interior, a través del centro Nacional de seguimiento y coordinación de emergencias de protección civil.",
+      "d": "Ninguna es incorrecta.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "Según el Real Decreto 407/1993, de 24 de Abril ¿Cuántos artículos tiene la NBPC?",
+      "a": "1 artículo.",
+      "b": "9 artículos.",
+      "c": "A y b son correctas.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Le corresponde crear una estructura propia municipal de protección civil, Ley 13/2010:",
+      "a": "Al municipio.",
+      "b": "A la comisión de Protección Civil del municipio.",
+      "c": "A la comisión de Protección civil de la Comunitat.",
+      "d": "A la Conselleria competente en materia de protección civil.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "En los tramos curvos, el carril de rodadura debe quedar delimitado por la traza de una corona circular cuyos radios mínimos deben ser:",
+      "a": "5,50 m y 12,50 m.",
+      "b": "5,30 m y 12,50 m.",
+      "c": "5,50 m y 12,30 m.",
+      "d": "5,30m y12,30m.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "En las vías de acceso sin salida de más de 20 m de largo se dispondrá de un espacio suficiente para la maniobra de los:",
+      "a": "Vehículos de bomberos.",
+      "b": "Vehículos de bombeo.",
+      "c": "Vehículos del servicio de extinción de incendio.",
+      "d": "Camiones de bombeo.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Cuál será la distancia de recorrido real, medida horizontalmente, a cualquier hidrante en zonas urbanas?",
+      "a": "Inferior a 40 metros.",
+      "b": "Inferior a 60 metros.",
+      "c": "Inferior a 80 metros.",
+      "d": "Inferior a 100 metros.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿Cuál de las siguientes tipologías de túnel es del tipo “Cometido”?",
+      "a": "Carretero.",
+      "b": "Ferroviario.",
+      "c": "Marino.",
+      "d": "Trinchera.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿A que temperatura comienza generalmente el proceso de pirolisis?.",
+      "a": "Entre 100 y 200oC.",
+      "b": "Entre 150 y 250oC.",
+      "c": "Entre 100 y 250oC.",
+      "d": "Entre 150 y 200oC.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Qué letra hace referencia a la Integridad de un elemento constructivo?",
+      "a": "E.",
+      "b": "I.",
+      "c": "A.",
+      "d": "K.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Según CTE, los elementos verticales separadores de otro edificio deben ser al menos:",
+      "a": "EI 60.",
+      "b": "EI 120.",
+      "c": "REI 60.",
+      "d": "REI 120.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Qué tensión de entrada suelen tener las Estaciones Transformadoras ET?",
+      "a": "> 30 kV.",
+      "b": "> 45 kV.",
+      "c": "> 66 kV.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿ Y una Subestación Transformadora ST?.",
+      "a": "< 30 kV.",
+      "b": "< 45 kV.",
+      "c": "< 66 kV.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Qué tipo de productos podemos deducir que están en combustión cuando tenemos un humo de color gris?.",
+      "a": "Combustión de vegetales, pienso...",
+      "b": "Materiales compuestos por celulosa o fibras artificiales.",
+      "c": "Combustión de caucho.",
+      "d": "Plásticos, petróleos, materiales acrílicos.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "Si un niño precisa de un DEA, pero es menor de 8 años o de 25kg ¿Qué haremos?",
+      "a": "No podremos utilizar un DEA al proporcionar una energía peligrosa para su vida.",
+      "b": "No hay inconveniente, se puede utilizar en personas de cualquier edad y peso.",
+      "c": "Se empleará un sistema atenuador de dosis de carga.",
+      "d": "Los parches pediátricos que se emplearán proporcionarán una energía de 100-150 julios menos que el sistema estándar.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Según la escala de Glasgow, se considera que un paciente se encuentra en estado de coma cuando la puntuación resultante de la suma de las distintas respuestas es:",
+      "a": "Inferior a 8.",
+      "b": "Superior a 8.",
+      "c": "Inferior a 3.",
+      "d": "Superior a 3.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Según el Real Decreto 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público ¿Cuántos tipos de funcionarios contempla dicha legislación?",
+      "a": "Funcionarios de carrera.",
+      "b": "Funcionarios interinos.",
+      "c": "A y b son correctas.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿Podremos usar la emisora del vehículo cuando estemos utilizando el modo Gateway o Pasarela?.",
+      "a": "No, nunca.",
+      "b": "Sí.",
+      "c": "Sólo podremos utilizar el modo red.",
+      "d": "Sólo podremos utilizar el modo directo.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "La letra K en el alfabeto fonético internacional Código ICAO se menciona como:",
+      "a": "Kiko.",
+      "b": "Kilo.",
+      "c": "Kuwait.",
+      "d": "Kiwi.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Cuál será el factor K mínimo para asegurar los niveles de protección en una manguera semirrígida?",
+      "a": 25,
+      "b": 37,
+      "c": 42,
+      "d": 50,
+      "correctAnswer": "c"
+    }
+  ]
+}

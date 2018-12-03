@@ -1,0 +1,605 @@
+{
+  "examName": "Septiembre Alumnos 1",
+  "questionsList": [
+    {
+      "questionTxt": "La Constitución entra en vigor en la fecha:",
+      "a": "28/12/1978",
+      "b": "29/12/1978",
+      "c": "27/12/1978",
+      "d": "Ninguna de las anteriores es correcta.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "La forma política del Estado español es:",
+      "a": "La monarquía parlamentaria.",
+      "b": "La república semipresidencial.",
+      "c": "Un Estado social y democrático de Derecho.",
+      "d": "Ninguna de las anteriores es correcta.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "El derecho a la vida y la integridad física se recoge:",
+      "a": "En el Artículo 12",
+      "b": "En el Artículo 15",
+      "c": "En el Artículo 14",
+      "d": "En el Artículo 19",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "“El domicilio es inviolable. Ninguna entrada o registro podrá hacerse en él sin consentimiento [...] o [...], salvo en caso de [...].”",
+      "a": "“del titular o resolución judicial”; “causa de fuerza mayor”.",
+      "b": "“del titular o autorización judicial”; “caso de flagrante delito”.",
+      "c": "“del propietario o resolución judicial”; “caso de fuerza mayor”.",
+      "d": "“del titular o resolución judicial”; “caso de flagrante delito”.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿Cuál de estos derechos no se reconoce y protege bajo el Artículo 20 de la CE 1978?",
+      "a": "Libertad de cátedra.",
+      "b": "Elegir libremente su residencia y circular por el territorio nacional.",
+      "c": "Comunicar o recibir libremente información veraz por cualquier medio de difusión.",
+      "d": "Expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Qué artículos se comprenden dentro del Título VIII CE 1978?",
+      "a": "137-158, ambos inclusive.",
+      "b": "138-158, ambos inclusive.",
+      "c": "138-159, ambos inclusive.",
+      "d": "Ninguna de las anteriores es correcta.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Los recursos de las CCAA estarán constituidos por:",
+      "a": "Sus propios impuestos, tasas y contribuciones especiales; Impuestos cedidos total o parcialmente por el Estado; recargos sobre impuestos estatales y otras participaciones en los ingresos del Estado; Transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado, Rendimientos procedentes de su patrimonio e ingresos de derecho privado y el producto de las operaciones de crédito.",
+      "b": "Sus propios impuestos, tasas y contribuciones especiales; Impuestos cedidos total o parcialmente por el Estado; recargos sobre impuestos estatales y otras participaciones en los ingresos del Estado; Transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado, Rendimientos procedentes de su patrimonio e ingresos de derecho privado.",
+      "c": "Sus propios impuestos, tasas y contribuciones especiales; Transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado, Rendimientos procedentes de su patrimonio e ingresos de derecho privado y el producto de las operaciones de crédito.",
+      "d": "Sus propios impuestos, tasas y contribuciones especiales; Impuestos cedidos total o parcialmente por el Estado; recargos sobre impuestos estatales y otras participaciones en los ingresos del Estado; Rendimientos procedentes de su patrimonio e ingresos de derecho privado y el producto de las operaciones de crédito.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿En qué artículo se recoge el derecho a la autonomía a que se refiere el Artículo 143?",
+      "a": "Artículo 2",
+      "b": "Artículo 146",
+      "c": "Artículo 150",
+      "d": "Artículo 132",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Cuáles de las siguientes consignas no son obligatorias en los Estatutos de Autonomía?",
+      "a": "Denominación de la CCAA.",
+      "b": "Delimitación de su territorio.",
+      "c": "Competencias asumidas dentro del marco constitucional.",
+      "d": "Todas son obligatorias.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "La provincia es:",
+      "a": "Una subdivisión territorial con personalidad jurídica plena.",
+      "b": "Una entidad territorial con personalidad jurídica propia.",
+      "c": "Una entidad local con personalidad jurídica propia.",
+      "d": "Una entidad supramunicipal con personalidad jurídica plena y propia.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Qué artículo regula la lengua en el Estatuto de Autonomía de la Comunitat Valenciana?",
+      "a": "Artículo 6",
+      "b": "Artículo 3",
+      "c": "Artículo 2",
+      "d": "Artículo 4",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "La sede de la Generalitat se sitúa:",
+      "a": "En Valencia",
+      "b": "En cualquiera de los municipios de la Comunitat Valenciana, de acuerdo con lo que la Ley disponga.",
+      "c": "En Alicante.",
+      "d": "En Morella.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Mediante qué instrumento legislativo se regulará el alcance y contenido del reconocimiento a las comunidades de valencianos asentadas fuera de la Comunitat Valenciana?",
+      "a": "Reglamento",
+      "b": "Ley de Les Corts",
+      "c": "Decreto del Consell",
+      "d": "Ley Estatal.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "“Es la institución normativa del idioma valenciano”:",
+      "a": "L’Academia General de la Llengua Valenciana",
+      "b": "L’Asamblea de la Llengua Valenciana",
+      "c": "L’Academia Popular de la Llengua Valenciana",
+      "d": "L’Academia Valenciana de la Llengua",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "La recuperación de los Fueros del Reino de Valencia y el tratamiento del Derecho Foral Valenciano se recoge en el:",
+      "a": "Artículo 12",
+      "b": "Artículo 15",
+      "c": "Artículo 7",
+      "d": "Artículo 6",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Fecha de entrada en vigor de la Ley Orgánica 1/2006 de Reforma de la Ley Orgánica 5/1982, de 1 de julio, de Estatuto de Autonomía de la Comunitat Valenciana:",
+      "a": "11 de abril de 2006",
+      "b": "1 de julio de 2006",
+      "c": "11 de julio de 2006",
+      "d": "10 de abril de 2006",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Sobre la base de qué principio se crea según el Estatuto de Autonomía de la Comunitat Valenciana, el Fondo de Cooperación Municipal?",
+      "a": "Sobre el principio de cooperación.",
+      "b": "Sobre el principio de solidaridad.",
+      "c": "Sobre el principio de eficiencia.",
+      "d": "Sobre el principio de subsidiariedad.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "“Las entidades locales comprendidas en el territorio de la Comunitat Valenciana [...] con autonomía [...], de acuerdo con la Constitución Española y este Estatuto”. Seleccione las expresiones que aparecen literalmente en el texto legal.",
+      "a": "Gestiona; las competencias de que es titular.",
+      "b": "Administra; las competencias de que es titular.",
+      "c": "Administra; los asuntos propios.",
+      "d": "Organiza; sus competencias.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Las Diputaciones Provinciales serán expresión, dentro de la Comunitat Valenciana, de:",
+      "a": "“la autonomía provincial”",
+      "b": "“la realidad supramunicipal de los territorios valencianos”",
+      "c": "“las comarcas históricamente propias de la Comunitat Valenciana”",
+      "d": "Ninguna de las anteriores es correcta.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Cuál será el órgano deliberante y consultivo para determinar las bases y métodos que favorezcan las bases de participación entre los municipios y provincias?",
+      "a": "La Conselleria competente en matería de régimen local.",
+      "b": "La Comisión Mixta formada por la Federación Valenciana de Municipios y Provincias y las Diputaciones Provinciales.",
+      "c": "La Comisión Mixta formada por la Federación Española de Municipios y Provincias y la Generalitat.",
+      "d": "La Comisión Mixta formada por la Federación Valenciana de Municipios y Provincias y la Generalitat.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "La Ley 7/1985 de Bases de Régimen Local entra en vigor:",
+      "a": "4 abril 1985.",
+      "b": "1 enero 1985.",
+      "c": "31 enero 1985",
+      "d": "Ninguna de las anteriores respuestas es correcta.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Seleccione la oración incorrecta:",
+      "a": "En los municipios de >5.000 habitantes existirá Junta de Gobierno Local",
+      "b": "Los órganos que tengan por objeto el estudio, informe o consulta de los asuntos que han de ser sometidos a decisión del Pleno así como el seguimiento de la gestión del Alcalde, la Junta de Gobierno Local y los concejales que ostenten delegaciones salvo que la legislación autonómica prevea otra forma organizativa.",
+      "c": "La Comisión Especial de Cuentas existirá en aquellos municipios de más de 10.000 habitantes.",
+      "d": "La Comisión de Sugerencias y Reclamaciones existirá en los municipios de gran población y aquellos otros en que el Pleno así lo acuerde o así se disponga en el Reglamento Orgánico.l",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Presidir la Junta de Gobierno Local:",
+      "a": "Es una competencia no delegable del Alcalde.",
+      "b": "Es una competencia delegable del Alcalde.",
+      "c": "Es una competencia delegable únicamente en un Teniente de Alcalde.",
+      "d": "B y C son correctas.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "El otorgamiento de licencias:",
+      "a": "Es una competencia de la Junta de Gobierno Local.",
+      "b": "Es una competencia delegable del Alcalde.",
+      "c": "Es una competencia del Pleno delegable en el Alcalde. ",
+      "d": "Todas las anteriores son incorrectas.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "Las competencias del Pleno municipal se recogen en:",
+      "a": "Artículo 22 LBRL.",
+      "b": "Artículo 23 LBRL.",
+      "c": "Artículo 21 LBRL.",
+      "d": "Artículo 20 LBRL.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "La aprobación de los proyectos de obras y servicios no previstos en el Presupuesto:",
+      "a": "Es competencia del Pleno, delegable en el Alcalde o la Junta de Gobierno Local. Es competencia del Alcalde, no delegable.",
+      "b": "Es competencia del Alcalde, delegable en la Junta de Gobierno Local.",
+      "c": "Es competencia del Alcalde, delegable en el Pleno.",
+      "d": "El Ayuntamiento de Alicante consta de 29 concejales actualmente, ¿cuál será el número máximo de miembros de su Junta de Gobierno Local?:",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "El Ayuntamiento de Alicante consta de 29 concejales actualmente, ¿cuál será el número máximo de miembros de su Junta de Gobierno Local?:",
+      "a": 9,
+      "b": 10,
+      "c": 15,
+      "d": 8,
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Quién debe sustituir al Alcalde en caso de ausencia, vacante o enfermedad?:",
+      "a": "Los Tenientes de Alcalde.",
+      "b": "El Concejal con la delegación expresa que el Alcalde hubiera realizado a estos efectos.",
+      "c": "El Vicealcalde.",
+      "d": "Un miembro del Pleno nombrado por la Junta de Gobierno Local.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Escoja la opción correcta:",
+      "a": "Los municipios con menos de 20.000 habitantes deberán prestar el Servicio de Prevención y Extinción de incendios.",
+      "b": "Los municipios con población superior a 5.000 habitantes deberán prestar el servicio de pavimentación de vías públicas.",
+      "c": "La prevención y extinción de incendios es competencia propia del municipio.",
+      "d": "En los municipios con población inferior a 20.000 habitantes será la Diputación Provincial la encargada de coordinar la prestación del servicio de cementerio.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Los Consorcios podrán realizar actividades:",
+      "a": "De fomento, prestacionales o de gestión común de servicios públicos y cuantas otras estén previstas en las leyes.",
+      "b": "De fomento y de prestación del servicio de Prevención y Extinción de Incendios, únicamente.",
+      "c": "De obras públicas, fomento, prestación del Servicio de Prevención y Extinción de Incendios, riego de mancomunidades agrarias y las demás que le confieran las leyes estatales y autonómicas.",
+      "d": "Ninguna de las anteriores es correcta.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Cuál de los siguientes no es un criterio de los que establece la Ley 40/2015 para adscribir los Consorcios a las administraciones?",
+      "a": "Disponer de mayoría de votos en los órganos de gobierno.",
+      "b": "Tener facultades para nombrar o destituir a la mayoría de los miembros del personal directivo.",
+      "c": "Tener facultades para nombrar o destituir a la mayoría de los miembros de los órganos ejecutivos.",
+      "d": "Todos son correctos.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Los Consorcios se crean mediante:",
+      "a": "Convenio entre administraciones.",
+      "b": "Acuerdo entre administraciones.",
+      "c": "Decisión de una administración jerárquicamente superior sobre las entidades consorciadas.",
+      "d": "Ley estatal.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Las atribuciones de los diferentes órganos de gobierno se concretarán en:",
+      "a": "El Reglamento Orgánico Municipal.",
+      "b": "La legislación estatal y autonómica sobre régimen local.",
+      "c": "La legislación autonómica sobre régimen local.",
+      "d": "Todas son incorrectas.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Las competencias de los municipios en la Ley 8/2010 de la Generalitat se regulan en:",
+      "a": "El Capítulo IV del Título II.",
+      "b": "El Capítulo II del Título II.",
+      "c": "El Capítulo V del Título I.",
+      "d": "El Capítulo V del Título II.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Cuál de las siguientes disposiciones no figura como una de a las cuales se tiene que ajustar la organización municipal:",
+      "a": "Legislación básica de régimen local o sectorial.",
+      "b": "Las contenidas en la Ley 8/2010.",
+      "c": "Normas de organización y funcionamiento que adopten los ayuntamientos.",
+      "d": "Directivas europeas en materia de régimen local.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Una de las siguientes afirmaciones es incorrecta, especifique cual:",
+      "a": "El régimen de Gobierno y administración municipal en aquellos municipios que funcionen en Concejo Abierto se rigen por sus normas específicas.",
+      "b": "Los municipios de más de 20.000 habitantes deberán contar con un Reglamento Orgánico Municipal.",
+      "c": "El Consejo Territorial de Participación sólo podrá crearse en los casos en que un núcleo de población distinto del principal agrupen a más del 20% de la población municipal.",
+      "d": "Los municipios con población superior a 5.000 habitantes deberán prestar el servicio de biblioteca pública.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Quién designa al Defensor/a de los Vecinos?",
+      "a": "El Consejo Social o, en su defecto, el Pleno del Ayuntamiento.",
+      "b": "El Pleno.",
+      "c": "El Pleno o, en su defecto, la Comisión Especial de Sugerencias y Reclamaciones.",
+      "d": "Los habitantes del municipio.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "El Consejo Social es:",
+      "a": "Obligatorio en municipios de +5.000 habitantes.",
+      "b": "Opcional en los municipios de -5000 habitantes.",
+      "c": "Obligatorio en municipios de +10.000 habitantes.",
+      "d": "Opcional en los municipios de +5.000 habitantes.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿Cuál de los siguientes no es una competencia municipal de las enumeradas en la Ley 8/2010?",
+      "a": "Comercio local, mercados y venta no-sedentaria y defensa de los usuarios y consumidores.",
+      "b": "Cementerios y servicios funerarios.",
+      "c": "Patrimonio histórico-artístico.",
+      "d": "Montes y aprovechamientos forestales.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "La determinación del número, denominación y funciones de las comisiones municipales:",
+      "a": "Corresponde al Pleno, a propuesta del Alcalde.",
+      "b": "Corresponde al Alcalde, a propuesta del Pleno.",
+      "c": "Corresponde al Pleno.",
+      "d": "Corresponde al Alcalde.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Quién determina los estándares mínimos de calidad de los servicios mínimos?",
+      "a": "El Consell",
+      "b": "El Pleno",
+      "c": "Una Comisión compuesta por representantes de municipios, provincias y la Generalitat.",
+      "d": "Ninguna es correcta",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Escoja la oración correcta:",
+      "a": "“El ejercicio de las competencias establecidas en esta ley constituye un objetivo a cuya consecución se dirigirán preferentemente las funciones asistenciales y de cooperación municipal de las diputaciones provinciales.”",
+      "b": "“La prestación de los servicios mínimos establecidos en esta ley constituye un objetivo a cuya consecución se dirigirán preferentemente las funciones asistenciales y de cooperación municipal de las diputaciones provinciales.”",
+      "c": "“La prestación de los servicios mínimos establecidos en esta ley constituye un objetivo a cuya consecución se dirigirán preferentemente las funciones de coordinación y cooperación de las diputaciones provinciales.”",
+      "d": "Ninguna de las anteriores es correcta.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Puede el Pleno constituir comisiones municipales sin propuesta del Alcalde?",
+      "a": "Sí, pero de forma temporal y para cuestiones específicas.",
+      "b": "No, la propuesta del Alcalde es obligatoria.",
+      "c": "Sí, no es necesaria propuesta del Alcalde en ningún caso.",
+      "d": "El Pleno no tiene competencia para constituir comisión municipal alguna.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "El EBEP se aplica a:",
+      "a": "Funcionarios de carrera y personal laboral fijo.",
+      "b": "Funcionarios de carrera e interinos.",
+      "c": "Funcionarios de carrera, interinos y personal laboral fijo. ",
+      "d": "Personal funcionario y al personal laboral, en lo que proceda.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "El personal laboral podrá ser:",
+      "a": "Fijo o indefinido",
+      "b": "Temporal o idefinido",
+      "c": "Fijo, temporal o indefinido.",
+      "d": "Temporal, únicamente.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "El derecho a la adopción de medidas para la conciliación de la vida personal, laboral y familiar es un:",
+      "a": "Derecho individual de los funcionarios de carrera.",
+      "b": "Derecho individual ejercido de forma colectiva de los empleados públicos. ",
+      "c": "Derecho individual de los funcionarios de carrera y el personal laboral.",
+      "d": "Derecho individual de los empleados públicos.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Quienes ejerciten el derecho de huelga:",
+      "a": "Devengarán pero no cobrarán las retribuciones básicas, a modo de sanción.",
+      "b": "Ni devengarán ni cobrarán las retribuciones correspondientes, sin carácter sancionador.",
+      "c": "Sólo cobrarán las retribuciones complementarias, sin carácter sancionador.",
+      "d": "Cobrarán las retribuciones básicas y complementarias, pero el tiempo que se encuentren en esta situación no computará a efectos del Régimen de la Seguridad Social.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "48. ¿Cuál de estas no es una circunstancia de las tasadas para el nombramiento de funcionarios interinos?",
+      "a": "Cubrir vacantes cuando no sea posible su cobertura por funcionarios de carrera.",
+      "b": "Sustitución transitoria de los titulares.",
+      "c": "La ejecución de programas de carácter temporal.",
+      "d": "Todas son correctas.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿Cuál de estos no es un requisito a cumplir cuando se quiere promocionar mediante promoción interna vertical?",
+      "a": "Poseer los requisitos para el ingreso.",
+      "b": "Tener una antigüedad de mínimo 3 años de servicio activo en e inferior Subgrupo o Grupo.",
+      "c": "Superar las correspondientes pruebas selectivas.",
+      "d": "A y C son ciertas.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "“Procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o logro de resultados”",
+      "a": "Carrera profesional.",
+      "b": "Concurso-oposición.",
+      "c": "Evaluación del desempeño.",
+      "d": "Valoración del desempeño.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "“Retribuyen al funcionario según la adscripción de su cuerpo o escala a un determinado Subgrupo o grupo de clasificación profesional, y por su antigüedad en el mismo”:",
+      "a": "Retribuciones básicas.",
+      "b": "Retribuciones complementarias.",
+      "c": "Retribuciones diferidas.",
+      "d": "Ninguna es correcta",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Los Cuerpos y Escalas de funcionarios se crean, modifican y suprimen por:",
+      "a": "Ley Orgánica o Ley de las Comunidades Autónomas.",
+      "b": "Ley de las Cortes Generales o de las Asambleas Legislativas de las CCAA.",
+      "c": "Orden del Ministerio del Interior o del órgano análogo en las Comunidades Autónomas.",
+      "d": "Ninguna de las anteriores es correcta.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "Los principios éticos de los empleados públicos se regulan en:",
+      "a": "Artículo 53.",
+      "b": "Artículo 54.",
+      "c": "Artículo 55.",
+      "d": "Artículo 56.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "El permiso por adopción es de:",
+      "a": "16 semanas ininterrumpidas.",
+      "b": "14 semanas ininterrumpidas.",
+      "c": "12 semanas ininterrumpidas.",
+      "d": "18 semanas ininterrumpidas.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Cuál es el período de prescripción de las sanciones graves?",
+      "a": "3 años.",
+      "b": "2 años.",
+      "c": "1 año.",
+      "d": "18 meses.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Cuál es el tiempo mínimo que se debe estar en servicio activo antes de poder solicitar la excedencia voluntaria por interés particular?",
+      "a": "5 años inmediatamente anteriores",
+      "b": "4 años inmediatamente anteriores",
+      "c": "8 años inmediatamente anteriores",
+      "d": "2 años inmediatamente anteriores",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Actuar bajo los principios de jerarquía y subordinación es:",
+      "a": "Un principio básico de actuación en las relaciones con otras administraciones.",
+      "b": "Un principio básico de actuación en las relaciones internas del servicio.",
+      "c": "Un principio básico de actuación en las relaciones con la ciudadanía.",
+      "d": "Todas son ciertas.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "La creación y mantenimiento de los SPEIS corresponde a:",
+      "a": "Los municipios en todo caso.",
+      "b": "Las Diputaciones Provinciales.",
+      "c": "Al resultado de acuerdos entre administraciones locales y autonómicas.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Señale la opción correcta: “Los Bomberos voluntarios...”",
+      "a": "No necesitan ninguna acreditación del IVASPE.",
+      "b": "Deben firmar un contrato laboral a tiempo parcial.",
+      "c": "Su régimen se regulará por los municipios.",
+      "d": "Ninguna de las anteriores es correcta.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Dispensar de la prestación del servicio a aquellos municipios que lo soliciten, de conformidad con lo establecido en la legislación en materia de régimen local.",
+      "a": "Es competencia de las Diputaciones.",
+      "b": "Es competencia del Estado.",
+      "c": "Es competencia de la Generalitat.",
+      "d": "Es competencia de la Federación Española de Municipios y Provincias.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "“unidad funcional de coordinación entendida como un conjunto de parques y con un ámbito territorial que vendrá determinado en base a criterios técnicos con especial incidencia en aspectos poblacionales y de riesgo” según la Ley 7/2011 es:",
+      "a": "Parque",
+      "b": "Zona operativa",
+      "c": "Área operativa",
+      "d": "Ninguna es correcta",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "La Ley 7/2011 tiene por objeto:",
+      "a": "La regulación de los SPEIS a nivel nacional.",
+      "b": "La regulación de los SPEIS a nivel provincial.",
+      "c": "La regulación de los SPEIS a nivel autonómico.",
+      "d": "La regulación de los SPEIS a nivel municipal.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Para ser Inspector hacen falta como mínimo...",
+      "a": "Carné C+E y BTP",
+      "b": "Carné B y BTP",
+      "c": "Carné C y BTP",
+      "d": "Carné B.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "El documento de acreditación de Bombero tiene una validez de:",
+      "a": "Es vitalicio.",
+      "b": "5 años.",
+      "c": "10 años.",
+      "d": "4 años.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "Es personal empleado público el que desempeña:",
+      "a": "Funciones retribuidas al servicio de los intereses generales en las Administraciones Públicas.",
+      "b": "Funciones retribuidas y no retribuidas al servicio de las Administraciones Públicas",
+      "c": "Funciones retribuidas al servicio del interés común en las Administraciones Públicas.",
+      "d": "Ninguna de las anteriores es correcta.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Han de ser publicados en las ofertas públicas de empleo los puestos vacantes destinados a funcionarios de carrera desempeñados por interinos?",
+      "a": "No. En ningún caso.",
+      "b": "Sí, en el mismo ejercicio en que sea nombrado el interino y en el siguiente.",
+      "c": "Sí, en el ejercicio siguiente al que se produzca el nombramiento del interino.",
+      "d": "No, salvo decisión del Conseller o Consellera competente en materia de Función Pública.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Qué notas caracterizan la relación profesional entre la Administración Pública y el personal laboral fijo?",
+      "a": "Ajenidad, dependencia y voluntariedad.",
+      "b": "Publicidad, igualdad, mérito y capacidad.",
+      "c": "Ajenidad, dependencia, mérito y retribución.",
+      "d": "Ajenidad, dependencia, voluntariedad y retribución.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿Qué principios deben respetar los procedimientos de selección del personal laboral?",
+      "a": "Ajenidad, dependencia, voluntariedad y retribución. ",
+      "b": "Ajenidad, dependencia, voluntariedad y mérito.",
+      "c": "Publicidad, igualdad, mérito y capacidad.",
+      "d": "Ajenidad, independencia, mérito y publicidad.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Quiénes son, en todo caso, personal eventual según la LOGFPV?",
+      "a": "Los asesores jurídicos de los partidos políticos con representación parlamentaria.",
+      "b": "Los conductores al servicio directo de los miembros del Consell.",
+      "c": "Los conductores al servicio directo de los miembros del Consell y los Gobiernos Locales.",
+      "d": "Los conductores al servicio directo de los miembros del Consell, los gobiernos Locales y Diputados Provinciales.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Qué fin específico persigue el nombramiento del personal directivo público profesional?",
+      "a": "La puesta en marcha de proyectos, planes o programas concretos. de duración determinada.",
+      "b": "Aumentar la profesionalización de la Administración Pública valenciana.",
+      "c": "La formación del personal funcionario de carrera en altos cargos de la Administración Pública valenciana.",
+      "d": "Aumentar la eficiencia de la Administración Pública mediante la incorporación de sistemas propios de la empresa privada.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿En posesión de qué título se debe estar para acceder a un cuerpo o escala clasificado como Grupo C1?",
+      "a": "Título de técnico superior en formación profesional.",
+      "b": "Título de graduado en Educación Secundaria Obligatoria.",
+      "c": "Título de bachiller o técnico en formación profesional.",
+      "d": "Ningún título del sistema educativo.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Crea la LOGFPV algún cuerpo o escala?",
+      "a": "Sí. Los de la Administración de la Generalitat.",
+      "b": "Sí. Los de la Administración de la Generalitat, la Conselleria de Sanitat y la Conselleria de Educació.",
+      "c": "Sí. Los de la Administración de la Generalitat y la Conselleria de Sanitat.",
+      "d": "No, ninguno.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Cómo se clasifica el personal laboral al servicio de la Administración Pública?",
+      "a": "Mediante Cuerpos y Escalas, clasificados a su vez en Grupos y Subgrupos en función de la titulación exigida para su acceso.",
+      "b": "Mediante Sectores Profesionales, en función de la división profesional y funciones que ejerzan.",
+      "c": "De conformidad con lo establecido en su convenio colectivo de aplicación y la normativa laboral.",
+      "d": "",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "La clasificación de los puestos de trabajo es el sistema por el que se determina el contenido de éstos a efectos de:",
+      "a": "La selección de personal.",
+      "b": "La provisión de los puestos de trabajo.",
+      "c": "La determinación de las retribuciones complementarias.",
+      "d": "Todas son correctas.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Los puestos de trabajo con rango de subdirección general o jefatura de servicio podrán ser clasificados para su provisión:",
+      "a": "Por más de un cuerpo o escala de un subgrupo o grupo profesional y su inmediato superior o inferior.",
+      "b": "Por más de un cuerpo o escala de un subgrupo o grupo profesional.",
+      "c": "Por el cuerpo o escala que corresponda, únicamente.",
+      "d": "Por más de un cuerpo o escala de un subgrupo o grupo profesional y su inmediato superior.",
+      "correctAnswer": "b"
+    }
+  ]
+}

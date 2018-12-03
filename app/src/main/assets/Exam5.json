@@ -1,0 +1,332 @@
+{
+  "examName": "Construcción. Fisica aplicada a la edificacion",
+  "questionsList":[
+  {
+    "questionTxt": "Una fuerza es una magnitud:",
+    "a": "Escalar",
+    "b": "Vectorial",
+    "c": "Tensorial",
+    "d": "Ninguna es correcta",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Respecto al momento de una fuerza: a. Se mide en N.m",
+    "a": "Se mide en N.m",
+    "b": "Aumenta si aumenta la fuerza aplicada",
+    "c": "Aumenta si aumenta la distancia desde el eje hasta el punto de aplicación de la fuerza",
+    "d": "Todas las respuestas anteriores son correctas",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "El momento flector en el centro del vano de una viga biapoyada en sus extremos:",
+    "a": "Produce tracción en las fibras inferiores de la viga",
+    "b": "Produce tracción en las fibras superiores de la viga",
+    "c": "Es negativo",
+    "d": "B y C son correctas",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "Una elemento vertical sometido a grandes fuerzas de compresión:",
+    "a": "Puede romper por compresión",
+    "b": "Puede colapsar por pandeo",
+    "c": "Podría producirse en él un aplastamiento",
+    "d": "Todas las repuestas anteriores son correctas",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "Cuando hablamos de sobrecarga por nieve en una edificación nos referimos a una acción:",
+    "a": "Variable",
+    "b": "Permanente",
+    "c": "De uso",
+    "d": "Accidental",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "Calcula qué presión dinámica total soportará una fachada de 30m2 de superficie expuesta directamente al viento si este sopla a una velocidad de 20m.s-1, y la presión por m2 corresponde a la siguiente ecuación: qb = 0,5 x ƍ x vb2 (suponemos ƍ=1kg.m-3)",
+    "a": "6000 kN",
+    "b": "6kN",
+    "c": "6000N",
+    "d": "200N",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Cuando hablamos de la densidad relativa de un material:",
+    "a": "La densidad relativa expresa la relación entre la masa de una sustancia y el volumen de la misma",
+    "b": "Expresa la relación entre la masa de una sustancia y la masa del mismo volumen de agua",
+    "c": "Se mide en kg.m-3",
+    "d": "Se mide en kg.dm-3",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "¿Cuál de las siguientes ecuaciones respecto a los volúmenes de un sólido es correcta?",
+    "a": "Volumen aparente= Parte sólida + huecos totales",
+    "b": "Volumen real= Parte sólida + huecos totales",
+    "c": "Volumen relativo= Parte sólida + huecos totales",
+    "d": "Volumen aparente= Parte sólida – huecos abiertos",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "Una característica de la capilaridad es que:",
+    "a": "Los capilares de mayor sección presentan ascensiones mayores",
+    "b": "El líquido penetra en el interior del material y desciende por gravedad hasta su base",
+    "c": "Es que es la capacidad de que un líquido lo atraviese sin alterar su estructura interna",
+    "d": "El líquido penetra en el interior del material y asciende por los poros en contra de la gravedad",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "¿Cuál de las siguientes NO es una propiedad física de los materiales de construcción?",
+    "a": "Hidroscopicidad",
+    "b": "Capilaridad",
+    "c": "Heladicidad",
+    "d": "Conductividad térmica",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "Un ejemplo de material dúctil es:",
+    "a": "El hormigón",
+    "b": "El vidrio",
+    "c": "El diamante",
+    "d": "El acero",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "Un material que sometido a una solicitación mecánica exterior que lo deforma, esta es irreversible, es un material:",
+    "a": "Fragil",
+    "b": "Plastico",
+    "c": "Tenaz",
+    "d": "Elastico",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Atendiendo a su origen, los materiales pueden clasificarse en:",
+    "a": "Frágiles, tenaces y formáceos",
+    "b": "Compreso-resistentes, traccio-resistentes o adecuo-resistentes",
+    "c": "Naturales y organicos",
+    "d": "Inorgánicos, orgánicos o mixtos",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "¿Qué es el acero corten?",
+    "a": "Un tipo de acero cortado a láminas",
+    "b": "Un acero al que se le aplica una capa protectora de zinc o zinc-aluminio",
+    "c": "Acero con un contenido importante de cromo que lo protege contra la corrosión ",
+    "d": "Es una aleación de bajo contenido de carbono, con adición de níquel cobre y cromo expuesto a ciclos de humedad y sequedad.",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "Un betún:",
+    "a": "Está compuesto principalmente de carbono e hidrógeno",
+    "b": "Se considera una materia líquida y se suele transportar en caliente",
+    "c": "Para su transporte su código de peligro es el 99",
+    "d": "Todas las respuestas anteriores son correctas",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "Se considera un tipo de suelo fino:",
+    "a": "Gravas",
+    "b": "Arenas",
+    "c": "Limos y arcillas",
+    "d": "B y C son correctas",
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "Di cuál de los siguientes suelos es ideal para cimentar y por tanto, edificar sobre él:",
+    "a": "Suelo en terreno kárstico",
+    "b": "Suelo cohesivo",
+    "c": "Un relleno antrópico",
+    "d": "Suelo expansivo",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Una zapata combinada se utilizará:",
+    "a": "Cuando la capacidad portante del terreno sea pequeña",
+    "b": "Si existen varios pilares próximos entre sí",
+    "c": "Cuando el dimensionado dé lugar a zapatas muy cercanas entre sí, o solapadas",
+    "d": "Todas las respuestas anteriores son correctas",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "Respecto a la cimentación mediante LOSA de cimentación:",
+    "a": "Se suele utilizar cuando el área de una posible cimentación aislada cubre un alto porcentaje de la planta del edificio",
+    "b": "Se emplea siempre y cuando se esperen asientos pequeños o moderados",
+    "c": "No se emplea cuando hay sótanos",
+    "d": "Todas las respuestas anteriores son correctas",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "¿Cuál es la principal diferencia entre un “pilote por fuste” y un “pilote por punta o columna”?",
+    "a": "Por punta es un tipo de cimentación profunda y por fuste no",
+    "b": "Por fuste transmite las cargas al terreno por rozamiento y por apoyo no",
+    "c": "Por punta transmite las cargas al terreno por rozamiento y por apoyo no",
+    "d": "Ninguna de las respuestas anteriores es correcta",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "El intradós de un muro es:",
+    "a": "La cara que está en contacto con el terreno",
+    "b": "La parte interna del muro",
+    "c": "El lado que está hacia el interior de la edificación La coronación del muro",
+    "d": "La coronación del muro",
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "¿Cuál de los siguientes partes no corresponde a un muro?",
+    "a": "Puntera",
+    "b": "Talón",
+    "c": "Tacón",
+    "d": "Codo",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "Un conjunto de elementos estructurales verticales y horizontales que por adición generan la estructura de un edificio es:",
+    "a": "Una bóveda",
+    "b": "Una crujía",
+    "c": "Un dintel",
+    "d": "Un nudo",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "A igual sección tiene mayor resistencia un pilar:",
+    "a": "De acero",
+    "b": "De fábrica",
+    "c": "De mampostería",
+    "d": "Mixto hormigón-acero",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "Una jamba es:",
+    "a": "El conjunto de piezas que conforman el hueco de una ventana",
+    "b": "Plano que cierra el hueco de una ventana en la parte inferior",
+    "c": "Un animal de labranza",
+    "d": "El elemento vertical que delimita un hueco y soporta las cargas del dintel",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "¿Qué nombre recibe la pieza que se encuentra sobre la línea de arranque de un arco?",
+    "a": "Imposta",
+    "b": "Salmer",
+    "c": "Clave",
+    "d": "Dovela",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "¿Cuál de los siguientes elementos NO tiene solicitación a tracción?",
+    "a": "Tirante",
+    "b": "Cable",
+    "c": "Muro de carga",
+    "d": "Todos están solicitados a tracción",
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "De los siguientes elementos ¿Cuál NO corresponde a un forjado unidireccional?",
+    "a": "Cruceta de punzonamiento",
+    "b": "Bovedilla",
+    "c": "Mallazo de reparto",
+    "d": "Vigueta semiresistente de hormigón armado",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "De los siguientes elementos ¿Cuál NO corresponde a un forjado reticular?",
+    "a": "Casetones recuperables",
+    "b": "Capa de compresión",
+    "c": "Mallazo de reparto",
+    "d": "Vigueta semiresistente de hormigón armado",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "¿Qué es un brochal?",
+    "a": "Una viga perimetral",
+    "b": "Un vigueta pretensada en obra",
+    "c": "Una viga que apoya en otra",
+    "d": "Una pieza decorativa para una camisa",
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "En un pórtico de nudos rígidos se logra principalmente:",
+    "a": "Que todos los elementos trabajen por separado, absorbiendo cada uno un tipo de esfuerzo",
+    "b": "Que todos los elementos trabajen a flexión bajo la acción de las cargas verticales y horizontales",
+    "c": "Que la estructura realmente no sea prácticamente rígida",
+    "d": "Que ante cualquier esfuerzo la unión de las barras se rompa",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Una limatesa es un encuentro entre faldones de una cubierta correspondiente:",
+    "a": "A un ángulo saliente, posición convexa",
+    "b": "A un ángulo entrante, posición cóncava",
+    "c": "A un ángulo saliente, posición convexa",
+    "d": "A un ángulo entrante, posición convexa",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "Una cubierta no transitable:",
+    "a": "Está preparada para su uso y disfrute",
+    "b": "Se puede subir a ella para realizar labores de mantenimiento únicamente",
+    "c": "Recibe ese nombre por su fuerte pendiente",
+    "d": "No es transitable por la gran cantidad de obstáculos",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "En una cubierta invertida, el orden de construcción de sus elementos es el siguiente:",
+    "a": "Forjado, aislamiento térmico, lámina impermeable, acabado",
+    "b": "Forjado, formación de pendientes y acabado",
+    "c": "Forjado, formación de pendientes, lámina impermeable, aislamiento y acabado",
+    "d": "Forjado, formación de pendientes, impermeabilización y acabado de teja",
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "El pavimento flotante de una cubierta transitable:",
+    "a": "Puede estar flotando sobre una capa de agua que protege la cubierta",
+    "b": "Está colocado sobre unas piezas denominadas plots o sobre pegotes de mortero",
+    "c": "Se coloca sobre el aislamiento o la lámina impermeabilizante pegado con mortero",
+    "d": "Ha de quedar sin junta entre piezas",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Una cruz de San Andrés:",
+    "a": "Es un arriostramiento empleado únicamente en cubiertas",
+    "b": "Generalmente trabaja a tracción, aunque también podría hacerlo a compresión",
+    "c": "Son de madera",
+    "d": "Todas las respuestas anteriores son correctas",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Cuál de las siguientes afirmaciones respecto de la fachada ventilada, NO es correcta:",
+    "a": "Elimina la existencia de puentes térmicos",
+    "b": "Proporciona un buen aislamiento térmico y acústico",
+    "c": "Elimina las condensaciones entre la hoja exterior y la interior",
+    "d": "La hoja exterior soporta una estructura a la que se ancla la hoja interior",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "¿En una escalera, cómo denominamos a los planos horizontales intermedios entre tramos?",
+    "a": "Zancas",
+    "b": "Mesetas",
+    "c": "Descansillos",
+    "d": "Arranques",
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "La diferencia entre un escalera protegida y una especialmente protegida es:",
+    "a": "Cumplen las mismas condiciones a excepción de la resistencia de las puertas cortafuegos, en las especialmente protegidas es el doble.",
+    "b": "Son exactamente iguales según el CTE-DB SI",
+    "c": "Que la protegida posee vestíbulo de independencia y la especialmente protegida está abierta al exterior",
+    "d": "Ninguna es correcta",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "Si acudimos a una vivienda antigua en la que no apreciamos pilares:",
+    "a": "Es posible que esté hecha mediante un forjado reticular",
+    "b": "Seguramente estén embebidos en el interior de las paredes",
+    "c": "Lo más probable es que se sustente mediante muros de carga",
+    "d": "Es imposible que una vivienda no tenga pilares",
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "¿Qué es un cornijal?",
+    "a": "Un elemento horizontal que transmite las cargas entre muros enfrentados",
+    "b": "Un elemento vertical situado en el centro de un vano",
+    "c": "Un elemento inclinado rigidizador inclinado que acorta la luz de un vano",
+    "d": "Ninguna es correcta",
+    "correctAnswer": "d"
+  }
+]}

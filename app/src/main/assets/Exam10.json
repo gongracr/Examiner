@@ -1,0 +1,405 @@
+{
+  "examName": "Septiembre Alumnos 2",
+  "questionsList": [
+    {
+      "questionTxt": "Es la parte más alta del túnel. Es habitualmente curva, aunque será plana en túneles rectangulares:",
+      "a": "Gálibo.",
+      "b": "Clave.",
+      "c": "Dovela.",
+      "d": "Hastial.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "Establece la obligación de emplear señalización fotoluminiscente a lo largo de todo el recorrido del túnel:",
+      "a": "R.D. 625/2006.",
+      "b": "R.D. 635/2006.",
+      "c": "D. 625/2006.",
+      "d": "D. 635/2006.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Qué distancia debe haber entre accesos en un túnel que sea bidireccional, interurbano y sin retenciones?.",
+      "a": "250 metros.",
+      "b": "350 metros.",
+      "c": "400 metros.",
+      "d": "500 metros.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Cuándo se considera que un túnel interurbano tiene retenciones?",
+      "a": "Si se producen mas de 5 días al año.",
+      "b": "Si no dispone de control de accesos.",
+      "c": "Si no se producen más de 6 días al año y no dispone de control de accesos.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Indica de la respuesta incorrecta. Las salidas de emergencia de un túnel pueden ser:",
+      "a": "Salidas directas del túnel al exterior.",
+      "b": "Salida directa a un espacio interior seguro.",
+      "c": "Conexiones transversales entre tubos de túnel.",
+      "d": "Salida a galería de emergencia.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿En qué tipo de túneles debe existir un Plan de emergencias que contemple la evacuación?",
+      "a": "Es obligatorio para todo tipo de túneles.",
+      "b": "Es obligatorio para todo tipo de túneles excepto los túneles no urbanos de longitud inferior a 200 metros.",
+      "c": "Es obligatorio en todos los túneles que tenga retenciones.",
+      "d": "Es obligatorio para todos los túneles interurbanos con retenciones y longitud superior a 200 metros.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Cuál es el sistema más común para la distribución de voz y datos bajo tierra?",
+      "a": "TETRA.",
+      "b": "TETRAPOL.",
+      "c": "Cable radiante.",
+      "d": "Cable fibroláser.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Indica cual de los siguientes es un sistema de detección de incendios NO homologado.",
+      "a": "Análisis de imágenes CCTV.",
+      "b": "Variación de presión con tubo lleno de aire.",
+      "c": "Sensores de temperatura uniformemente distribuidos.",
+      "d": "Detección de gases de escape .",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Cuál es la temperatura de los gases a la que se determina que puede soportar un equipo de bomberos con el EPI urbano completo?",
+      "a": "75oC.",
+      "b": "85oC.",
+      "c": "100oC.",
+      "d": "120oC.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "El acceso de los efectivos de bomberos ante la intervención de un incendio de vehículo en un túnel se realizará, para garantizar una buena visibilidad y ausencia de otros problemas derivados de los gases de incendio:",
+      "a": "Aguas arriba.",
+      "b": "Aguas abajo.",
+      "c": "Indistintamente.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Qué artículo de la Ley 17/2015 hace referencia al voluntariado de Protección Civil?",
+      "a": "Artículo 7.",
+      "b": "Artículo 7 bis.",
+      "c": "Artículo 7 ter.",
+      "d": "Artículo 7 quáter.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Indica cual de las siguientes actividades preventivas no se incluye en el Fondo de Prevención de Emergencias:",
+      "a": "Análisis de peligrosidad, vulnerabilidad y riesgos.",
+      "b": "Mapas de riesgos de protección civil.",
+      "c": "Programas de formación para la prevención en establecimientos industriales.",
+      "d": "Todas son actividades preventivas del Fondo de Prevención.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Los daños materiales habrán de ser ciertos, evaluables económicamente y referidos a bienes que cuenten con la cobertura de un seguro:",
+      "a": "Públicos.",
+      "b": "Privados.",
+      "c": "Públicos o privados.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Qué tipos de estado regula la ley ordinaria 4/1981, de 1 de junio?",
+      "a": "Alarma y excepción.",
+      "b": "Sitio.",
+      "c": "A y b son correctas.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿Cuándo entró en vigor la ley 17/2015?",
+      "a": "El 10 de julio de 2015.",
+      "b": "El 10 de octubre de 2015.",
+      "c": "El 10 de enero de 2016.",
+      "d": "El 10 de julio de 2016.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Cuándo entró en vigor el RD 407/1992, por la que se aprueba la Norma Básica de Autoprotección Civil?",
+      "a": "24 de abril de 1992.",
+      "b": "1 de mayo de 1992.",
+      "c": "2 de Mayo de 1992.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿Quién aprueba los planes básicos y planes especiales de ámbito estatal según el RD 407/1992?",
+      "a": "El Gobierno.",
+      "b": "El Ministro del Interior.",
+      "c": "La Comisión Nacional de Protección Civil.",
+      "d": "La Comunidad Autónoma.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Cada Plan Territorial contemplará el establecimiento de un........donde se realice la dirección y coordinación de todas las operaciones",
+      "a": "CECOP.",
+      "b": "CECOPI.",
+      "c": "CCE.",
+      "d": "CECOPAL.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Tiene por objeto determinar los riesgos en un territorio basándose en las condiciones de vulnerabilidad y las posibles amenazas.",
+      "a": "Determinación.",
+      "b": "Anticipación.",
+      "c": "Análisis de riesgos.",
+      "d": "Análisis de vulnerabilidad.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Cada cuanto tiempo se revisará la Estrategia Nacional de Protección Civil?",
+      "a": "Al menos cada dos años.",
+      "b": "Al menos cada tres años.",
+      "c": "Al menos cada cuatro años.",
+      "d": "Todas son correctas.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Los establecimientos industriales se caracterizarán por:",
+      "a": "Configuración y ubicación.",
+      "b": "Nivel de riesgo intrínseco.",
+      "c": "A y b son correctas.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Qué tipo de establecimiento industrial es aquel el cual puede estar situado a una distancia igual o inferior a 3 metros de otro u otros edificios, ya sean de uso industrial o de otros usos?",
+      "a": "D.",
+      "b": "A.",
+      "c": "B.",
+      "d": "C.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Según el RSCIE, los edificios industriales contarán con instalación de alumbrado de emergencia de las vías de evacuación:",
+      "a": "Estén situados en planta sobre rasante.",
+      "b": "Estén situados en cualquier planta bajo rasante, cuando la ocupación, P, sea igual o mayor de 10 personas y sean de riesgo intrínseco medio o alto.",
+      "c": "En cualquier caso, cuando la ocupación P, sea igual o mayor de 25 personas.",
+      "d": "Cuando la carga de fuego ponderada sea superior a 2 millones de MJ.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Aprueba el reglamento de seguridad contra incendios en establecimientos industriales:",
+      "a": "D. 2267/2004, de 3 de diciembre.",
+      "b": "Ley orgánica 67/2004, de 3 de noviembre.",
+      "c": "R.D. 2267/2004, de 3 de diciembre.",
+      "d": "R.D.L 2267/2004, de 3 de noviembre.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Según el RSCIE, un sistema de rociador de agua se instalará cuando se desarrollen actividades de producción, montajes, transformación, reparación u otras distintas al almacenamiento si:",
+      "a": "Están ubicados en edificios de tipo A, nivel de riesgo intrínseco es medio y su superficie es de 500m2 o superior.",
+      "b": "Están ubicados en edificios de tipo B, nivel de riesgo intrínseco es medio y su superficie es de 1500m2 o superior.",
+      "c": "Están ubicados en edificios de tipo C, nivel de riesgo intrínseco es alto y su superficie es de 2500m2 o superior.",
+      "d": "Están ubicados en edificios de tipo D, nivel de riesgo intrínseco es alto y su superficie es de 3500m2 o superior.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Es el elemento que permite generar la mezcla de agua y agente emulsor:",
+      "a": "Proporcionador.",
+      "b": "Premezclador.",
+      "c": "Hidromezclador.",
+      "d": "Todas son correctas.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿Qué se entiende como gasto de agua?",
+      "a": "Gasto de agua dividido entre el tiempo de intervención.",
+      "b": "Volumen de agua empleado durante la intervención.",
+      "c": "Porcentaje de agua medido en lpm empleado en la extinción de un incendio.",
+      "d": "Gasto de agua multiplicado por el tiempo de la intervención.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Y por caudal crítico?",
+      "a": "Mínimo caudal disponible para extinguir un incendio.",
+      "b": "Caudal disponible para extinguir un incendio con el mínimo gasto de agua.",
+      "c": "Mínimo gasto de agua dividido entre el tiempo de intervención.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Indica la respuesta correcta en relación a las ventajas que ofrece la VPP ofensiva:",
+      "a": "Reduce la temperatura.",
+      "b": "Empeora la supervivencia de las víctimas.",
+      "c": "Empeora la visibilidad.",
+      "d": "Mayor cantidad de combustible.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Qué caudal máximo a 7 bares de presión soporta el sistema portátil PRO-PAK?",
+      "a": "30 LPM.",
+      "b": "45 LPM.",
+      "c": "60 LPM.",
+      "d": "100 LPM.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Qué artículo de la ley 13/2010 habla sobre los bomberos forestales?",
+      "a": 34,
+      "b": 35,
+      "c": 36,
+      "d": 37,
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Es el órgano superior de dirección y coordinación de la protección civil en la Comunitat Valenciana en el ámbito de sus competencias:",
+      "a": "La Conselleria competente en materia de protección civil y gestión de emergencias.",
+      "b": "La Agencia Valenciana de Seguridad y Respuesta a las Emergencias.",
+      "c": "El Consell.",
+      "d": "La Generalitat.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Quién es el encargado de elaborar y aprobar el Plan Territorial Municipal frente a Emergencias?",
+      "a": "La Comisión de Protección Civil de la Comunitat.",
+      "b": "La Comisión Nacional de Protección civil, previo informe de la conselleria competente en materia de protección civil y emergencias.",
+      "c": "El Consell.",
+      "d": "El municipio.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Para el ejercicio de las competencias y conformidad de la Comisión de Protección Civil de la Comunitat Valenciana, con lo dispuesto en la ley 7/1985, de 21 de enero, sobre protección civil, ¿que funciones ejercerá dicha Comisión?",
+      "a": "Participar en la coordinación de las acciones de los órganos relacionados con la protección civil.",
+      "b": "Homologar los planes municipales de protección civil.",
+      "c": "Informar de planes territoriales, especiales y protocolos operativos de la Comunitat.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "El servicio de atención sanitaria de emergencia se considera:",
+      "a": "Servicio esencial.",
+      "b": "Servicio complementario de intervención.",
+      "c": "Servicio sanitario esencial.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Es el instrumento básico que Bomberos pone a disposición de los ciudadanos para acceder a los servicios de urgencia y emergencia:",
+      "a": 112,
+      "b": "112 Comunitat Valenciana.",
+      "c": "112 Generalitat Valenciana.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Conjunto de personas que, libre y desinteresadamente, se incorporen a entidades públicas o privadas con ánimo de lucro cuyo fin sea la protección de las personas, los bienes y el medio ambiente, tanto en situaciones de grave riesgo, catástrofe y calamidad pública, como en accidentes graves y otras análogas:",
+      "a": "Voluntariado.",
+      "b": "Voluntariado de protección civil.",
+      "c": "Voluntario adscrito a la entidad a la que se incorpora.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿En qué tipo de empresas ejercerán sus funciones los llamados Bomberos de empresa?",
+      "a": "Públicas.",
+      "b": "Privadas.",
+      "c": "Públicas o privadas.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿A quién corresponde la aprobación del PTE?",
+      "a": "A la Conselleria competente en materia protección civil y gestión de emergencias.",
+      "b": "A la comisión nacional de protección civil.",
+      "c": "Al Consell.",
+      "d": "A la comisión de protección civil de Generalitat Valenciana.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Quién es el encargado de homologar los planes municipales de protección civil?",
+      "a": "La comisión de protección civil del propio municipio.",
+      "b": "La comisión de protección civil de la Comunitat Valenciana.",
+      "c": "La comisión nacional de protección civil.",
+      "d": "A y b son correctas",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Qué velocidad de propagación de llama alcanza una detonación?",
+      "a": "De 1000 a 1500 m/s.",
+      "b": "De 1500 a 2000 m/s.",
+      "c": "De 2000 a 2500 m/s.",
+      "d": "De 2500 a 3000 m/s.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿A que temperatura comienza por lo general el proceso de pirólisis en sólidos?",
+      "a": "Entre 100 y 250oC.",
+      "b": "Entre 150 y 250oC.",
+      "c": "Entre 150o y 300oC.",
+      "d": "Entre 100 y 300oC.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿En qué unidad medimos la tasa de calor?",
+      "a": "En julios o en watios.",
+      "b": "En julios/segundo o en watios.",
+      "c": "En julios o en watios/segundo.",
+      "d": "En julios.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Qué tipo de gas se produce por una combustión incompleta de lana, seda, nylon y poliuretano?",
+      "a": "CO",
+      "b": "NH3.",
+      "c": "HCL.",
+      "d": "HCN.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿A qué tipo de gas se le conoce como veneno de la sangre?",
+      "a": "CO.",
+      "b": "CO2.",
+      "c": "HCL",
+      "d": "Compuestos hidrocarbonados.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Cuál de los siguientes elementos se considera agente pasivo?",
+      "a": "CO2.",
+      "b": "Vapor de agua.",
+      "c": "Hollín.",
+      "d": "Todas son correctas.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Límite inferior de inflamabilidad del monóxido de carbono.",
+      "a": 2,
+      "b": 12,
+      "c": 15,
+      "d": 24,
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "Un aumento de temperatura de alrededor de 100oC es capaz de hacer aumentar o disminuir el L.I.I. y el L.S.I. en:",
+      "a": "8%.",
+      "b": "12%.",
+      "c": "17%.",
+      "d": "100%.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "De las siguientes características, indica la respuesta incorrecta:",
+      "a": "La espuma propaga los fuegos tipo B.",
+      "b": "La espuma es peligrosa en fuegos de metales.",
+      "c": "El agua puedes arrastrar contaminantes por escorrentía.",
+      "d": "El polvo seco no es recomendable en fuegos tipo A desarrollados en el interior de los materiales.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Qué caudal se debe seleccionar en la lanza para realizar un ataque exterior ofensivo por una abertura?",
+      "a": "Entre 120 y 250 lpm.",
+      "b": "Entre 150 y 300 lpm.",
+      "c": "Entre 175 y 300 lpm.",
+      "d": "Entre 200 y 300 lpm.",
+      "correctAnswer": "b"
+    }
+  ]
+}

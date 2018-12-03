@@ -1,0 +1,468 @@
+{
+  "examName": "Comunicaciones I",
+  "questionsList": [
+  {
+    "questionTxt": "La duración máxima para hablar una vez pulsado el PTT del walkie es de:",
+    "a": "10 segundos",
+    "b": "20 segundos",
+    "c": "1 minuto",
+    "d": "No tiene duración máxima",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "¿Cómo se denominan los tipos de terminales que hay?",
+    "a": "Móviles, Estacionarios y portátiles",
+    "b": "Estacionarios, Fijos y Móviles",
+    "c": "Movible,Manual y Estacionario",
+    "d": "Bases, Móviles y portátiles",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "Si estamos utilizando la misma frecuencia para transmitir y recibir de manera alternativa estamos utilizando:",
+    "a": "Duplex",
+    "b": "Simplex",
+    "c": "Semiduplex",
+    "d": "Ninguna es correcta",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Si estamos utilizando el grupo de red CBV-Z5 estamos trabajando en:",
+    "a": "Duplex",
+    "b": "Simplex",
+    "c": "Semiduplex",
+    "d": "Todas son correctas",
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "Si se utiliza dos frecuencias de radio estaremos hablando de un tipo de comunicación:",
+    "a": "Simplex",
+    "b": "Semiduplex",
+    "c": "B Y D son correctas",
+    "d": "Duplex",
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "Si estamos utilizando una frecuencia para transmitir y otra para recibir de manera simultanea estamos utilizando:",
+    "a": "Semiduplex",
+    "b": "Duplex",
+    "c": "Simplex",
+    "d": "A Y B son correctas",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Según Alfabeto Fonético internacional , la letra “O” se dirá:",
+    "a": "October",
+    "b": "Ostra",
+    "c": "Oscar",
+    "d": "O-ray",
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "Al transmitir por el wakie- Talkie se intentará mantener una distancia del micro a la boca de:",
+    "a": "20 centímetros",
+    "b": "5-10 centímetros",
+    "c": "1-5 centímetros",
+    "d": "No importa la distancia",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "La famosa y a la vez importante Regla de las tres “C” se expresa :",
+    "a": "Corto-comprensible-conciso",
+    "b": "Concreto-claro-conciso",
+    "c": "Corto-comprensible-concreto",
+    "d": "Corto-claro-conciso",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "¿Cuál de las siguientes no es una característica de la Red Comdes?",
+    "a": "Es una Red multiflota",
+    "b": "Puede hacer llamadas de Grupo,individuales, de emergencia incluso hacer una llamada de grupo e individual a la vez",
+    "c": "Soporta comunicaciones de voz y datos",
+    "d": "Asegura las llamadas de emergencia en caso de saturación de Red",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "¿ Cuál de los siguientes alcances de los tipos de terminales que hay es correcto?",
+    "a": "Un terminal móvil tiene un alcance de 15 W",
+    "b": "Un terminal portátil tiene un alcance de 5 W",
+    "c": "Un terminal portátil tiene un alcance de 1,8 W",
+    "d": "Ninguna es corrrecta",
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "¿Cuántos dígitos tiene el número ISSI?",
+    "a": 6,
+    "b": 7,
+    "c": 5,
+    "d": 3,
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Si vemos un terminal con un código ISSI: 182310, sabemos que:",
+    "a": "Es un equipo portátil ATEX",
+    "b": "Es un equipo portátil",
+    "c": "Es un equipo portátil de un voluntario",
+    "d": "Es un equipo móvil",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "Recibimos una llamada individual en nuestro walkie con un cogido ISSI: 1828110, podemos saber que:",
+    "a": "Es un equipo móvil",
+    "b": "Es un equipo portátil",
+    "c": "Es un equipo portátil ATEX",
+    "d": "Es un equipo portátil de un voluntario",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "¿ Cuáles son los dígitos del código ISSI que en la flota del CPBV son siempre comunes?",
+    "a": "Los 7 dígitos",
+    "b": "Los 3 primeros",
+    "c": "El 4 y 5 dígito",
+    "d": "Todas son correctas",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Si marcamos en un terminal móvil el número 21510 nos comunicaremos con:",
+    "a": "Con un terminal Móvil de un bombero",
+    "b": "Con un terminal portátil de un bombero",
+    "c": "Con un terminal portátil ATEX de un bombero",
+    "d": "Con un terminal portátil de un bombero volunario",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Si hablamos de un terminal SEPURA SRG 3500, será:",
+    "a": "Una estación base",
+    "b": "Un equipo móvil",
+    "c": "Un equipo portátil",
+    "d": "A Y B son correctas",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "La tecnología TETRA permite utilizar dos modos muy importantes en las comunicaciones, estos son el modo REPETIDOR Y PASARELA, estas funciones las podremos tener en:",
+    "a": "Tanto en el equipo portátil como móvil",
+    "b": "Solo en el equipo móvil y no en todos",
+    "c": "En la estación base ya que tiene más potencia",
+    "d": "Ninguna es correcta, el CPBV no tiene estos modos de comunicación",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "¿ Qué modo de comunicación tiene la peculiaridad de ampliar la cobertura y aislar las comunicaciones?",
+    "a": "Modo PASARELA",
+    "b": "Modo REPETIDOR",
+    "c": "Modo RED",
+    "d": "Modo DIRECTO",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "¿Con qué modo ( PASARELA O REPETIDOR) de comunicación queda totalmente la emisora inutilizada ?",
+    "a": "No puede quedarse ninguna emisora inutilizada",
+    "b": "Esto le pasaría tanto al modo pasarela como al modo repetidor,ya que la emisora móvil se queda esta en función.",
+    "c": "Solo le podría pasar al modo repetidor",
+    "d": "solo le podría pasar al modo pasarela",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "¿Cuál de los siguientes modos integra el modo RED y modo DIRECTO en la comunicación?",
+    "a": "Lo integran tanto el modo REPETIDOR como el modo PASARELA",
+    "b": "El modo REPETIDOR",
+    "c": "El modo PASARELA",
+    "d": "Ninguna es correcta, ninguno de los dos modos integran el modo RED y modo DIRECTO",
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "Según el temario del IVASPE, los terminales Fijos tienen una potencia de emisión:",
+    "a": "Máxima de 3 W",
+    "b": "Mínima de 3 W",
+    "c": "Máxima de 2 W",
+    "d": "Mínima de 2 W",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "¿Cuántos tipos de mensajes existen en la Red Comndes?",
+    "a": 3,
+    "b": 2,
+    "c": 4,
+    "d": 6,
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Cuál de las siguientes teclas tiene la función de “ zoom de pantalla”",
+    "a": 4,
+    "b": 0,
+    "c": 6,
+    "d": 9,
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "¿Cuál de las siguientes teclas del walkie podrá cambiar del modo directo al modo de red?",
+    "a": "“#”",
+    "b": 4,
+    "c": 0,
+    "d": 8,
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "¿ Con cuál de las siguientes teclas si estoy en el parque de Alzira, pulsándola me cambiará al grupo CBV-Z5",
+    "a": "“*”",
+    "b": 0,
+    "c": 4,
+    "d": "“#”",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "Si estamos trabajando en un servicio y no queremos que se pulse ninguna tecla para que no nos cambie de grupo, tendremos que pulsar:",
+    "a": "“ # “",
+    "b": 0,
+    "c": 9,
+    "d": "“ * “",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "Si pulsamos la tecla de bloqueo de pantalla, se anulan todas las funciones alfanuméricas,las de cambiar grupo y también subir el volumen a la emisora?",
+    "a": "Se pueden usar las funciones igual, no habría problema",
+    "b": "Se anulan todas las funciones alfanuméricas pero se puede subir y bajar volumen",
+    "c": "No,se podría cambiar de grupo",
+    "d": "Si, para eso esta esta función para que no se pulsen de forma involuntaria",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Cuando el C.C.C moviliza al parque oportuno por un siniestro, se lo comunicará en modo:",
+    "a": "En modo directo",
+    "b": "En modo Red",
+    "c": "En modo de emergencia",
+    "d": "A y B son correctas, lo comunicara por los dos modos",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "El C.C.C comunica la emergencia al parque:",
+    "a": "A través del grupo de radio Red de la zona",
+    "b": "A través del grupo de radio directo de la zona",
+    "c": "A traves de cuaqluier grupo ya sea CBV-Z0 A Z6, UBE-Z1V-Z6V,D-SEC 1V A 6V",
+    "d": "A y B son correctas",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "EL C.C.C moviliza al parque de Xativa porque hay un incendio de vivienda en centro urbano, ¿con qué grupo de radio lo movilizará?",
+    "a": "CBV-Z5",
+    "b": "D-SEC 5V",
+    "c": "UBE-Z5",
+    "d": "SECTOR – 5V",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "Las comunicaciones en el trayecto a un incendio en Sagunto entre las unidades y el C.C.C Se hace a través del:",
+    "a": "Grupo de red de la zona CBV-Z1",
+    "b": "Grupo directo de la zona D-SEC-1V",
+    "c": "Cualquier grupo de Red CBV-Z1-Z6",
+    "d": "Todas son correctas",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "Cuando nos referimos a TMO significa:",
+    "a": "Modo de Red",
+    "b": "Modo directo",
+    "c": "cualquier Modo",
+    "d": "Ninguna es correcta",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "Una vez en el lugar del servicio, ¿las unidades se podrán comunicar directamente con el CCC?",
+    "a": "Si,siempre estarán comunicados ya que es una función importante",
+    "b": "NO, en el lugar del servicio se comunicara el mando de la unidad con el CCC",
+    "c": "Se podrán comunicar tanto las unidades como el mando",
+    "d": "a y c son correctas",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Una vez en el servicio se comunicarán las unidades con el mando en:",
+    "a": "D-sec 1V-2V-3V...",
+    "b": "Sector 1V-2V-3V...",
+    "c": "CBV-Z1-Z2-Z3...",
+    "d": "UBE- Z1V-Z2V-Z3V",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "Según procedimiento interno del consorcio de valencia, ¿Quién comunicará la salida,llegada y retirada del servicio al CCC?",
+    "a": "El mando de la actuación",
+    "b": "Cada vehículo que salga al servicio",
+    "c": "El Jefe de parque",
+    "d": "El Sargento",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "¿ Según procedimiento de industria, Cuántos niveles de comunicaciones hay en un incendio de industria?",
+    "a": 6,
+    "b": 7,
+    "c": 3,
+    "d": 2,
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "Si hay un incendio en una nave industrial y se considera nivel 1 de comunicaciones, el grupo de trabajo que se utilizará será:",
+    "a": "D-sector 1-V",
+    "b": "Sector 1-V",
+    "c": "CBV-Z1",
+    "d": "A Y B son correctas",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "En comunicaciones si estamos haciendo una llamada de “punto a punto” estamos realizando:",
+    "a": "Una llamada individual",
+    "b": "Una llamada de grupo",
+    "c": "Una llamada de emergencia",
+    "d": "No existe este tipo de llamada",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "¿ y una llamada multipunto?",
+    "a": "Una llamada individual",
+    "b": "Una llamada de grupo",
+    "c": "Una llamada de emergencia",
+    "d": "No existe este tipo de llamada",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Para realizar una llamada de emergencia habrá que mantener pulsado el botón de emergencia durante:",
+    "a": "Más de 5 segundos",
+    "b": "Mas de 2 segundos",
+    "c": "Más de 3 segundos",
+    "d": "Con pulsarlo se realiza la llamada de emergencia",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "¿ Según fichas internas y protocolos del CBV, de qué color es el botón de emergencia?",
+    "a": "Rojo",
+    "b": "Naranja",
+    "c": "Negro",
+    "d": "Azul",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Al iniciar una comunicación vía radio siempre nombraremos en primer lugar................... Y posteriormente...........",
+    "a": "Nuestro identificativo-- diremos el mensaje",
+    "b": "Nuestro identificativo--- esperaremos el contacto del destinatario",
+    "c": "Destinatario del mensaje--- nos identificaremos",
+    "d": "Ninguna es correctas",
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "Si estamos en modo RED y pulsamos el botón de llamada de emergencia, ¿qué sucede?",
+    "a": "La llamada la recibirán todos los equipos que se encuentren cerca tuya",
+    "b": "La llamada la recibirán todos los equipos se encuentren cerca tuya y la recibirá el CCC ",
+    "c": "La llamada la recibe el CCC Y todos los equipos que se encuentren en el grupo de RED o e grupo DIRECTO",
+    "d": "La llamada la recibe el CCC y todos los equipos que se encuentren en el grupo de de la zona operativa",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "El terminal mostrará las coordenadas geográficas en;",
+    "a": "Grados y minutos decimales",
+    "b": "Minutos y segundos",
+    "c": "Minutos y segundos decimales",
+    "d": "Horas y minutos",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "En las tabletas del CPBV. ¿Cuántos niveles de precisión tiene?",
+    "a": 6,
+    "b": 7,
+    "c": 4,
+    "d": 2,
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "En la pantalla de las tablets los niveles de precisión vienen indicados en: ",
+    "a": "El ángulo superior derecho",
+    "b": "El centro de la pantalla",
+    "c": "El ángulo superior izquierdo",
+    "d": "El ángulo inferior,dependiendo del servicio estará en la parte izquierda o derecha",
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "En la aplicación del CBV, siempre será posible localizar el servicio:",
+    "a": "Esta afirmación es falsa",
+    "b": "Esta afirmación es verdadera",
+    "c": "Tiene una eficacia del 99 % o sea que la mayoría de veces localizará el servicio",
+    "d": "Todas son correctas",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "El nivel de precisión más exacto de las tablets del CBV es:",
+    "a": "Calle y portal",
+    "b": "Calle y número",
+    "c": "Objeto",
+    "d": "Municipio",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "El nivel de precisión menos exacto de las tablets del CBV es:",
+    "a": "Calle y número",
+    "b": "Calle",
+    "c": "Objeto",
+    "d": "Municipio",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "En comunicaciones utilizando COMDES, el grupo de mando es:",
+    "a": "1-GLOBAL",
+    "b": "Sector-7V",
+    "c": "PMA-3",
+    "d": "UBE-Z-1V",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "Si hay un servicio donde tienen que ir por delimitaciones el CBV Y el ayto de valencia en que grupo de comunicaciones trabajará:",
+    "a": "CBZ-Z0",
+    "b": "V01-112 AL V12-112",
+    "c": "1-GLOBAL",
+    "d": "D-SEC-7V",
+    "correctAnswer": "c"
+  },
+  {
+    "questionTxt": "¿Cuál de los siguientes grupos de comunicación no es de modo TMO ?",
+    "a": "D-SEC 1 V",
+    "b": "UBE-Z-1V",
+    "c": "SECTOR-1V",
+    "d": "SECTOR-7V",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "¿Cuál de los siguientes es un grupo de apoyo?",
+    "a": "UBE Z-1V",
+    "b": "SECTOR -1V",
+    "c": "SECTOR - 7V",
+    "d": "PMA- 1V",
+    "correctAnswer": "d"
+  },
+  {
+    "questionTxt": "En la carpeta “ EMERGEN-V” ¿ Qué grupo de comunicación de los siguientes se encuentra?",
+    "a": "CBV-Z0",
+    "b": "SECTOR 6-V",
+    "c": "1 - GLOBAL",
+    "d": "01- RSV",
+    "correctAnswer": "b"
+  },
+  {
+    "questionTxt": "En la carpeta “OPERATIVOS”,se encuentra el grupo de comunicación:",
+    "a": "CBV-Z0",
+    "b": "SECTOR 6-V",
+    "c": "1 - GLOBAL",
+    "d": "01- RSV",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "Si vemos un vehículo con una codificación 28061,¿ Qué tipo de vehículo es?",
+    "a": "UPC",
+    "b": "ABE/AEA",
+    "c": "BRP",
+    "d": "BUP",
+    "correctAnswer": "a"
+  },
+  {
+    "questionTxt": "¿Cuál sería el código de un vehículo UMC?",
+    "a": 28960,
+    "b": 28902,
+    "c": 28812,
+    "d": "No existe",
+    "correctAnswer": "b"
+  }
+]}

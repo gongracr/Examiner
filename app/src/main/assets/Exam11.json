@@ -1,0 +1,165 @@
+{
+  "examName": "Ayto. Valencia",
+  "questionsList": [
+    {
+      "questionTxt": "En esta zona se ubican el BUP y el FSV:",
+      "a": "Zona caliente.",
+      "b": "Zona templada.",
+      "c": "Zona fría.",
+      "d": "Zona mixta.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿A que distancia se colocan el BUP y el FSV de los vehículos accidentados?",
+      "a": "Entre 3 y 6 metros.",
+      "b": "Entre 5 y 8 metros.",
+      "c": "Entre 5 y 10 metros.",
+      "d": "Entre 7 y 12 metros.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Quién es el encargado de autorizar la entrada al interior del vehículo accidentado?",
+      "a": "El sargento.",
+      "b": "El cabo.",
+      "c": "El bombero 1.",
+      "d": "El sanitario del SAMU.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "En intervenciones con himenópteros, un servicio tipo 3 hace referencia a:",
+      "a": "Actuaciones con colonias de abejas establecidas.",
+      "b": "Actuaciones con enjambres de abejas.",
+      "c": "Actuaciones con enjambres de avispas.",
+      "d": "Actuaciones con insectos en general.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "En caso de picadura de abeja. ¿A quien se debe comunicar para el correspondiente parte de accidente de trabajo?",
+      "a": "Al servicio de salud más próximo.",
+      "b": "A la mutua que tenga concertada el servicio.",
+      "c": "A la subunidad laboral y asistencia sanitaria.",
+      "d": "Al servicio de ambulancias del Ayto de Valencia.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "El riesgo de trastornos músculo-esqueléticos lo podemos asociar a:",
+      "a": "Seguridad en el trabajo.",
+      "b": "Higiene industrial.",
+      "c": "Ergonomía.",
+      "d": "Psicosociología.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Quién será el encargado de la coordinación del grupo local Sanitario?",
+      "a": "El médico del servicio de Ambulancia del Ayto de Valencia.",
+      "b": "El médico del CICU.",
+      "c": "El responsable de mayor rango del CICU.",
+      "d": "El médico del equipo SAMU.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "¿Quién es el encargado de ejercer la dirección del PEIF?",
+      "a": "El alcalde del municipio afectado.",
+      "b": "El Conseller de la Conselleria competente en materia de protección civil y gestión de las emergencias.",
+      "c": "El mando de bomberos de mayor rango. ",
+      "d": "El director de la AVSRE.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Según el PEIF, ¿cómo se clasifican todos los incendios forestales inicialmente?",
+      "a": "Como situación 0.",
+      "b": "Como situación 1.",
+      "c": "Como situación 2.",
+      "d": "Como situación 3.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿cómo se denomina el lugar donde se realiza el checking a los bomberos y por donde deben pasar todos de forma obligatoria al entrar o salir de la zona caliente?",
+      "a": "Punto de control.",
+      "b": "Punto checking.",
+      "c": "Zona de control.",
+      "d": "Zaguán.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Encargado de constituir el PMA:",
+      "a": "Oficial.",
+      "b": "Inspector.",
+      "c": "Suboficial.",
+      "d": "Sargento.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "Indica cual de los siguientes EPI no llevará el BC en caso de un incendio en garaje o bajo comercial según el protocolo:",
+      "a": "Casco urbano.",
+      "b": "Botas.",
+      "c": "Guantes de faena.",
+      "d": "Casco F2.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "¿Qué se considera como un edificio de baja altura?",
+      "a": "Edificio de hasta 4 alturas.",
+      "b": "Edificio de hasta 5 alturas.",
+      "c": "Edificio de hasta 6 alturas.",
+      "d": "Cualquier edificio por debajo de 24 alturas.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Cuántas emisoras portará consigo el Sargento según el procedimiento de actuación en incendios en edificios de gran altura?",
+      "a": "Ninguna.",
+      "b": 1,
+      "c": 2,
+      "d": 3,
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Cuánto pesa la manguera GOMTEX HI-RISE 70M de alta resistencia?",
+      "a": "700 gr/m.",
+      "b": "800 gr/m.",
+      "c": "900 gr/m.",
+      "d": "950 gr/m.",
+      "correctAnswer": "b"
+    },
+    {
+      "questionTxt": "¿Qué podemos considerar como edificio de media altura?",
+      "a": "Edificios hasta 7 alturas.",
+      "b": "Edificios hasta 8 alturas.",
+      "c": "Edificios hasta 9 alturas.",
+      "d": "Edificios de más de 10 alturas.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Cuál será el nivel de mando mínimo en un incendio de vivienda en un EGA?",
+      "a": "Oficial.",
+      "b": "Inspector.",
+      "c": "Suboficial.",
+      "d": "Sargento.",
+      "correctAnswer": "c"
+    },
+    {
+      "questionTxt": "¿Qué vehículo es el encargado de actuar en un incendio de árboles?",
+      "a": "BUL.",
+      "b": "BUP.",
+      "c": "BUL + UEX.",
+      "d": "BUP + BNL.",
+      "correctAnswer": "a"
+    },
+    {
+      "questionTxt": "Las siglas BSA se corresponden con:",
+      "a": "Barco de salvamento acuático.",
+      "b": "Barca de salvamento acuático.",
+      "c": "Bote de salvamento acuático.",
+      "d": "Ninguna es correcta.",
+      "correctAnswer": "d"
+    },
+    {
+      "questionTxt": "Las siglas FEA hacen referencia a:",
+      "a": "Furgón de escalada.",
+      "b": "Furgón de espeleo.",
+      "c": "Furgón de reserva de aire.",
+      "d": "Furgón de equipo acuático.",
+      "correctAnswer": "d"
+    }
+  ]
+}
