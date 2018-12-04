@@ -3,6 +3,7 @@ package com.rudedroiddevs.examiner.utils
 import android.app.Activity
 import android.content.Context
 import android.content.Intent
+import android.content.SharedPreferences
 import android.os.Parcelable
 import android.view.LayoutInflater
 import android.view.View
@@ -12,6 +13,8 @@ import com.rudedroiddevs.examiner.pojomodel.Exam
 import kotlin.reflect.KClass
 
 const val NUM_EXAM = "exam_num"
+const val SHARED_PREFS = "shared_prefs"
+const val NUM_CORRECTIONS = "num_corrections"
 
 fun loadExams(context: Context): List<Exam> {
   val examsList = arrayListOf<Exam>()
@@ -31,6 +34,17 @@ fun loadExams(context: Context): List<Exam> {
 
 fun loadExam(context: Context, pos: Int): Exam? {
   return loadExams(context)[pos]
+}
+
+fun updateExamCorrected(exam: Exam, prefs: SharedPreferences): Int {
+  val numTimesCorrected = getTimesCorrected(exam, prefs) + 1
+  prefs.edit().putInt(SHARED_PREFS + "_" + exam.examName + NUM_CORRECTIONS,
+      numTimesCorrected).apply()
+  return numTimesCorrected
+}
+
+fun getTimesCorrected(exam: Exam, prefs: SharedPreferences): Int {
+  return prefs.getInt(SHARED_PREFS + "_" + exam.examName + NUM_CORRECTIONS, 0)
 }
 
 fun ViewGroup.inflate(@LayoutRes layoutRes: Int, attachToRoot: Boolean = false): View {

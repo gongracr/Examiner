@@ -9,4 +9,8 @@
   <string name="num_correct_answers">Num respuestas correctas:</string>
   <string name="num_wrong_answers">Num respuestas falladas:</string>
   <string name="num_empty_answers">Num respuestas en blanco:</string>
+  <string name="times_corrected">Num veces corregido:</string>
+  <string name="correct_answer">Corregir respuesta</string>
+  <string name="exit_dialog_title">Abandonar examen</string>
+  <string name="exit_dialog_body">Estás seguro de que quieres abandonar este examen?</string>
 </resources>

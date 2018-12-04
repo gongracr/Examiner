@@ -12,14 +12,19 @@
       android:supportsRtl="true"
       android:theme="@style/AppTheme"
       tools:ignore="GoogleAppIndexingWarning">
-    <activity android:name=".examsListScreen.view.ExamsListActivity">
+    <activity
+        android:name=".examsListScreen.view.ExamsListActivity"
+        android:screenOrientation="portrait"
+        android:launchMode="singleInstance">
       <intent-filter>
         <action android:name="android.intent.action.MAIN"/>
 
         <category android:name="android.intent.category.LAUNCHER"/>
       </intent-filter>
     </activity>
-    <activity android:name=".examScreen.view.ExamActivity"/>
+    <activity
+        android:name=".examScreen.view.ExamActivity"
+        android:screenOrientation="portrait"/>
   </application>
 
 </manifest>

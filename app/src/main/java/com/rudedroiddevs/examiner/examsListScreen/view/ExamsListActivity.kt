@@ -1,5 +1,6 @@
 package com.rudedroiddevs.examiner.examsListScreen.view
 
+import android.content.Context
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -16,32 +17,31 @@ import com.rudedroiddevs.examiner.examsListScreen.dagger.ExamsListScreenModule
 import com.rudedroiddevs.examiner.examsListScreen.model.ExamsListModel
 import com.rudedroiddevs.examiner.examsListScreen.presenter.ExamsListPresenter
 import com.rudedroiddevs.examiner.utils.NUM_EXAM
+import com.rudedroiddevs.examiner.utils.SharedPrefsUtils
 import com.rudedroiddevs.examiner.utils.gotoActivity
 import kotlinx.android.synthetic.main.activity_exams_list.*
+import kotlinx.android.synthetic.main.activity_exams_list.view.*
 import kotlinx.android.synthetic.main.fragment_exams_list.view.*
 import javax.inject.Inject
 
 class ExamsListActivity : BaseActivity(), ExamsListScreenView {
   @Inject
   lateinit var examsPresenter: ExamsListPresenter
-  lateinit var mainFragment: PlaceholderFragment
-  private var mSectionsPagerAdapter: SectionsPagerAdapter? = null
+  lateinit var examsAdapter: ExamsRecyclerAdapter
 
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
     setContentView(R.layout.activity_exams_list)
     injectDependencies()
 
-    mSectionsPagerAdapter = SectionsPagerAdapter(supportFragmentManager)
-    container.adapter = mSectionsPagerAdapter
-//
-//    container.addOnPageChangeListener(TabLayout.TabLayoutOnPageChangeListener(tabs))
-//    tabs.addOnTabSelectedListener(TabLayout.ViewPagerOnTabSelectedListener(container))
-//
-//    fab.setOnClickListener { view ->
-//      Snackbar.make(view, "La respuesta correcta es ", Snackbar.LENGTH_LONG)
-//          .setAction("Action", null).show()
-//    }
+    val linearLayoutManager = LinearLayoutManager(this)
+    examsAdapter = ExamsRecyclerAdapter(emptyList())
+    examsAdapter.clickOnExamlistener = { pos ->
+      examsPresenter.onExamClicked(pos)
+    }
+    recyclerView.adapter = examsAdapter
+    recyclerView.layoutManager = linearLayoutManager
+    examsPresenter.viewCreated(this)
   }
 
   override fun onDestroy() {
@@ -49,56 +49,11 @@ class ExamsListActivity : BaseActivity(), ExamsListScreenView {
     examsPresenter.viewDestroyed()
   }
 
-  inner class SectionsPagerAdapter(fm: FragmentManager) : FragmentPagerAdapter(fm) {
-
-    override fun getItem(position: Int): PlaceholderFragment {
-      mainFragment = PlaceholderFragment.newInstance(position + 1)
-      mainFragment.presenter = examsPresenter
-      return mainFragment
-    }
-
-    override fun getCount(): Int {
-      return 1
-    }
+  override fun onResume() {
+    super.onResume()
+    examsPresenter.viewResumed(this)
   }
 
-  class PlaceholderFragment : Fragment() {
-    lateinit var presenter: ExamsListPresenter
-
-    companion object {
-      private const val ARG_SECTION_NUMBER = "section_number"
-
-      fun newInstance(sectionNumber: Int): PlaceholderFragment {
-        val fragment = PlaceholderFragment()
-        val args = Bundle()
-        args.putInt(ARG_SECTION_NUMBER, sectionNumber)
-        fragment.arguments = args
-        return fragment
-      }
-    }
-
-    var fragmentPos = -1
-
-    lateinit var examsAdapter: ExamsRecyclerAdapter
-
-    private lateinit var linearLayoutManager: LinearLayoutManager
-    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
-        savedInstanceState: Bundle?): View? {
-      val rootView = inflater.inflate(
-          R.layout.fragment_exams_list, container, false)
-      linearLayoutManager = LinearLayoutManager(activity)
-
-      fragmentPos = arguments?.getInt(ARG_SECTION_NUMBER)!!
-      examsAdapter = ExamsRecyclerAdapter(emptyList())
-      examsAdapter.clickOnExamlistener = { pos ->
-        presenter.onExamClicked(pos)
-      }
-      rootView?.recyclerView?.adapter = examsAdapter
-      rootView?.recyclerView?.layoutManager = linearLayoutManager
-      presenter.viewCreated()
-      return rootView
-    }
-  }
 
   private fun injectDependencies() {
     DaggerExamsListScreenComponent.builder()
@@ -109,8 +64,8 @@ class ExamsListActivity : BaseActivity(), ExamsListScreenView {
   }
 
   override fun displayExamListModel(examsListModel: ExamsListModel) {
-    mainFragment.examsAdapter.examTitles = examsListModel.examsTitles
-    mainFragment.examsAdapter.notifyDataSetChanged()
+    examsAdapter.examTitles = examsListModel.examsTitles
+    examsAdapter.notifyDataSetChanged()
   }
 
   override fun goToExamActivity(pos: Int) {

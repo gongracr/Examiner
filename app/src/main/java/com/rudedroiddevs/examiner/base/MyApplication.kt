@@ -16,5 +16,11 @@ class MyApplication : Application() {
   override fun onCreate() {
     super.onCreate()
     applicationComponent.inject(this)
+    instance = this
+  }
+
+  companion object {
+    lateinit var instance: MyApplication
+      private set
   }
 }

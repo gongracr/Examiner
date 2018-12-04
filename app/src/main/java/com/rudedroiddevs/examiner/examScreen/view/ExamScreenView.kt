@@ -6,5 +6,9 @@ interface ExamScreenView {
 
   fun displayExamModel(examModel: ExamModel)
 
-  fun showCorrectedExam(totalCorrect: Int, totalWrong: Int, totalEmpty: Int)
+  fun showCorrectedExam(totalCorrect: Int, totalWrong: Int, totalEmpty: Int, numCorrectedTimes: Int)
+
+  fun showExitDialog()
+
+  fun goToExamsListActivity()
 }

@@ -1,9 +1,11 @@
 package com.rudedroiddevs.examiner.examsListScreen.presenter
 
+import android.content.Context
 import android.util.Log
 import com.rudedroiddevs.examiner.examsListScreen.interactor.ExamsListScreenInteractor
 import com.rudedroiddevs.examiner.examsListScreen.mapper.ExamsListModelMapper
 import com.rudedroiddevs.examiner.examsListScreen.view.ExamsListScreenView
+import com.rudedroiddevs.examiner.utils.SharedPrefsUtils
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.schedulers.Schedulers
@@ -20,11 +22,17 @@ class ExamsListPresenterImpl @Inject constructor(
 
   private val disposables = CompositeDisposable()
 
-  override fun viewCreated() {
+  override fun viewCreated(context: Context) {
+    if (SharedPrefsUtils.loadPendingExam(context) != null)
+      examsListScreenView.goToExamActivity(0)
+  }
+
+  override fun viewResumed(context: Context) {
     subscribeExamsEvents()
   }
 
   override fun viewDestroyed() {
+
     disposables.dispose()
   }
 

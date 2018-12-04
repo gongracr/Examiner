@@ -1,13 +1,22 @@
 package com.rudedroiddevs.examiner.examScreen.presenter
 
-import android.app.Activity
+import android.content.Context
+import com.rudedroiddevs.examiner.examScreen.view.ExamActivity
 
 interface ExamPresenter {
 
-  fun viewCreated(activity: Activity)
+  fun viewCreated(context: Context, examPosition: Int)
 
-  fun viewDestroyed()
+  fun viewDestroyed(context: Context)
 
-  fun onCorrectExamClicked()
+  fun onCorrectExamClicked(context: Context)
+
+  fun onAnswerSelected()
+
+  fun onBackPressed(context: Context)
+
+  fun onAbandonExamClicked(context: Context)
+
+  fun viewPaused(context: Context)
 
 }
